@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<campaign name = "My First Campaign" version = "1">
+	<Scenario dispName = "Video C1" filename = "adria\01_central_deserts_conquest.scn" BackgroundSet = "Atlantis">AAAAAAAAA</Scenario>
+
+	<Scenario dispName = "Video C1" filename = "adria\02_defense_of_invaders.scn" BackgroundSet = "Atlantis">BBBBBBBBBBBBBB</Scenario>
+
+	<Scenario dispName = "Video C1" filename = "adria\03_savannahs_battle.scn" BackgroundSet = "Atlantis">CCCCCCCCCCCCCCC</Scenario>
+
+	<Scenario dispName = "Video C1" filename = "adria\04_rocks_valleys_campaign.scn" BackgroundSet = "Atlantis">DDDDDDDDDDDDDDD</Scenario>
+
+	<Scenario dispName = "Video C1" filename = "adria\05_cyclops_attack.scn" BackgroundSet = "Atlantis">EEEEEEEEEEEEEE</Scenario>			
+
+</campaign>

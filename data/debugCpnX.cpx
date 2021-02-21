@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<campaign name = "Debug Campaign" version = "1">
+	<Scenario dispName = "Debug Quest 01" filename = "debug\debug1.scx" BackgroundSet = "Atlantis">Quest Description 01</Scenario>
+
+	<Scenario dispName = "Debug Quest 02" filename = "debug\debug2.scx" BackgroundSet = "Atlantis">Quest Description 02</Scenario>
+
+	<Scenario dispName = "Debug Quest 03" filename = "debug\debug3.scx" BackgroundSet = "Atlantis">Quest Description 03</Scenario>
+
+	<Scenario dispName = "Debug Quest 04" filename = "debug\debug4.scx" BackgroundSet = "Atlantis">Quest Description 04</Scenario>
+
+	<Scenario dispName = "Debug Quest 05" filename = "debug\debug4.scx" BackgroundSet = "Atlantis">Quest Description 05</Scenario>			
+
+</campaign>
