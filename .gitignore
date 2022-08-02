@@ -9,6 +9,7 @@ anim/
 avi/
 cameratracks/
 certificates/
+# Campaigns definitions
 # data/
 data-dev/
 dlc-frontend/
@@ -24,8 +25,10 @@ models/
 modelsfx/
 mods/
 ppdata/
+# Random maps
 # rm2/
 savegame/
+# Campaigns binaries
 # scenario/
 Screenshots/
 shaders/
@@ -33,7 +36,8 @@ sound/
 startup/
 steam/
 textures/
-tools/
+# tools I developed
+# tools/
 trigger2/
 twitchdll/
 Users/
@@ -362,3 +366,11 @@ _all_units.scx
 ~aom_pgs_water.scn
 ~aom_pgs_water.scx
 
+
+# tools/
+TextureCompiler_v2/
+TextureCompiler.exe
+TextureExtractor.exe
+
+# new textures
+!textures/adria/

@@ -1,8 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<campaign name="Adria" version="2">
-	<Scenario dispName = "Central Desert's Conquest" filename = "adria\01_central_deserts_conquest_v2.scx" BackgroundSet = "Atlantis">In the lost continent of Ardia, the Norse Kingdom is being attacked by the Bedouin's Kingdom. You will need to protect their homeland from the desert invaders, and build an Empire!</Scenario>
-	<Scenario dispName = "Defense Against Invaders" filename = "adria\02_defense_against_invaders_v2.scx" BackgroundSet = "Atlantis">Now the Bedouins Kingdom is subjugated to the new Norse Empire. But once your fontiers have expanded, you also have new enemies. Meet the Troll and Warejackals races on the battlefield.</Scenario>
-	<Scenario dispName = "Savannah's Open Battle" filename = "adria\03_savannahs_battle_v3.scx" BackgroundSet = "Atlantis">You have conquered the northern Werejackals villagers, and now you have settled your army next to the Werejackal Kingdom Capital. Prepare for battle, and assaut the City!</Scenario>
-	<Scenario dispName = "Rocks Valley's Campaign" filename = "adria\04_rocks_valleys_campaign_v3.scx" BackgroundSet = "Atlantis">You started a Campaign on the homeland of the Trolls: the Rock Valley, on the western foots of the RedBlack Montains. This is a could and misterious land, inhabited by wild monsters.</Scenario>
-	<Scenario dispName = "Cyclops Attack" filename = "adria\05_cyclops_attack_v4.scx" BackgroundSet = "Atlantis">The Cyclops, rivals of the Werejackals have declared war against your Empire. Defend the Werejacka's Capital, and subjugate the last rebel kingdom from Ardia. At the same time, the Helenic people, from the Palm Island have sided with you in this war.</Scenario>		
+<campaign name="Lost Continent of Adria" version="3">
+	<BackgroundSet name = "Adria">
+		<Image pos = "1">adria\map-row-1-column-1.ddt</Image>
+		<Image pos = "2">adria\map-row-1-column-2.ddt</Image>
+		<Image pos = "3">adria\map-row-1-column-3.ddt</Image>
+		<Image pos = "4">adria\map-row-1-column-4.ddt</Image>
+		<Image pos = "5">adria\map-row-2-column-1.ddt</Image>
+		<Image pos = "6">adria\map-row-2-column-2.ddt</Image>
+		<Image pos = "7">adria\map-row-2-column-3.ddt</Image>
+		<Image pos = "8">adria\map-row-2-column-4.ddt</Image>
+		<Image pos = "9">adria\map-row-3-column-1.ddt</Image>
+		<Image pos = "10">adria\map-row-3-column-2.ddt</Image>
+		<Image pos = "11">adria\map-row-3-column-3.ddt</Image>
+		<Image pos = "12">adria\map-row-3-column-4.ddt</Image>
+	</BackgroundSet> 
+	<BackgroundSet name = "Adria1">
+		<Image pos = "1">adria\map1-row-1-column-1.ddt</Image>
+		<Image pos = "2">adria\map1-row-1-column-2.ddt</Image>
+		<Image pos = "3">adria\map1-row-1-column-3.ddt</Image>
+		<Image pos = "4">adria\map1-row-1-column-4.ddt</Image>
+		<Image pos = "5">adria\map1-row-2-column-1.ddt</Image>
+		<Image pos = "6">adria\map1-row-2-column-2.ddt</Image>
+		<Image pos = "7">adria\map1-row-2-column-3.ddt</Image>
+		<Image pos = "8">adria\map1-row-2-column-4.ddt</Image>
+		<Image pos = "9">adria\map1-row-3-column-1.ddt</Image>
+		<Image pos = "10">adria\map1-row-3-column-2.ddt</Image>
+		<Image pos = "11">adria\map1-row-3-column-3.ddt</Image>
+		<Image pos = "12">adria\map1-row-3-column-4.ddt</Image>
+	</BackgroundSet> 
+	<BackgroundSet name = "Adria2">
+		<Image pos = "1">adria\map2-row-1-column-1.ddt</Image>
+		<Image pos = "2">adria\map2-row-1-column-2.ddt</Image>
+		<Image pos = "3">adria\map2-row-1-column-3.ddt</Image>
+		<Image pos = "4">adria\map2-row-1-column-4.ddt</Image>
+		<Image pos = "5">adria\map2-row-2-column-1.ddt</Image>
+		<Image pos = "6">adria\map2-row-2-column-2.ddt</Image>
+		<Image pos = "7">adria\map2-row-2-column-3.ddt</Image>
+		<Image pos = "8">adria\map2-row-2-column-4.ddt</Image>
+		<Image pos = "9">adria\map2-row-3-column-1.ddt</Image>
+		<Image pos = "10">adria\map2-row-3-column-2.ddt</Image>
+		<Image pos = "11">adria\map2-row-3-column-3.ddt</Image>
+		<Image pos = "12">adria\map2-row-3-column-4.ddt</Image>
+	</BackgroundSet> 
+	<BackgroundSet name = "Adria3">
+		<Image pos = "1">adria\map3-row-1-column-1.ddt</Image>
+		<Image pos = "2">adria\map3-row-1-column-2.ddt</Image>
+		<Image pos = "3">adria\map3-row-1-column-3.ddt</Image>
+		<Image pos = "4">adria\map3-row-1-column-4.ddt</Image>
+		<Image pos = "5">adria\map3-row-2-column-1.ddt</Image>
+		<Image pos = "6">adria\map3-row-2-column-2.ddt</Image>
+		<Image pos = "7">adria\map3-row-2-column-3.ddt</Image>
+		<Image pos = "8">adria\map3-row-2-column-4.ddt</Image>
+		<Image pos = "9">adria\map3-row-3-column-1.ddt</Image>
+		<Image pos = "10">adria\map3-row-3-column-2.ddt</Image>
+		<Image pos = "11">adria\map3-row-3-column-3.ddt</Image>
+		<Image pos = "12">adria\map3-row-3-column-4.ddt</Image>
+	</BackgroundSet>
+	<BackgroundSet name = "Adria4">
+		<Image pos = "1">adria\map4-row-1-column-1.ddt</Image>
+		<Image pos = "2">adria\map4-row-1-column-2.ddt</Image>
+		<Image pos = "3">adria\map4-row-1-column-3.ddt</Image>
+		<Image pos = "4">adria\map4-row-1-column-4.ddt</Image>
+		<Image pos = "5">adria\map4-row-2-column-1.ddt</Image>
+		<Image pos = "6">adria\map4-row-2-column-2.ddt</Image>
+		<Image pos = "7">adria\map4-row-2-column-3.ddt</Image>
+		<Image pos = "8">adria\map4-row-2-column-4.ddt</Image>
+		<Image pos = "9">adria\map4-row-3-column-1.ddt</Image>
+		<Image pos = "10">adria\map4-row-3-column-2.ddt</Image>
+		<Image pos = "11">adria\map4-row-3-column-3.ddt</Image>
+		<Image pos = "12">adria\map4-row-3-column-4.ddt</Image>
+	</BackgroundSet> 
+	<BackgroundSet name = "Adria5">
+		<Image pos = "1">adria\map5-row-1-column-1.ddt</Image>
+		<Image pos = "2">adria\map5-row-1-column-2.ddt</Image>
+		<Image pos = "3">adria\map5-row-1-column-3.ddt</Image>
+		<Image pos = "4">adria\map5-row-1-column-4.ddt</Image>
+		<Image pos = "5">adria\map5-row-2-column-1.ddt</Image>
+		<Image pos = "6">adria\map5-row-2-column-2.ddt</Image>
+		<Image pos = "7">adria\map5-row-2-column-3.ddt</Image>
+		<Image pos = "8">adria\map5-row-2-column-4.ddt</Image>
+		<Image pos = "9">adria\map5-row-3-column-1.ddt</Image>
+		<Image pos = "10">adria\map5-row-3-column-2.ddt</Image>
+		<Image pos = "11">adria\map5-row-3-column-3.ddt</Image>
+		<Image pos = "12">adria\map5-row-3-column-4.ddt</Image>
+	</BackgroundSet> 		
+	<Scenario dispName = "Central Desert's Conquest" filename = "adria\01_central_deserts_conquest_v2.scx" BackgroundSet = "Adria1">In the lost continent of Ardia, the Norse Kingdom is being attacked by the Bedouin's Kingdom. You will need to protect their homeland from the desert invaders, and build an Empire!</Scenario>
+	<Scenario dispName = "Defense Against Invaders" filename = "adria\02_defense_against_invaders_v2.scx" BackgroundSet = "Adria2">Now the Bedouins Kingdom is subjugated to the new Norse Empire. But once your fontiers have expanded, you also have new enemies. Meet the Troll and Warejackals races on the battlefield.</Scenario>
+	<Scenario dispName = "Savannah's Open Battle" filename = "adria\03_savannahs_battle_v3.scx" BackgroundSet = "Adria3">You have conquered the northern Werejackals villagers, and now you have settled your army next to the Werejackal Kingdom Capital. Prepare for battle, and assaut the City!</Scenario>
+	<Scenario dispName = "Rocks Valley's Campaign" filename = "adria\04_rocks_valleys_campaign_v3.scx" BackgroundSet = "Adria4">You started a Campaign on the homeland of the Trolls: the Rock Valley, on the western foots of the Red-Black Montains. This is a could and misterious land, inhabited by wild monsters.</Scenario>
+	<Scenario dispName = "Cyclops Attack" filename = "adria\05_cyclops_attack_v5.scx" BackgroundSet = "Adria5">The Cyclops declared war against your Empire. Defend the Werejacka's Capital, and subjugate the last rebel kingdom from Ardia. The Creatans from the Palm Island have joined your Empire, and are going to help you in this battle!</Scenario>		
 </campaign>
