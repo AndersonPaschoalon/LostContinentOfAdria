@@ -372,5 +372,3630 @@ TextureCompiler_v2/
 TextureCompiler.exe
 TextureExtractor.exe
 
-# new textures
-!textures/adria
+# ignore game textures
+textures/cursors/
+textures/icons/
+textures/terrain/
+textures/ui/
+textures/_missingtexture.ddt
+textures/agamemnon\ map.ddt
+textures/alfred.btx
+textures/alfred_crown.btx
+textures/animal\ aurochs\ map.ddt
+textures/animal\ baboon\ corpse\ bodya.ddt
+textures/animal\ baboon\ corpse\ skeletona.ddt
+textures/animal\ baboon\ map.ddt
+textures/animal\ bear\ corpse\ bodya.ddt
+textures/animal\ bear\ corpse\ skeletona.ddt
+textures/animal\ bear\ map.ddt
+textures/animal\ bearlaser\ beam\ map.ddt
+textures/animal\ bearlaser\ cape\ map.ddt
+textures/animal\ bearlaser\ map.ddt
+textures/animal\ boar\ corpse\ bodya.ddt
+textures/animal\ boar\ corpse\ skeletona.ddt
+textures/animal\ boar\ map.ddt
+textures/animal\ camel\ map.ddt
+textures/animal\ caribou\ antlers\ map.ddt
+textures/animal\ caribou\ corpse\ bodya.ddt
+textures/animal\ caribou\ corpse\ skeletona.ddt
+textures/animal\ caribou\ map.ddt
+textures/animal\ chicken\ corpse\ bodya.ddt
+textures/animal\ chicken\ corpse\ skeletona.ddt
+textures/animal\ chicken\ map.ddt
+textures/animal\ chicken.ddt
+textures/animal\ cow\ a\ map.ddt
+textures/animal\ cow\ b\ map.ddt
+textures/animal\ cow\ c\ map.ddt
+textures/animal\ cow\ corpse\ bodya.ddt
+textures/animal\ cow\ corpse\ skeletona.ddt
+textures/animal\ cow\ map.ddt
+textures/animal\ crocodile\ corpse\ bodya.ddt
+textures/animal\ crocodile\ corpse\ skeletona.ddt
+textures/animal\ crocodile\ map.ddt
+textures/animal\ crowned\ crane\ corpse\ bodya.ddt
+textures/animal\ crowned\ crane\ corpse\ skeletona.ddt
+textures/animal\ crowned\ crane\ map.ddt
+textures/animal\ deer\ corpse\ bodya.ddt
+textures/animal\ deer\ corpse\ skeletona.ddt
+textures/animal\ deer\ map.ddt
+textures/animal\ dog\ a\ map.DDT
+textures/animal\ dog\ b\ map.DDT
+textures/animal\ dove.ddt
+textures/animal\ duck\ map.ddt
+textures/animal\ eagle\ map.ddt
+textures/animal\ elephant\ indian.DDT
+textures/animal\ elephant\ map.ddt
+textures/animal\ elk\ corpse\ bodya.ddt
+textures/animal\ elk\ corpse\ skeletona.ddt
+textures/animal\ elk\ map.ddt
+textures/animal\ fish\ anchovy.ddt
+textures/animal\ fish\ herring.ddt
+textures/animal\ fish\ mahi.ddt
+textures/animal\ fish\ perch.ddt
+textures/animal\ fish\ salmon.ddt
+textures/animal\ flying\ purple\ hippo.ddt
+textures/animal\ flying\ purple\ love.ddt
+textures/animal\ flying\ purple\ rainbow.ddt
+textures/animal\ gazelle\ corpse\ bodya.ddt
+textures/animal\ gazelle\ corpse\ skeletona.ddt
+textures/animal\ gazelle\ map.ddt
+textures/animal\ giraffe\ corpse\ bodya.ddt
+textures/animal\ giraffe\ corpse\ skeletona.ddt
+textures/animal\ giraffe\ map.ddt
+textures/animal\ goat\ corpse\ bodya.ddt
+textures/animal\ goat\ corpse\ skeletona.ddt
+textures/animal\ goat\ map.ddt
+textures/animal\ goatnubian\ map.ddt
+textures/animal\ hawk\ map.ddt
+textures/animal\ hawk.ddt
+textures/animal\ hippo\ corpse\ bodya.ddt
+textures/animal\ hippo\ corpse\ skeletona.ddt
+textures/animal\ hippo\ map.ddt
+textures/animal\ horse\ map.ddt
+textures/animal\ hyena\ corpse\ bodya.ddt
+textures/animal\ hyena\ corpse\ skeletona.ddt
+textures/animal\ hyena\ map.ddt
+textures/animal\ lion\ corpse\ bodya.ddt
+textures/animal\ lion\ corpse\ skeletona.ddt
+textures/animal\ lion\ map.ddt
+textures/animal\ lizard\ corpse\ bodya.ddt
+textures/animal\ lizard\ corpse\ skeletona.ddt
+textures/animal\ lizard\ map.ddt
+textures/animal\ monkey\ corpse\ bodya.ddt
+textures/animal\ monkey\ corpse\ skeletona.ddt
+textures/animal\ monkey\ map.ddt
+textures/animal\ musk\ ox.ddt
+textures/animal\ orca\ map.ddt
+textures/animal\ panda\ bear\ corpse\ bodya.ddt
+textures/animal\ panda\ bear\ corpse\ skeletona.ddt
+textures/animal\ panda\ bear\ icon.ddt
+textures/animal\ panda\ bear\ map.ddt
+textures/animal\ parrot\ map.DDT
+textures/animal\ pig\ map.ddt
+textures/animal\ polar\ bear\ map.ddt
+textures/animal\ prmonkey.ddt
+textures/animal\ ram\ map.ddt
+textures/animal\ rhino\ corpse\ bodya.ddt
+textures/animal\ rhino\ corpse\ skeletona.ddt
+textures/animal\ rhino\ map.ddt
+textures/animal\ rooster.ddt
+textures/animal\ sea\ gull.ddt
+textures/animal\ shark\ map.ddt
+textures/animal\ tiger\ corpse\ bodya.ddt
+textures/animal\ tiger\ corpse\ skeletona.ddt
+textures/animal\ tiger\ icon.ddt
+textures/animal\ tiger\ map.ddt
+textures/animal\ wallrus\ corpse\ bodya.ddt
+textures/animal\ wallrus\ corpse\ skeletona.ddt
+textures/animal\ walrus\ map.ddt
+textures/animal\ water\ buffalo\ corpse\ bodya.ddt
+textures/animal\ water\ buffalo\ corpse\ skeletona.ddt
+textures/animal\ waterbuffalo\ map.ddt
+textures/animal\ whale\ map.ddt
+textures/animal\ white\ tiger\ map.ddt
+textures/Animal\ William\ Walrus\ Map.ddt
+textures/animal\ wolf\ arctic\ map.ddt
+textures/animal\ wolf\ artic\ map.ddt
+textures/animal\ wolf\ corpse\ bodya.ddt
+textures/animal\ wolf\ corpse\ skeletona.ddt
+textures/animal\ wolf\ map.ddt
+textures/animal\ yak.ddt
+textures/animal\ zebra\ map.ddt
+textures/ankh.ddt
+textures/archer\ c\ chu\ ko\ nu\ icon.ddt
+textures/archer\ c\ crossbow.ddt
+textures/archer\ c\ crossbowman\ bowstring.ddt
+textures/archer\ c\ crossbowman\ bronze.ddt
+textures/archer\ c\ crossbowman\ copper.ddt
+textures/archer\ c\ crossbowman\ head\ bronze.ddt
+textures/archer\ c\ crossbowman\ head\ copper.ddt
+textures/archer\ c\ crossbowman\ head\ iron.ddt
+textures/archer\ c\ crossbowman\ head\ standard.ddt
+textures/archer\ c\ crossbowman\ iron.ddt
+textures/archer\ c\ crossbowman\ standard.ddt
+textures/archer\ c\ mounted\ archer\ bronze.ddt
+textures/archer\ c\ mounted\ archer\ copper.ddt
+textures/archer\ c\ mounted\ archer\ head\ bronze.ddt
+textures/archer\ c\ mounted\ archer\ head\ copper.ddt
+textures/archer\ c\ mounted\ archer\ head\ iron.ddt
+textures/archer\ c\ mounted\ archer\ head\ standard.ddt
+textures/archer\ c\ mounted\ archer\ horse\ bronze.ddt
+textures/archer\ c\ mounted\ archer\ horse\ copper.ddt
+textures/archer\ c\ mounted\ archer\ horse\ iron.ddt
+textures/archer\ c\ mounted\ archer\ horse\ standard.ddt
+textures/archer\ c\ mounted\ archer\ icon.ddt
+textures/archer\ c\ mounted\ archer\ iron.ddt
+textures/archer\ c\ mounted\ archer\ standard.ddt
+textures/archer\ e\ slinger\ bronze.ddt
+textures/archer\ e\ slinger\ copper.ddt
+textures/archer\ e\ slinger\ corpse\ bodya.ddt
+textures/archer\ e\ slinger\ corpse\ skeletona.ddt
+textures/archer\ e\ slinger\ head\ bronze.ddt
+textures/archer\ e\ slinger\ head\ copper.ddt
+textures/archer\ e\ slinger\ head\ iron.ddt
+textures/archer\ e\ slinger\ head\ standard.ddt
+textures/archer\ e\ slinger\ iron.ddt
+textures/archer\ e\ slinger\ map.ddt
+textures/archer\ e\ slinger\ standard.ddt
+textures/archer\ g\ crossbow.ddt
+textures/archer\ g\ crossbowman\ corpse\ bodya.ddt
+textures/archer\ g\ crossbowman\ corpse\ skeletona.ddt
+textures/archer\ g\ crossbowman\ head.ddt
+textures/archer\ g\ crossbowman.ddt
+textures/archer\ g\ peltast\ bronze.ddt
+textures/archer\ g\ peltast\ cape\ bronze.ddt
+textures/archer\ g\ peltast\ cape\ copper.ddt
+textures/archer\ g\ peltast\ cape\ iron.ddt
+textures/archer\ g\ peltast\ cape\ standard.ddt
+textures/archer\ g\ peltast\ cape.ddt
+textures/archer\ g\ peltast\ copper.ddt
+textures/archer\ g\ peltast\ corpse\ bodya.ddt
+textures/archer\ g\ peltast\ corpse\ skeletona.ddt
+textures/archer\ g\ peltast\ head\ bronze.ddt
+textures/archer\ g\ peltast\ head\ copper.ddt
+textures/archer\ g\ peltast\ head\ iron.ddt
+textures/archer\ g\ peltast\ head\ standard.ddt
+textures/archer\ g\ peltast\ iron.ddt
+textures/archer\ g\ peltast\ low\ bronze.ddt
+textures/archer\ g\ peltast\ low\ copper.ddt
+textures/archer\ g\ peltast\ low\ iron.ddt
+textures/archer\ g\ peltast\ low\ standard.ddt
+textures/archer\ g\ peltast\ standard.ddt
+textures/archer\ g\ toxotes\ bronze.ddt
+textures/archer\ g\ toxotes\ copper.ddt
+textures/archer\ g\ toxotes\ corpse\ bodya.ddt
+textures/archer\ g\ toxotes\ corpse\ skeletona.ddt
+textures/archer\ g\ toxotes\ head\ bronze.ddt
+textures/archer\ g\ toxotes\ head\ copper.ddt
+textures/archer\ g\ toxotes\ head\ iron.ddt
+textures/archer\ g\ toxotes\ head\ standard.ddt
+textures/archer\ g\ toxotes\ iron.ddt
+textures/archer\ g\ toxotes\ standard.ddt
+textures/archer\ n\ normal\ bronze.ddt
+textures/archer\ n\ normal\ copper.ddt
+textures/archer\ n\ normal\ head\ bronze.ddt
+textures/archer\ n\ normal\ head\ copper.ddt
+textures/archer\ n\ normal\ head\ iron.ddt
+textures/archer\ n\ normal\ head\ standard.ddt
+textures/archer\ n\ normal\ iron.ddt
+textures/archer\ n\ normal\ standard.ddt
+textures/archer\ n\ throwing\ axeman\ axe\ map.ddt
+textures/archer\ n\ throwing\ axeman\ bronze.ddt
+textures/archer\ n\ throwing\ axeman\ copper.ddt
+textures/archer\ n\ throwing\ axeman\ corpse\ bodya.ddt
+textures/archer\ n\ throwing\ axeman\ corpse\ skeletona.ddt
+textures/archer\ n\ throwing\ axeman\ head\ bronze.ddt
+textures/archer\ n\ throwing\ axeman\ head\ copper.ddt
+textures/archer\ n\ throwing\ axeman\ head\ iron.ddt
+textures/archer\ n\ throwing\ axeman\ head\ low\ bronze.ddt
+textures/archer\ n\ throwing\ axeman\ head\ low\ copper.ddt
+textures/archer\ n\ throwing\ axeman\ head\ low\ iron.ddt
+textures/archer\ n\ throwing\ axeman\ head\ low\ standard.ddt
+textures/archer\ n\ throwing\ axeman\ head\ standard.ddt
+textures/archer\ n\ throwing\ axeman\ iron.ddt
+textures/archer\ n\ throwing\ axeman\ low\ bronze.ddt
+textures/archer\ n\ throwing\ axeman\ low\ copper.ddt
+textures/archer\ n\ throwing\ axeman\ low\ iron.ddt
+textures/archer\ n\ throwing\ axeman\ low\ standard.ddt
+textures/archer\ n\ throwing\ axeman\ standard.ddt
+textures/archer\ x\ arcus\ corpse\ bodya.ddt
+textures/archer\ x\ arcus\ corpse\ skeletona.ddt
+textures/archer\ x\ bronze.ddt
+textures/archer\ x\ copper.ddt
+textures/archer\ x\ hero.ddt
+textures/archer\ x\ iron.ddt
+textures/archer\ x\ standard.ddt
+textures/arrow_down.ddt
+textures/arrow_up.ddt
+textures/ashbow.ddt
+textures/ashbowquiver.ddt
+textures/athenamap.ddt
+textures/attachment\ c\ halberd\ head\ bronze.ddt
+textures/attachment\ c\ halberd\ head\ copper.ddt
+textures/attachment\ c\ halberd\ head\ iron.ddt
+textures/attachment\ c\ halberd\ head\ standard.ddt
+textures/attachment\ g\ gargarensis\ trident.ddt
+textures/attachment\ g\ spear.ddt
+textures/attachment\ g\ spear_01.ddt
+textures/attachments\ a\ arrow\ map.ddt
+textures/attachments\ a\ arrow.ddt
+textures/attachments\ a\ axe\ map.ddt
+textures/attachments\ a\ blood\ spurt\ map.ddt
+textures/attachments\ a\ bow\ bronze.ddt
+textures/attachments\ a\ bow\ copper.ddt
+textures/attachments\ a\ bow\ iron.ddt
+textures/attachments\ a\ bow\ map.ddt
+textures/attachments\ a\ bow\ standard.ddt
+textures/attachments\ a\ club.ddt
+textures/attachments\ a\ footprint\ siege.ddt
+textures/attachments\ a\ footstep\ animal.ddt
+textures/attachments\ a\ footstep\ bare.ddt
+textures/attachments\ a\ footstep\ elephant.ddt
+textures/attachments\ a\ footstep\ horse.ddt
+textures/attachments\ a\ footstep\ portable\ ram.ddt
+textures/attachments\ a\ footstep\ prometheanbig.ddt
+textures/attachments\ a\ footstep\ scarab.ddt
+textures/attachments\ a\ hammer\ map.ddt
+textures/attachments\ a\ hoe\ map.ddt
+textures/attachments\ a\ picks\ map.ddt
+textures/attachments\ a\ quiver.ddt
+textures/attachments\ a\ resources\ map.ddt
+textures/attachments\ a\ seeds.ddt
+textures/attachments\ a\ shields\ map.ddt
+textures/attachments\ a\ shovel.ddt
+textures/attachments\ a\ skeleton.ddt
+textures/attachments\ a\ sling.ddt
+textures/attachments\ a\ spear\ bronze.ddt
+textures/attachments\ a\ spear\ copper.ddt
+textures/attachments\ a\ spear\ iron.ddt
+textures/attachments\ a\ spear\ standard.ddt
+textures/attachments\ a\ sword\ swoosh.ddt
+textures/attachments\ a\ trident\ map.ddt
+textures/attachments\ a\ wheel\ solid.ddt
+textures/attachments\ a\ wheel\ spoked.ddt
+textures/attachments\ c\ fire\ lance.ddt
+textures/attachments\ c\ flag\ naval.ddt
+textures/attachments\ c\ halberd\ bronze.ddt
+textures/attachments\ c\ halberd\ copper.ddt
+textures/attachments\ c\ halberd\ iron.ddt
+textures/attachments\ c\ halberd\ standard.ddt
+textures/attachments\ c\ sword\ jiaolong.ddt
+textures/attachments\ e\ axe\ bronze.ddt
+textures/attachments\ e\ axe\ copper.ddt
+textures/attachments\ e\ axe\ iron.ddt
+textures/attachments\ e\ axe\ standard.ddt
+textures/attachments\ e\ osiris\ weapons.ddt
+textures/attachments\ e\ shield\ bronze.ddt
+textures/attachments\ e\ shield\ copper.ddt
+textures/attachments\ e\ shield\ iron.ddt
+textures/attachments\ e\ sling\ stone\ map.ddt
+textures/attachments\ e\ sword\ bronze.ddt
+textures/attachments\ e\ sword\ copper.ddt
+textures/attachments\ e\ sword\ iron.ddt
+textures/attachments\ e\ sword\ standard.ddt
+textures/attachments\ g\ polyphemus\ club.ddt
+textures/attachments\ g\ shield\ bronze.ddt
+textures/attachments\ g\ shield\ copper.ddt
+textures/attachments\ g\ shield\ iron\ cine.ddt
+textures/attachments\ g\ shield\ iron.ddt
+textures/attachments\ g\ sword\ bronze.ddt
+textures/attachments\ g\ sword\ copper.ddt
+textures/attachments\ g\ sword\ iron.ddt
+textures/attachments\ g\ sword\ standard.ddt
+textures/attachments\ mu\ x\ automaton.ddt
+textures/attachments\ n\ axe\ bronze.ddt
+textures/attachments\ n\ axe\ copper.ddt
+textures/attachments\ n\ axe\ iron.ddt
+textures/attachments\ n\ axe\ standard.ddt
+textures/attachments\ n\ oxcart\ wheel.ddt
+textures/attachments\ n\ shield\ bronze.ddt
+textures/attachments\ n\ shield\ cinepirateship\ map.ddt
+textures/attachments\ n\ shield\ copper.ddt
+textures/attachments\ n\ shield\ iron.ddt
+textures/attachments\ n\ sword\ bronze.ddt
+textures/attachments\ n\ sword\ copper.ddt
+textures/attachments\ n\ sword\ iron.ddt
+textures/attachments\ n\ sword\ standard.ddt
+textures/attachments\ scenario\ e\ osiris\ weapons.ddt
+textures/attachments\ x\ double\ sword\ bronze.ddt
+textures/attachments\ x\ double\ sword\ copper.ddt
+textures/attachments\ x\ double\ sword\ iron.ddt
+textures/attachments\ x\ double\ sword\ standard.ddt
+textures/attachments\ x\ lance\ bronze.ddt
+textures/attachments\ x\ lance\ copper.ddt
+textures/attachments\ x\ lance\ iron.ddt
+textures/attachments\ x\ lance\ standard.ddt
+textures/attachments\ x\ mace\ bronze.ddt
+textures/attachments\ x\ mace\ copper.ddt
+textures/attachments\ x\ mace\ iron.ddt
+textures/attachments\ x\ mace\ standard.ddt
+textures/attachments\ x\ mace.ddt
+textures/attachments\ x\ shield\ champion.ddt
+textures/attachments\ x\ shield\ heavy.ddt
+textures/attachments\ x\ shield\ hero.ddt
+textures/attachments\ x\ shield\ medium.ddt
+textures/attachments\ x\ sword\ bronze.ddt
+textures/attachments\ x\ sword\ copper.ddt
+textures/attachments\ x\ sword\ iron.ddt
+textures/attachments\ x\ sword\ standard.ddt
+textures/bastardblade.ddt
+textures/bastardhilt.ddt
+textures/bella.ddt
+textures/bevel_round_in.ddt
+textures/bevel_round_out.ddt
+textures/bevel_square_in.ddt
+textures/bevel_square_out.ddt
+textures/blackcircle.ddt
+textures/blackedgecorner.ddt
+textures/blacklshape.ddt
+textures/blackonecorner.ddt
+textures/blackoneedge.ddt
+textures/blackround.ddt
+textures/blacktwocorners.ddt
+textures/blacktwoedges.ddt
+textures/blacktwooppositecorners.ddt
+textures/blackushape.ddt
+textures/blanktree.ddt
+textures/blendtwoedgesbhcity\ .ddt
+textures/blessed\ construction\ field.ddt
+textures/blessed\ construction\ sparkle.ddt
+textures/blood.ddt
+textures/blue.ddt
+textures/bluesparkle.ddt
+textures/boat\ c\ fire\ ship\ chinese\ icon.ddt
+textures/boat\ c\ fishing\ boat\ icon.ddt
+textures/boat\ c\ junk\ icon.ddt
+textures/boat\ c\ siege\ ship\ chinese\ icon.ddt
+textures/boat\ c\ transport\ icon.ddt
+textures/bottom\ tab\ in.ddt
+textures/bottom\ tab\ out.ddt
+textures/building\ attachments.ddt
+textures/building\ c\ accessories.ddt
+textures/building\ c\ armory\ age2\ shadow.ddt
+textures/building\ c\ barracks\ age2\ shadow.ddt
+textures/building\ c\ castle\ age3\ shadow.ddt
+textures/building\ c\ dock\ age1\ shadow.ddt
+textures/building\ c\ earthen\ wall.ddt
+textures/building\ c\ fortified\ wall.ddt
+textures/building\ c\ garden\ age1\ decal.ddt
+textures/building\ c\ garden\ age1\ shadow.ddt
+textures/building\ c\ garden\ age3\ decal.ddt
+textures/building\ c\ great\ wall.ddt
+textures/building\ c\ guardtower\ shadow.ddt
+textures/building\ c\ housea\ age1\ shadow.ddt
+textures/building\ c\ houseb\ age1\ shadow.ddt
+textures/building\ c\ housec\ age1\ shadow.ddt
+textures/building\ c\ market\ age3\ shadow.ddt
+textures/building\ c\ props.ddt
+textures/building\ c\ roofage1.ddt
+textures/building\ c\ roofage2.ddt
+textures/building\ c\ roofage3.ddt
+textures/building\ c\ roofage4.ddt
+textures/building\ c\ settlement\ age1\ shadow.ddt
+textures/building\ c\ special.ddt
+textures/building\ c\ stable\ age2\ shadow.ddt
+textures/building\ c\ stone\ wall.ddt
+textures/building\ c\ storage\ pit\ age1\ shadow.ddt
+textures/building\ c\ temple\ age1\ shadow.ddt
+textures/building\ c\ titan\ gate\ decal.ddt
+textures/building\ c\ titan\ gate\ door\ map.ddt
+textures/building\ c\ titan\ gate\ map.ddt
+textures/building\ c\ titan\ gate\ rocks.ddt
+textures/building\ c\ tower\ age2.ddt
+textures/building\ c\ tower\ age3.ddt
+textures/building\ c\ tower\ age4.ddt
+textures/building\ c\ wallsage1.ddt
+textures/building\ c\ wallsage2.ddt
+textures/building\ c\ wallsage3.ddt
+textures/building\ c\ wallsage4.ddt
+textures/building\ c\ watchtower\ shadow.ddt
+textures/building\ c\ wonder\ city\ floor.ddt
+textures/building\ c\ wonder\ city\ roof.ddt
+textures/building\ c\ wonder\ city\ shadow.ddt
+textures/building\ c\ wonder\ city\ walls.ddt
+textures/building\ c\ wonder\ palace\ floor.ddt
+textures/building\ c\ wonder\ palace\ roof.ddt
+textures/building\ c\ wonder\ palace\ shadow.ddt
+textures/building\ c\ wonder\ palace\ walls.ddt
+textures/building\ c\ wonder\ temple\ shadow.ddt
+textures/building\ c\ wonder\ temple.ddt
+textures/building\ construction\ 3x3\ shadow.ddt
+textures/building\ construction\ 5x2.ddt
+textures/building\ construction\ armory\ shadow.ddt
+textures/building\ construction\ connectorwalla\ shadow.ddt
+textures/building\ construction\ guild\ shadow.ddt
+textures/building\ construction\ large\ shadow.ddt
+textures/building\ construction\ longwalla\ shadow.ddt
+textures/building\ construction\ manor\ shadow.ddt
+textures/building\ construction\ medium\ shadow.ddt
+textures/building\ construction\ small\ shadow.ddt
+textures/building\ construction\ sp\ shadow.ddt
+textures/building\ construction\ specialist\ shadow.ddt
+textures/building\ construction\ xlarge\ shadow.ddt
+textures/building\ construction\ xsmall\ shadow.ddt
+textures/building\ construction.ddt
+textures/building\ destruction\ egypt.ddt
+textures/building\ destruction\ greek.ddt
+textures/building\ destruction\ norse.ddt
+textures/building\ e\ academy\ shadow.ddt
+textures/building\ e\ age1\ accessories.ddt
+textures/building\ e\ age1.ddt
+textures/building\ e\ age2\ accessories\ burnt.ddt
+textures/building\ e\ age2\ accessories.ddt
+textures/building\ e\ age2\ burnt.ddt
+textures/building\ e\ age2\ wall.ddt
+textures/building\ e\ age2.ddt
+textures/building\ e\ age3\ accessories.ddt
+textures/building\ e\ age3.ddt
+textures/building\ e\ age3a\ accessories.ddt
+textures/building\ e\ age4\ accessories.ddt
+textures/building\ e\ age4.ddt
+textures/building\ e\ age4roof.ddt
+textures/building\ e\ archery\ range\ age2\ shadow.ddt
+textures/building\ e\ archery\ range\ shadow\ age2.ddt
+textures/building\ e\ archery\ range\ shadow\ age3.ddt
+textures/building\ e\ archery\ range\ shadow.ddt
+textures/building\ e\ armory\ shadow\ age2.ddt
+textures/building\ e\ armory\ shadow\ age3.ddt
+textures/building\ e\ armory\ shadow.ddt
+textures/building\ e\ ballista\ tower\ shadow.ddt
+textures/building\ e\ barracks\ age1\ shadow.ddt
+textures/building\ e\ barracks\ age2\ shadow.ddt
+textures/building\ e\ barracks\ age3\ shadow.ddt
+textures/building\ e\ barracks\ age4\ shadow.ddt
+textures/building\ e\ barracks\ shadow\ age2.ddt
+textures/building\ e\ barracks\ shadow.ddt
+textures/building\ e\ charioteria\ age3\ shadow.ddt
+textures/building\ e\ constructiontemple.ddt
+textures/building\ e\ dock\ age1\ shadow.ddt
+textures/building\ e\ dock\ boat.ddt
+textures/building\ e\ fortress\ accessories.ddt
+textures/building\ e\ fortress\ accessories02.ddt
+textures/building\ e\ fortress\ age3.ddt
+textures/building\ e\ fortress\ shadow.ddt
+textures/building\ e\ fortress.ddt
+textures/building\ e\ gate\ shadow.ddt
+textures/building\ e\ granary\ shadow\ age2.ddt
+textures/building\ e\ granary\ shadow.ddt
+textures/building\ e\ guard\ tower\ shadow.ddt
+textures/building\ e\ house\ a\ shadow.ddt
+textures/building\ e\ house\ b\ shadow.ddt
+textures/building\ e\ housea\ shadow\ age1.ddt
+textures/building\ e\ housea\ shadow\ age2.ddt
+textures/building\ e\ housea\ shadow\ age3.ddt
+textures/building\ e\ housea\ shadow\ age4.ddt
+textures/building\ e\ houseb\ shadow\ age1.ddt
+textures/building\ e\ houseb\ shadow\ age2.ddt
+textures/building\ e\ houseb\ shadow\ age3.ddt
+textures/building\ e\ houseb\ shadow\ age4.ddt
+textures/building\ e\ housec\ shadow\ age1.ddt
+textures/building\ e\ housec\ shadow\ age2.ddt
+textures/building\ e\ housec\ shadow\ age3.ddt
+textures/building\ e\ housec\ shadow\ age4.ddt
+textures/building\ e\ isis\ wonder\ con2\ shadow.ddt
+textures/building\ e\ isis\ wonder\ con3\ shadow.ddt
+textures/building\ e\ isis\ wonder\ shadow.ddt
+textures/building\ e\ isis\ wonder01.ddt
+textures/building\ e\ isis\ wonder02.ddt
+textures/building\ e\ isis\ wonder03.ddt
+textures/building\ e\ lighthouse\ fence.ddt
+textures/building\ e\ lighthouse\ shadow.ddt
+textures/building\ e\ lighthouse.ddt
+textures/building\ e\ lumbercamp\ age1\ shadow.ddt
+textures/building\ e\ lumbercamp\ age2\ shadow.ddt
+textures/building\ e\ lumbercamp\ age3\ shadow.ddt
+textures/building\ e\ lumbercamp\ shadow.ddt
+textures/building\ e\ market\ age2\ shadow.ddt
+textures/building\ e\ market\ age3\ shadow.ddt
+textures/building\ e\ market\ age4\ shadow.ddt
+textures/building\ e\ market\ shadow\ age2.ddt
+textures/building\ e\ market\ shadow.ddt
+textures/building\ e\ mining\ camp\ shadow.ddt
+textures/building\ e\ misc\ b\ shadow.ddt
+textures/building\ e\ monument\ platforms.ddt
+textures/building\ e\ monument\ shadow.ddt
+textures/building\ e\ monument1\ lp.ddt
+textures/building\ e\ monument1.ddt
+textures/building\ e\ monument2\ lp.ddt
+textures/building\ e\ monument2.ddt
+textures/building\ e\ monument3\ lp.ddt
+textures/building\ e\ monument3.ddt
+textures/building\ e\ monument4\ lp.ddt
+textures/building\ e\ monument4.ddt
+textures/building\ e\ monument4dood.ddt
+textures/building\ e\ monument5\ isis\ lp.ddt
+textures/building\ e\ monument5\ isis.ddt
+textures/building\ e\ monument5\ ra\ lp.ddt
+textures/building\ e\ monument5\ ra.ddt
+textures/building\ e\ monument5\ set\ lp.ddt
+textures/building\ e\ monument5\ set.ddt
+textures/building\ e\ monument5.ddt
+textures/building\ e\ obelisk.ddt
+textures/building\ e\ osiris\ pyramid\ dead.ddt
+textures/building\ e\ osiris\ pyramid\ shadow.ddt
+textures/building\ e\ osiris\ pyramid.ddt
+textures/building\ e\ outpost.ddt
+textures/building\ e\ props.ddt
+textures/building\ e\ pyramid\ shadow.ddt
+textures/building\ e\ pyramid.ddt
+textures/building\ e\ ra\ wonder\ con2\ shadow.ddt
+textures/building\ e\ ra\ wonder\ con3\ shadow.ddt
+textures/building\ e\ ra\ wonder\ shadow.ddt
+textures/building\ e\ ra\ wonder01.ddt
+textures/building\ e\ ra\ wonder02.ddt
+textures/building\ e\ set\ wonder\ con2\ shadow.ddt
+textures/building\ e\ set\ wonder\ con3\ shadow.ddt
+textures/building\ e\ set\ wonder\ shadow.ddt
+textures/building\ e\ set\ wonder01.ddt
+textures/building\ e\ set\ wonder02.ddt
+textures/building\ e\ set\ wonder03.ddt
+textures/building\ e\ settlement\ age1\ shadow.ddt
+textures/building\ e\ settlement\ age1.ddt
+textures/building\ e\ settlement\ age2\ shadow.ddt
+textures/building\ e\ settlement\ age2.ddt
+textures/building\ e\ settlement\ age3\ fortified\ shadow.ddt
+textures/building\ e\ settlement\ age3\ shadow.ddt
+textures/building\ e\ settlement\ age3.ddt
+textures/building\ e\ settlement\ age4\ shadow.ddt
+textures/building\ e\ settlement\ age4.ddt
+textures/building\ e\ settlement02\ shadow.ddt
+textures/building\ e\ settlement03\ shadow.ddt
+textures/building\ e\ shared01\ 2\ map.ddt
+textures/building\ e\ shared01\ 3\ map.ddt
+textures/building\ e\ shared02\ 2\ map.ddt
+textures/building\ e\ shrine\ age1.ddt
+textures/building\ e\ shrine\ shadow\ age1.ddt
+textures/building\ e\ shrine\ shadow.ddt
+textures/building\ e\ shrine.ddt
+textures/building\ e\ shrine02.ddt
+textures/building\ e\ siege\ camp\ age2\ shadow.ddt
+textures/building\ e\ siege\ camp\ age3\ shadow.ddt
+textures/building\ e\ siegeconstruction.ddt
+textures/building\ e\ stable\ age2\ shadow.ddt
+textures/building\ e\ stable\ shadow.ddt
+textures/building\ e\ statue\ c\ base.ddt
+textures/building\ e\ statue\ c.ddt
+textures/building\ e\ storehouse\ shadow.ddt
+textures/building\ e\ temple\ age1\ shadow.ddt
+textures/building\ e\ temple\ age2\ shadow.ddt
+textures/building\ e\ temple\ age3\ shadow.ddt
+textures/building\ e\ temple\ b\ shadow.ddt
+textures/building\ e\ temple\ shadow\ age1.ddt
+textures/building\ e\ temple\ shadow.ddt
+textures/building\ e\ titan\ gate\ map.ddt
+textures/building\ e\ titan\ gate\ rocks.ddt
+textures/building\ e\ towncenter\ shadow\ age2.ddt
+textures/building\ e\ towncenter\ shadow.ddt
+textures/building\ e\ tradedock\ shadow\ age1.ddt
+textures/building\ e\ tradedock\ shadow\ age2.ddt
+textures/building\ e\ tradedock\ shadow\ age3.ddt
+textures/building\ e\ tradedock\ shadow.ddt
+textures/building\ e\ underground\ passage\ egyptian.ddt
+textures/building\ e\ wall4.ddt
+textures/building\ e\ wallconnector\ age2\ shadow.ddt
+textures/building\ e\ wallconnector\ age3\ shadow.ddt
+textures/building\ e\ walllong\ age2\ shadow.ddt
+textures/building\ e\ walllong\ age3\ shadow.ddt
+textures/building\ e\ walllong\ age4\ shadow.ddt
+textures/building\ e\ wallshort\ age2\ shadow.ddt
+textures/building\ e\ wallshort\ age3\ shadow.ddt
+textures/building\ e\ wonder\ accessories.ddt
+textures/building\ e\ wonder\ shadow.ddt
+textures/building\ falling\ leaf.ddt
+textures/building\ g\ age0.ddt
+textures/building\ g\ archery\ range\ shadow.ddt
+textures/building\ g\ archery\ rangeage1\ shadow.ddt
+textures/building\ g\ archery\ rangeage2\ shadow.ddt
+textures/building\ g\ archery\ rangeage3\ shadow.ddt
+textures/building\ g\ arconstruction\ shadow.ddt
+textures/building\ g\ armory\ destructed\ shadow.ddt
+textures/building\ g\ armory\ shadow.ddt
+textures/building\ g\ armoryage2\ shadow.ddt
+textures/building\ g\ armoryage3\ shadow.ddt
+textures/building\ g\ armoryconstruction\ shadow.ddt
+textures/building\ g\ barracks\ destructed\ shadow.ddt
+textures/building\ g\ barracks\ shadow.ddt
+textures/building\ g\ barracksage1\ shadow.ddt
+textures/building\ g\ barracksage2\ shadow.ddt
+textures/building\ g\ barracksage3\ shadow.ddt
+textures/building\ g\ barracksconstruction\ shadow.ddt
+textures/building\ g\ colomnshadow.ddt
+textures/building\ g\ constructiontemple.ddt
+textures/building\ g\ destroyed.ddt
+textures/building\ g\ dockage1\ shadow.ddt
+textures/building\ g\ fortifiedwall.ddt
+textures/building\ g\ fortress\ cinematic\ shadow.ddt
+textures/building\ g\ fortress\ destructed\ shadow.ddt
+textures/building\ g\ fortress\ shadow.ddt
+textures/building\ g\ fortress.ddt
+textures/building\ g\ fortressconstruction\ shadow.ddt
+textures/building\ g\ fortressroof.ddt
+textures/building\ g\ fortresswall\ destructed.ddt
+textures/building\ g\ fortresswall.ddt
+textures/building\ g\ fortresswall2\ destructed.ddt
+textures/building\ g\ fortresswall2.ddt
+textures/building\ g\ gate\ open\ shadow.ddt
+textures/building\ g\ gate\ shadow.ddt
+textures/building\ g\ gateall.ddt
+textures/building\ g\ granary\ destroyed\ shadow.ddt
+textures/building\ g\ granaryconstruction\ shadow.ddt
+textures/building\ g\ hades\ temple\ shadow.ddt
+textures/building\ g\ hades\ wonder\ shadow.ddt
+textures/building\ g\ hades\ wonder.ddt
+textures/building\ g\ hades\ wonder01.ddt
+textures/building\ g\ hadeswonder\ 2\ shadow.ddt
+textures/building\ g\ hadeswonder\ 3\ shadow.ddt
+textures/building\ g\ house\ destructed\ shadow.ddt
+textures/building\ g\ housea\ age1\ shadow.ddt
+textures/building\ g\ houseb\ age1\ shadow.ddt
+textures/building\ g\ housec\ age1\ shadow.ddt
+textures/building\ g\ market\ shadow.ddt
+textures/building\ g\ marketage2\ shadow.ddt
+textures/building\ g\ marketage3\ shadow.ddt
+textures/building\ g\ marketconstruction\ shadow.ddt
+textures/building\ g\ mineconstruction\ shadow.ddt
+textures/building\ g\ mining\ camp\ shadow.ddt
+textures/building\ g\ mining\ campage1\ shadow.ddt
+textures/building\ g\ poswonder\ 1\ shadow.ddt
+textures/building\ g\ poswonder\ 2\ shadow.ddt
+textures/building\ g\ poswonder\ 3\ shadow.ddt
+textures/building\ g\ roofage1.ddt
+textures/building\ g\ roofage2.ddt
+textures/building\ g\ roofage3.ddt
+textures/building\ g\ ruin\ a\ shadow.ddt
+textures/building\ g\ ruin\ c\ shadow.ddt
+textures/building\ g\ ruins.ddt
+textures/building\ g\ settlement02\ shadow.ddt
+textures/building\ g\ settlement02.ddt
+textures/building\ g\ settlement03\ shadow.ddt
+textures/building\ g\ settlementage1\ shadow.ddt
+textures/building\ g\ settlementage1.ddt
+textures/building\ g\ settlementage2.ddt
+textures/building\ g\ settlementage3.ddt
+textures/building\ g\ settlementfence.ddt
+textures/building\ g\ settlementfortified\ shadow.ddt
+textures/building\ g\ shared01\ 2\ map.ddt
+textures/building\ g\ shared05\ 2\ map.ddt
+textures/building\ g\ shrine\ shadow.ddt
+textures/building\ g\ shrine.ddt
+textures/building\ g\ siegecamp\ shadow.ddt
+textures/building\ g\ siegecampconstruction\ shadow.ddt
+textures/building\ g\ stable\ destroyed\ shadow.ddt
+textures/building\ g\ stable\ shadow.ddt
+textures/building\ g\ stableage1\ shadow.ddt
+textures/building\ g\ stableage2\ shadow.ddt
+textures/building\ g\ stableage3\ shadow.ddt
+textures/building\ g\ stableconstruction\ shadow.ddt
+textures/building\ g\ storehouse\ destructed\ shadow.ddt
+textures/building\ g\ storehouse\ shadow.ddt
+textures/building\ g\ storehouseage1\ shadow.ddt
+textures/building\ g\ tcconstruction\ shadow.ddt
+textures/building\ g\ temple\ shadow.ddt
+textures/building\ g\ temple\ statues\ map.ddt
+textures/building\ g\ temple.ddt
+textures/building\ g\ templeage1\ shadow.ddt
+textures/building\ g\ templeage1.ddt
+textures/building\ g\ templeage2.ddt
+textures/building\ g\ titan\ gate\ door\ map.ddt
+textures/building\ g\ titan\ gate\ map.ddt
+textures/building\ g\ titan\ gate\ rocks.ddt
+textures/building\ g\ towerbasearea.ddt
+textures/building\ g\ towerconstruction\ shadow.ddt
+textures/building\ g\ towers.ddt
+textures/building\ g\ towncenter\ shadow.ddt
+textures/building\ g\ tradedock\ shadow.ddt
+textures/building\ g\ underground\ passage\ greek\ b.ddt
+textures/building\ g\ underground\ passage\ greek.ddt
+textures/building\ g\ wall\ large\ shadow.ddt
+textures/building\ g\ wallbasearea\ 2\ map.ddt
+textures/building\ g\ wallconnector\ shadow.ddt
+textures/building\ g\ wallsage1.ddt
+textures/building\ g\ wallsage2.ddt
+textures/building\ g\ wallsage3.ddt
+textures/building\ g\ watchtower\ shadow.ddt
+textures/building\ g\ wonder\ destructed.ddt
+textures/building\ g\ wonder.ddt
+textures/building\ g\ wondershadow.ddt
+textures/building\ g\ zeus\ 2\ shadow.ddt
+textures/building\ g\ zeus\ 3\ shadow.ddt
+textures/building\ g\ zeus\ wonder\ shadow.ddt
+textures/building\ g\ zues\ wonder.ddt
+textures/building\ g\ zues\ wonder01.ddt
+textures/building\ gate.ddt
+textures/building\ lion\ statue\ icon.ddt
+textures/building\ misc\ stairs.ddt
+textures/building\ n\ archery\ range\ shadow.ddt
+textures/building\ n\ archery\ rangeage1\ shadow.ddt
+textures/building\ n\ archery\ rangeage3\ shadow.ddt
+textures/building\ n\ armory\ destructed\ shadow.ddt
+textures/building\ n\ armory\ shadow.ddt
+textures/building\ n\ armoryage3\ shadow.ddt
+textures/building\ n\ barracks\ shadow.ddt
+textures/building\ n\ barracksage1\ shadow.ddt
+textures/building\ n\ barracksage3\ shadow.ddt
+textures/building\ n\ barracksage4\ shadow.ddt
+textures/building\ n\ barracksconstruction\ shadow.ddt
+textures/building\ n\ constructiontemple.ddt
+textures/building\ n\ destructed.ddt
+textures/building\ n\ dock\ shadow.ddt
+textures/building\ n\ dock.ddt
+textures/building\ n\ gateall.ddt
+textures/building\ n\ hillfort\ shadow.ddt
+textures/building\ n\ hillfort.ddt
+textures/building\ n\ house\ a\ shadow.ddt
+textures/building\ n\ house\ b\ shadow.ddt
+textures/building\ n\ house\ c\ shadow.ddt
+textures/building\ n\ house\ destructed\ shadow.ddt
+textures/building\ n\ loki\ 1\ shadow.ddt
+textures/building\ n\ loki\ 2\ shadow.ddt
+textures/building\ n\ loki\ 3\ shadow.ddt
+textures/building\ n\ loki\ wonder\ shadow.ddt
+textures/building\ n\ loki\ wonder01.ddt
+textures/building\ n\ loki\ wonder02.ddt
+textures/building\ n\ longhouse\ destructed\ shadow.ddt
+textures/building\ n\ majortemple\ shadow.ddt
+textures/building\ n\ market\ shadow.ddt
+textures/building\ n\ marketage3\ shadow.ddt
+textures/building\ n\ mining\ camp\ shadow.ddt
+textures/building\ n\ odin\ 2\ shadow.ddt
+textures/building\ n\ odin\ wonder\ shadow.ddt
+textures/building\ n\ odin\ wonder.ddt
+textures/building\ n\ odin\ wonder01.ddt
+textures/building\ n\ ravens.ddt
+textures/building\ n\ settlement02\ shadow.ddt
+textures/building\ n\ settlement03\ fortified\ shadow.ddt
+textures/building\ n\ settlement03\ shadow.ddt
+textures/building\ n\ settlementage1\ shadow.ddt
+textures/building\ n\ settlementage1.ddt
+textures/building\ n\ settlementage2.ddt
+textures/building\ n\ settlementage3.ddt
+textures/building\ n\ settlementage4.ddt
+textures/building\ n\ shared01\ 1\ map.ddt
+textures/building\ n\ shared01\ 2\ map.ddt
+textures/building\ n\ shared01\ 3\ map.ddt
+textures/building\ n\ shared02\ 2\ map.ddt
+textures/building\ n\ shared03\ 2\ map.ddt
+textures/building\ n\ shared04\ 2\ map.ddt
+textures/building\ n\ shared06\ 2\ map.ddt
+textures/building\ n\ shrine\ shadow.ddt
+textures/building\ n\ shrine.ddt
+textures/building\ n\ siege\ camp\ shadow.ddt
+textures/building\ n\ stable\ shadow.ddt
+textures/building\ n\ stableage1\ shadow.ddt
+textures/building\ n\ stableage3\ shadow.ddt
+textures/building\ n\ storehouse\ shadow.ddt
+textures/building\ n\ temple\ shadow.ddt
+textures/building\ n\ temple.ddt
+textures/building\ n\ templeage1\ shadow.ddt
+textures/building\ n\ templeage1.ddt
+textures/building\ n\ templeage2.ddt
+textures/building\ n\ templeage3.ddt
+textures/building\ n\ thor\ 1\ shadow.ddt
+textures/building\ n\ thor\ 2\ shadow.ddt
+textures/building\ n\ thor\ 4\ shadow.ddt
+textures/building\ n\ thorarmory\ shadow.ddt
+textures/building\ n\ thorarmory.ddt
+textures/building\ n\ thorarmory1.ddt
+textures/building\ n\ thorarmoryshadow.ddt
+textures/building\ n\ titan\ gate\ map.ddt
+textures/building\ n\ titan\ gate\ rocks.ddt
+textures/building\ n\ tower\ shadow.ddt
+textures/building\ n\ tower.ddt
+textures/building\ n\ towncenter\ shadow.ddt
+textures/building\ n\ towncenterage1\ shadow.ddt
+textures/building\ n\ wallage4.ddt
+textures/building\ n\ wonder\ falling\ leaves.ddt
+textures/building\ n\ wonder.ddt
+textures/building\ n\ wonderbranch.ddt
+textures/building\ n\ wonderleaf.ddt
+textures/building\ n\ wonderrune.ddt
+textures/building\ n\ wondershadow.ddt
+textures/building\ outpost\ shadow.ddt
+textures/building\ pharoah\ statue\ icon.ddt
+textures/building\ pot.ddt
+textures/building\ props.ddt
+textures/building\ rubble4x4\ shadow.ddt
+textures/building\ rubble8x8\ shadow.ddt
+textures/building\ rubble10x10\ shadow.ddt
+textures/building\ rubble12x12\ shadow.ddt
+textures/building\ settlement\ shadow.ddt
+textures/building\ settlement.ddt
+textures/building\ sfx\ outpost\ glow.ddt
+textures/building\ town\ center\ icon\ 64.ddt
+textures/building\ town\ center\ icon.ddt
+textures/building\ towncenter\ icon.ddt
+textures/building\ vase.ddt
+textures/building\ vines01.ddt
+textures/building\ wall\ damage.ddt
+textures/building\ wall\ to\ gate\ icon\ 64.ddt
+textures/building\ wall\ to\ gate\ icon.ddt
+textures/building\ x\ armory\ age1\ shadow.ddt
+textures/building\ x\ armory\ age2\ shadow.ddt
+textures/building\ x\ barracks\ age2\ shadow.ddt
+textures/building\ x\ bronze\ gate.ddt
+textures/building\ x\ construction\ palace\ shadow.ddt
+textures/building\ x\ construction\ temple.ddt
+textures/building\ x\ dock.ddt
+textures/building\ x\ gaia\ wonder\ con\ shadow.ddt
+textures/building\ x\ guard\ tower\ shadow.ddt
+textures/building\ x\ guild\ age2\ shadow.ddt
+textures/building\ x\ guild\ age2.ddt
+textures/building\ x\ iron\ gate.ddt
+textures/building\ x\ kronos\ wonder\ con\ 3\ shadow.ddt
+textures/building\ x\ kronos\ wonder\ con\ 4\ shadow.ddt
+textures/building\ x\ manor\ a\ age2\ shadow.ddt
+textures/building\ x\ manor\ b\ age2\ shadow.ddt
+textures/building\ x\ manor\ c\ age2\ shadow.ddt
+textures/building\ x\ market\ age2\ shadow.ddt
+textures/building\ x\ mirror\ tower\ shadow.ddt
+textures/building\ x\ mirror\ tower.ddt
+textures/building\ x\ oranos\ wonder\ con\ 3\ shadow.ddt
+textures/building\ x\ oranos\ wonder\ con\ 4\ shadow.ddt
+textures/building\ x\ oreichalkos\ gate.ddt
+textures/building\ x\ palace\ age2\ shadow.ddt
+textures/building\ x\ palace\ age2.ddt
+textures/building\ x\ palace\ age3.ddt
+textures/building\ x\ palace\ roof\ age3.ddt
+textures/building\ x\ palace\ roof.ddt
+textures/building\ x\ roof\ age0.ddt
+textures/building\ x\ roof\ age1.ddt
+textures/building\ x\ roof\ age2.ddt
+textures/building\ x\ roof\ age3.ddt
+textures/building\ x\ settlement\ age0\ shadow.ddt
+textures/building\ x\ settlement\ age1\ shadow.ddt
+textures/building\ x\ settlement\ age2\ fortified\ shadow.ddt
+textures/building\ x\ settlement\ age2\ shadow.ddt
+textures/building\ x\ shared\ age0.ddt
+textures/building\ x\ shared\ age3.ddt
+textures/building\ x\ sky\ temple\ roof.ddt
+textures/building\ x\ sky\ temple\ shadow.ddt
+textures/building\ x\ sky\ temple.ddt
+textures/building\ x\ specialist\ age2\ shadow.ddt
+textures/building\ x\ statue\ stand\ in.ddt
+textures/building\ x\ stone\ wall.ddt
+textures/building\ x\ temple\ age0\ shadow.ddt
+textures/building\ x\ temple\ age0.ddt
+textures/building\ x\ temple\ age1\ shadow.ddt
+textures/building\ x\ temple\ age1.ddt
+textures/building\ x\ temple\ age2\ shadow.ddt
+textures/building\ x\ temple\ age2.ddt
+textures/building\ x\ temple\ age3\ shadow.ddt
+textures/building\ x\ temple\ age3.ddt
+textures/building\ x\ temple\ og1\ 25.ddt
+textures/building\ x\ temple\ og1\ 50.ddt
+textures/building\ x\ temple\ og1\ 75.ddt
+textures/building\ x\ temple\ og1.ddt
+textures/building\ x\ temple\ og2\ 25.ddt
+textures/building\ x\ temple\ og2\ 50.ddt
+textures/building\ x\ temple\ og2\ 75.ddt
+textures/building\ x\ temple\ og2.ddt
+textures/building\ x\ titangate.ddt
+textures/building\ x\ tower\ watch.ddt
+textures/building\ x\ tower\ watch2.ddt
+textures/building\ x\ tower\ watch3.ddt
+textures/building\ x\ tower\ watch4.ddt
+textures/building\ x\ towers.ddt
+textures/building\ x\ wall\ age2.ddt
+textures/building\ x\ wall\ age3.ddt
+textures/building\ x\ wall\ bronze.ddt
+textures/building\ x\ wall\ iron.ddt
+textures/building\ x\ wall\ oreichalkos\ damage.ddt
+textures/building\ x\ wall\ oreichalkos.ddt
+textures/building\ x\ wall\ stone.ddt
+textures/building\ x\ watch\ tower\ shadow.ddt
+textures/building\ x\ wonder\ gaia\ shadow.ddt
+textures/building\ x\ wonder\ kronos\ shadow.ddt
+textures/building\ x\ wonder\ oranos\ shadow.ddt
+textures/building_e_monumentbase_map.ddt
+textures/buildingestatue01.ddt
+textures/buildingshadow_decal.ddt
+textures/buildingshadow_decaltc.ddt
+textures/burst.ddt
+textures/bush01.ddt
+textures/butterfly.ddt
+textures/cavalry\ c\ cataphract\ bronze.ddt
+textures/cavalry\ c\ cataphract\ copper.ddt
+textures/cavalry\ c\ cataphract\ head\ bronze.ddt
+textures/cavalry\ c\ cataphract\ head\ copper.ddt
+textures/cavalry\ c\ cataphract\ head\ iron.ddt
+textures/cavalry\ c\ cataphract\ head\ standard.ddt
+textures/cavalry\ c\ cataphract\ horse\ bronze.ddt
+textures/cavalry\ c\ cataphract\ horse\ copper.ddt
+textures/cavalry\ c\ cataphract\ horse\ iron.ddt
+textures/cavalry\ c\ cataphract\ horse\ standard.ddt
+textures/cavalry\ c\ cataphract\ icon.ddt
+textures/cavalry\ c\ cataphract\ iron.ddt
+textures/cavalry\ c\ cataphract\ standard.ddt
+textures/cavalry\ c\ chariot\ bronze.ddt
+textures/cavalry\ c\ chariot\ copper.ddt
+textures/cavalry\ c\ chariot\ horse\ bronze.ddt
+textures/cavalry\ c\ chariot\ horse\ iron.ddt
+textures/cavalry\ c\ chariot\ horse\ standard.ddt
+textures/cavalry\ c\ chariot\ iron.ddt
+textures/cavalry\ c\ chariot\ standard.ddt
+textures/cavalry\ c\ charioteer\ bronze.ddt
+textures/cavalry\ c\ charioteer\ iron.ddt
+textures/cavalry\ c\ charioteer\ standard.ddt
+textures/cavalry\ c\ scout\ bronze.ddt
+textures/cavalry\ c\ scout\ copper.ddt
+textures/cavalry\ c\ scout\ head\ bronze.ddt
+textures/cavalry\ c\ scout\ head\ copper.ddt
+textures/cavalry\ c\ scout\ head\ iron.ddt
+textures/cavalry\ c\ scout\ head\ standard.ddt
+textures/cavalry\ c\ scout\ horse\ bronze.ddt
+textures/cavalry\ c\ scout\ horse\ copper.ddt
+textures/cavalry\ c\ scout\ horse\ iron.ddt
+textures/cavalry\ c\ scout\ horse\ standard.ddt
+textures/cavalry\ c\ scout\ icon.ddt
+textures/cavalry\ c\ scout\ iron.ddt
+textures/cavalry\ c\ scout\ standard.ddt
+textures/cavalry\ c\ war\ chariot\ icon.ddt
+textures/cavalry\ e\ camelry\ bronze.ddt
+textures/cavalry\ e\ camelry\ camel\ bronze.ddt
+textures/cavalry\ e\ camelry\ camel\ copper.ddt
+textures/cavalry\ e\ camelry\ camel\ iron.ddt
+textures/cavalry\ e\ camelry\ camel\ map.ddt
+textures/cavalry\ e\ camelry\ camel\ standard.ddt
+textures/cavalry\ e\ camelry\ copper.ddt
+textures/cavalry\ e\ camelry\ corpse\ bodya.ddt
+textures/cavalry\ e\ camelry\ head\ bronze.ddt
+textures/cavalry\ e\ camelry\ head\ copper.ddt
+textures/cavalry\ e\ camelry\ head\ iron.ddt
+textures/cavalry\ e\ camelry\ head\ standard.ddt
+textures/cavalry\ e\ camelry\ iron.ddt
+textures/cavalry\ e\ camelry\ map.ddt
+textures/cavalry\ e\ camelry\ skeletona.ddt
+textures/cavalry\ e\ camelry\ standard.ddt
+textures/cavalry\ e\ chariot\ archer\ bronze.ddt
+textures/cavalry\ e\ chariot\ archer\ copper.ddt
+textures/cavalry\ e\ chariot\ archer\ corpse\ bodya.ddt
+textures/cavalry\ e\ chariot\ archer\ iron.ddt
+textures/cavalry\ e\ chariot\ archer\ skeletona.ddt
+textures/cavalry\ e\ chariot\ chariot\ map.ddt
+textures/cavalry\ e\ chariot\ horse\ map.ddt
+textures/cavalry\ e\ chariot\ map.ddt
+textures/cavalry\ e\ mercenary\ corpse\ bodya.ddt
+textures/cavalry\ e\ mercenary\ horse\ iron.ddt
+textures/cavalry\ e\ mercenary\ horse\ standard.ddt
+textures/cavalry\ e\ mercenary\ skeletona.ddt
+textures/cavalry\ e\ war\ elephant\ basket\ bronze.ddt
+textures/cavalry\ e\ war\ elephant\ basket\ copper.ddt
+textures/cavalry\ e\ war\ elephant\ basket\ iron.ddt
+textures/cavalry\ e\ war\ elephant\ basket\ standard.ddt
+textures/cavalry\ e\ war\ elephant\ bronze.ddt
+textures/cavalry\ e\ war\ elephant\ copper.ddt
+textures/cavalry\ e\ war\ elephant\ corpse\ bodya.ddt
+textures/cavalry\ e\ war\ elephant\ head\ bronze.ddt
+textures/cavalry\ e\ war\ elephant\ head\ copper.ddt
+textures/cavalry\ e\ war\ elephant\ head\ iron.ddt
+textures/cavalry\ e\ war\ elephant\ head\ standard.ddt
+textures/cavalry\ e\ war\ elephant\ iron.ddt
+textures/cavalry\ e\ war\ elephant\ rider\ bronze.ddt
+textures/cavalry\ e\ war\ elephant\ rider\ copper.ddt
+textures/cavalry\ e\ war\ elephant\ rider\ iron.ddt
+textures/cavalry\ e\ war\ elephant\ rider\ standard.ddt
+textures/cavalry\ e\ war\ elephant\ skeletona.ddt
+textures/cavalry\ e\ war\ elephant\ tusks\ bronze.ddt
+textures/cavalry\ e\ war\ elephant\ tusks\ copper.ddt
+textures/cavalry\ e\ war\ elephant\ tusks\ iron.ddt
+textures/cavalry\ e\ war\ elephant\ tusks\ standard.ddt
+textures/cavalry\ g\ cataphract\ corpse\ bodya.ddt
+textures/cavalry\ g\ cataphract\ head\ iron.ddt
+textures/cavalry\ g\ cataphract\ horse\ iron.ddt
+textures/cavalry\ g\ cataphract\ iron.ddt
+textures/cavalry\ g\ cataphract\ skeletona.ddt
+textures/cavalry\ g\ hetairoi\ bronze.ddt
+textures/cavalry\ g\ hetairoi\ cape.ddt
+textures/cavalry\ g\ hetairoi\ copper.ddt
+textures/cavalry\ g\ hetairoi\ corpse\ bodya.ddt
+textures/cavalry\ g\ hetairoi\ head\ iron.ddt
+textures/cavalry\ g\ hetairoi\ horse\ iron.ddt
+textures/cavalry\ g\ hetairoi\ iron.ddt
+textures/cavalry\ g\ hetairoi\ skeletona.ddt
+textures/cavalry\ g\ hippikon\ bronze.ddt
+textures/cavalry\ g\ hippikon\ cape.ddt
+textures/cavalry\ g\ hippikon\ copper.ddt
+textures/cavalry\ g\ hippikon\ corpse\ bodya.ddt
+textures/cavalry\ g\ hippikon\ head\ bronze.ddt
+textures/cavalry\ g\ hippikon\ head\ copper.ddt
+textures/cavalry\ g\ hippikon\ head\ iron.ddt
+textures/cavalry\ g\ hippikon\ head\ standard.ddt
+textures/cavalry\ g\ hippikon\ horse\ bronze.ddt
+textures/cavalry\ g\ hippikon\ horse\ copper.ddt
+textures/cavalry\ g\ hippikon\ horse\ iron.ddt
+textures/cavalry\ g\ hippikon\ horse\ standard.ddt
+textures/cavalry\ g\ hippikon\ iron.ddt
+textures/cavalry\ g\ hippikon\ skeletona.ddt
+textures/cavalry\ g\ hippikon\ standard.ddt
+textures/cavalry\ g\ light\ cavalry\ spear\ map.ddt
+textures/cavalry\ g\ prodromos\ bronze.ddt
+textures/cavalry\ g\ prodromos\ copper.ddt
+textures/cavalry\ g\ prodromos\ corpse\ bodya.ddt
+textures/cavalry\ g\ prodromos\ head\ bronze.ddt
+textures/cavalry\ g\ prodromos\ head\ copper.ddt
+textures/cavalry\ g\ prodromos\ head\ iron.ddt
+textures/cavalry\ g\ prodromos\ head\ standard.ddt
+textures/cavalry\ g\ prodromos\ horse\ bronze.ddt
+textures/cavalry\ g\ prodromos\ horse\ copper.ddt
+textures/cavalry\ g\ prodromos\ horse\ iron.ddt
+textures/cavalry\ g\ prodromos\ horse\ standard.ddt
+textures/cavalry\ g\ prodromos\ iron.ddt
+textures/cavalry\ g\ prodromos\ skeletona.ddt
+textures/cavalry\ g\ prodromos\ standard.ddt
+textures/cavalry\ g\ scout\ corpse\ bodya.ddt
+textures/cavalry\ g\ scout\ horse.ddt
+textures/cavalry\ g\ scout\ skeletona.ddt
+textures/cavalry\ n\ jarl\ bronze.ddt
+textures/cavalry\ n\ jarl\ cape.ddt
+textures/cavalry\ n\ jarl\ copper.ddt
+textures/cavalry\ n\ jarl\ corpse\ bodya.ddt
+textures/cavalry\ n\ jarl\ head\ bronze.ddt
+textures/cavalry\ n\ jarl\ head\ copper.ddt
+textures/cavalry\ n\ jarl\ head\ iron.ddt
+textures/cavalry\ n\ jarl\ head\ standard.ddt
+textures/cavalry\ n\ jarl\ horse\ bronze.ddt
+textures/cavalry\ n\ jarl\ horse\ copper.ddt
+textures/cavalry\ n\ jarl\ horse\ iron.ddt
+textures/cavalry\ n\ jarl\ horse\ standard.ddt
+textures/cavalry\ n\ jarl\ iron.ddt
+textures/cavalry\ n\ jarl\ skeletona.ddt
+textures/cavalry\ n\ jarl\ standard.ddt
+textures/cavalry\ n\ raiding\ cavalry\ bronze.ddt
+textures/cavalry\ n\ raiding\ cavalry\ copper.ddt
+textures/cavalry\ n\ raiding\ cavalry\ corpse\ bodya.ddt
+textures/cavalry\ n\ raiding\ cavalry\ head\ bronze.ddt
+textures/cavalry\ n\ raiding\ cavalry\ head\ copper.ddt
+textures/cavalry\ n\ raiding\ cavalry\ head\ iron.ddt
+textures/cavalry\ n\ raiding\ cavalry\ head\ standard.ddt
+textures/cavalry\ n\ raiding\ cavalry\ horse\ bronze.ddt
+textures/cavalry\ n\ raiding\ cavalry\ horse\ copper.ddt
+textures/cavalry\ n\ raiding\ cavalry\ horse\ iron.ddt
+textures/cavalry\ n\ raiding\ cavalry\ horse\ standard.ddt
+textures/cavalry\ n\ raiding\ cavalry\ iron.ddt
+textures/cavalry\ n\ raiding\ cavalry\ skeletona.ddt
+textures/cavalry\ n\ raiding\ cavalry\ standard.ddt
+textures/cavalry\ x\ javelin\ bronze.ddt
+textures/cavalry\ x\ javelin\ copper.ddt
+textures/cavalry\ x\ javelin\ corpse\ bodya.ddt
+textures/cavalry\ x\ javelin\ corpse\ skeletona.ddt
+textures/cavalry\ x\ javelin\ hero.ddt
+textures/cavalry\ x\ javelin\ horse\ bronze.ddt
+textures/cavalry\ x\ javelin\ horse\ copper.ddt
+textures/cavalry\ x\ javelin\ horse\ hero.ddt
+textures/cavalry\ x\ javelin\ horse\ iron.ddt
+textures/cavalry\ x\ javelin\ horse\ standard.ddt
+textures/cavalry\ x\ javelin\ iron.ddt
+textures/cavalry\ x\ javelin\ standard.ddt
+textures/cavalry\ x\ lancer\ bronze.ddt
+textures/cavalry\ x\ lancer\ cape\ iron.ddt
+textures/cavalry\ x\ lancer\ copper.ddt
+textures/cavalry\ x\ lancer\ corpse\ bodya.ddt
+textures/cavalry\ x\ lancer\ corpse\ skeletona.ddt
+textures/cavalry\ x\ lancer\ hero.ddt
+textures/cavalry\ x\ lancer\ horse\ bronze.ddt
+textures/cavalry\ x\ lancer\ horse\ copper.ddt
+textures/cavalry\ x\ lancer\ horse\ hero.ddt
+textures/cavalry\ x\ lancer\ horse\ iron.ddt
+textures/cavalry\ x\ lancer\ horse\ standard.ddt
+textures/cavalry\ x\ lancer\ iron.ddt
+textures/cavalry\ x\ lancer\ standard.ddt
+textures/chat.ddt
+textures/chatlogo.ddt
+textures/cin\ villager\ x\ female_dead\ shadow.ddt
+textures/cin\ villager\ x\ male_dead\ shadow.ddt
+textures/cine\ a\ arkantos\ god\ helmet\ map.ddt
+textures/cine\ a\ arkantos\ god\ map.ddt
+textures/cine\ a\ arkantos\ god\ shoulder\ map.ddt
+textures/cine\ a\ arkantos\ helmet\ low.ddt
+textures/cine\ a\ arkantos\ helmet.ddt
+textures/cine\ a\ arkantos\ map.ddt
+textures/cine\ a\ arkantos\ shoulder\ map.ddt
+textures/cine\ a\ arkantosman\ map.ddt
+textures/cine\ a\ arkantosman\ mapblue.ddt
+textures/cine\ a\ arkantosman\ shoulder\ map.ddt
+textures/cine\ a\ brokk\ map.ddt
+textures/cine\ a\ eitri\ map.ddt
+textures/cine\ a\ jarl\ helmet\ map.ddt
+textures/cine\ a\ jarl\ horse\ map.ddt
+textures/cine\ a\ jarl\ map.ddt
+textures/cine\ a\ kemsyt\ head\ bag.ddt
+textures/cine\ a\ kemsyt\ scimitar.ddt
+textures/cine\ a\ kemsyt.ddt
+textures/cine\ a\ skult\ map.ddt
+textures/cine\ axeman\ map.ddt
+textures/cine\ bow\ map.ddt
+textures/cine\ c\ danzhu.ddt
+textures/cine\ c\ emperor\ head.ddt
+textures/cine\ c\ emperor.ddt
+textures/cine\ c\ jiaolong.ddt
+textures/cine\ c\ shun\ shoulder.ddt
+textures/cine\ c\ shun\ spear.ddt
+textures/cine\ c\ shun.ddt
+textures/cine\ c\ zhi.ddt
+textures/cine\ e\ axeman\ axe.ddt
+textures/cine\ e\ axeman\ groin.ddt
+textures/cine\ e\ axeman\ shield.ddt
+textures/cine\ e\ axeman.ddt
+textures/cine\ e\ infantry\ hairmap.ddt
+textures/cine\ e\ infantry\ map.ddt
+textures/cine\ e\ osiris\ map.ddt
+textures/cine\ e\ setna.ddt
+textures/cine\ g\ ajax\ lion\ head\ map.ddt
+textures/cine\ g\ ajax\ map.ddt
+textures/cine\ g\ ajax\ old\ lion\ head\ map.ddt
+textures/cine\ g\ ajax\ old\ map.ddt
+textures/cine\ g\ ajax\ old\ shield\ map.ddt
+textures/cine\ g\ ajax\ old\ spear\ map.ddt
+textures/cine\ g\ ajax\ shield\ map.ddt
+textures/cine\ g\ ajax.ddt
+textures/cine\ g\ amanra\ map.ddt
+textures/cine\ g\ amanra\ old\ map.ddt
+textures/cine\ g\ amanra\ shield\ map.ddt
+textures/cine\ g\ amanra\ shield\ old\ map.ddt
+textures/cine\ g\ amanra\ weapon\ map.ddt
+textures/cine\ g\ amanra\ weapon\ old\ map.ddt
+textures/cine\ g\ chiron\ map.ddt
+textures/cine\ g\ gargarensis\ map.ddt
+textures/cine\ g\ hoplite\ shield\ cine.ddt
+textures/cine\ g\ hoplite\ shield.ddt
+textures/cine\ g\ hoplite\ spear.ddt
+textures/cine\ g\ kastor\ map.ddt
+textures/cine\ g\ odysseus\ map.ddt
+textures/cine\ g\ odysseus\ quiver\ map.ddt
+textures/cine\ g\ old\ man\ map.ddt
+textures/cine\ g\ poseidon\ pirate\ trident\ shadow.ddt
+textures/cine\ g\ poseidon\ stone.ddt
+textures/cine\ g\ poseidon\ trident.ddt
+textures/cine\ low\ e\ axe\ iron.ddt
+textures/cine\ n\ hersir\ hammer.ddt
+textures/cine\ n\ hersir.ddt
+textures/cine\ n\ huskarl\ cape.ddt
+textures/cine\ n\ huskarl.ddt
+textures/cine\ n\ reginleif\ map.ddt
+textures/cine\ n\ reginleif\ weapons\ map.ddt
+textures/cine\ n\ ulfsark\ cape.ddt
+textures/cine\ n\ ulfsark.ddt
+textures/cine\ quiver\ map.ddt
+textures/cine\ spear\ map.ddt
+textures/cine\ x\ hp\ arcusmap.ddt
+textures/cine\ x\ hp\ arcusweaponsmap.ddt
+textures/cine\ x\ hp\ automatonmap.ddt
+textures/cine\ x\ hp\ autoweaponsmap.ddt
+textures/cine\ x\ hp\ fanaticmap.ddt
+textures/cine\ x\ hp\ fanaticweaponsmap.ddt
+textures/cine\ x\ hp\ melagiusmap.ddt
+textures/cine\ x\ kastor\ adult\ sword.ddt
+textures/cine\ x\ kastor\ adult.ddt
+textures/cine\ x\ krios.ddt
+textures/cine\ x\ kriosred.ddt
+textures/cine\ x\ mp\ melagius\ head.ddt
+textures/cine\ x\ trident\ soldier\ cape.ddt
+textures/cine\ x\ trident\ soldier\ helmet.ddt
+textures/cine\ x\ trident\ soldier\ shield.ddt
+textures/cine\ x\ trident\ soldier.ddt
+textures/cinematic\ naval\ g\ trireme\ b.ddt
+textures/cinematic\ naval\ g\ trireme.ddt
+textures/circles.ddt
+textures/closebutton.ddt
+textures/cloud.ddt
+textures/command\ attack\ move\ icon.ddt
+textures/command\ god\ no\ isis\ icon.ddt
+textures/curvedbow.ddt
+textures/curvedbowquiver.ddt
+textures/cyclops\ high.ddt
+textures/defaultskybox_bk.ddt
+textures/defaultskybox_dn.ddt
+textures/defaultskybox_fr.ddt
+textures/defaultskybox_lf.ddt
+textures/defaultskybox_rt.ddt
+textures/defaultskybox_up.ddt
+textures/defaultskyboxbk.ddt
+textures/defaultskyboxdn.ddt
+textures/defaultskyboxft.ddt
+textures/defaultskyboxlf.ddt
+textures/defaultskyboxrt.ddt
+textures/defaultskyboxup.ddt
+textures/defaultsub.ddt
+textures/dgl_buttons.ddt
+textures/dialog.ddt
+textures/dialog_inset.ddt
+textures/diplomacy.ddt
+textures/dock\ icon\ 32x32.ddt
+textures/earth.ddt
+textures/economic\ icon\ 32x32.ddt
+textures/erebusskybox_bk.ddt
+textures/erebusskybox_dn.ddt
+textures/erebusskybox_fr.ddt
+textures/erebusskybox_lf.ddt
+textures/erebusskybox_rt.ddt
+textures/erebusskybox_up.ddt
+textures/es_logo.ddt
+textures/fog01.ddt
+textures/fog02.ddt
+textures/fog03.ddt
+textures/fog04.ddt
+textures/fog05.ddt
+textures/fog06.ddt
+textures/fog07.ddt
+textures/fog08.ddt
+textures/fogcircle.ddt
+textures/fogedgecorner.ddt
+textures/fogedgecorner4.ddt
+textures/fogedgecorner8.ddt
+textures/fogedgetwocorners.ddt
+textures/fogedgetwocorners4.ddt
+textures/fogedgetwocorners8.ddt
+textures/fogfourcorners.ddt
+textures/fogfourcorners4.ddt
+textures/fogfourcorners8.ddt
+textures/foglshape.ddt
+textures/foglshape4.ddt
+textures/foglshape8.ddt
+textures/foglshapecorner.ddt
+textures/foglshapecorner4.ddt
+textures/foglshapecorner8.ddt
+textures/fogonecorner.ddt
+textures/fogonecorner4.ddt
+textures/fogonecorner8.ddt
+textures/fogoneedge.ddt
+textures/fogoneedge4.ddt
+textures/fogoneedge8.ddt
+textures/fogthreecorners.ddt
+textures/fogthreecorners4.ddt
+textures/fogthreecorners8.ddt
+textures/fogtwocorners.ddt
+textures/fogtwocorners4.ddt
+textures/fogtwocorners8.ddt
+textures/fogtwoedges.ddt
+textures/fogtwoedges4.ddt
+textures/fogtwoedges8.ddt
+textures/fogtwooppositecorners.ddt
+textures/fogtwooppositecorners4.ddt
+textures/fogtwooppositecorners8.ddt
+textures/fogushape.ddt
+textures/fogushape4.ddt
+textures/fogushape8.ddt
+textures/forkboy\ map.ddt
+textures/g\ hypaspist\ highmodelmap.ddt
+textures/g\ hypaspist\ map\ 256.ddt
+textures/gaia\ pool\ ground.ddt
+textures/gaia\ wonder\ map1.ddt
+textures/gaia\ wonder\ map2.ddt
+textures/gaia\ wonder\ statue.ddt
+textures/gaiacreepflowersa.ddt
+textures/gaiacreepflowersaop.ddt
+textures/gaiaflowers\ map.ddt
+textures/general\ body.ddt
+textures/general\ head.ddt
+textures/general\ shield.ddt
+textures/general\ sword.ddt
+textures/generate_favor.ddt
+textures/generate_food.ddt
+textures/generate_gold.ddt
+textures/generate_wood.ddt
+textures/gine\ g\ kamos\ map.ddt
+textures/gine\ g\ kamos\ map2.ddt
+textures/god\ major\ hades\ icon\ 128.ddt
+textures/god\ major\ loki\ icon\ 128.ddt
+textures/god\ major\ ra\ icon\ 128.ddt
+textures/god\ minor\ portrait\ atlantis\ atlas.ddt
+textures/god\ minor\ portrait\ atlantis\ hekate.ddt
+textures/god\ minor\ portrait\ atlantis\ helios.ddt
+textures/god\ minor\ portrait\ atlantis\ hyperion.ddt
+textures/god\ minor\ portrait\ atlantis\ leto.ddt
+textures/god\ minor\ portrait\ atlantis\ okeanus.ddt
+textures/god\ minor\ portrait\ atlantis\ prometheus.ddt
+textures/god\ minor\ portrait\ atlantis\ rheia.ddt
+textures/god\ minor\ portrait\ atlantis\ theia.ddt
+textures/god\ minor\ portrait\ chinese\ aokuang.ddt
+textures/god\ minor\ portrait\ chinese\ change.ddt
+textures/god\ minor\ portrait\ chinese\ chongli.ddt
+textures/god\ minor\ portrait\ chinese\ dabogong.ddt
+textures/god\ minor\ portrait\ chinese\ hebo.ddt
+textures/god\ minor\ portrait\ chinese\ huangdi.ddt
+textures/god\ minor\ portrait\ chinese\ sunwukong.ddt
+textures/god\ minor\ portrait\ chinese\ xiwangmu.ddt
+textures/god\ minor\ portrait\ chinese\ zhongkui.ddt
+textures/god\ minor\ portrait\ egypt\ anubis.ddt
+textures/god\ minor\ portrait\ egypt\ bast.ddt
+textures/god\ minor\ portrait\ egypt\ hathor.ddt
+textures/god\ minor\ portrait\ egypt\ horus.ddt
+textures/god\ minor\ portrait\ egypt\ nephthys.ddt
+textures/god\ minor\ portrait\ egypt\ osiris.ddt
+textures/god\ minor\ portrait\ egypt\ ptah.ddt
+textures/god\ minor\ portrait\ egypt\ sekhmet.ddt
+textures/god\ minor\ portrait\ egypt\ thoth.ddt
+textures/god\ minor\ portrait\ greek\ aphrodite.ddt
+textures/god\ minor\ portrait\ greek\ apollo.ddt
+textures/god\ minor\ portrait\ greek\ ares.ddt
+textures/god\ minor\ portrait\ greek\ artemis.ddt
+textures/god\ minor\ portrait\ greek\ athena.ddt
+textures/god\ minor\ portrait\ greek\ dionysus.ddt
+textures/god\ minor\ portrait\ greek\ hephaestus.ddt
+textures/god\ minor\ portrait\ greek\ hera.ddt
+textures/god\ minor\ portrait\ greek\ hermes.ddt
+textures/god\ minor\ portrait\ norse\ baldr.ddt
+textures/god\ minor\ portrait\ norse\ bragi.ddt
+textures/god\ minor\ portrait\ norse\ forseti.ddt
+textures/god\ minor\ portrait\ norse\ freyja.ddt
+textures/god\ minor\ portrait\ norse\ heimdall.ddt
+textures/god\ minor\ portrait\ norse\ hel.ddt
+textures/god\ minor\ portrait\ norse\ njord.ddt
+textures/god\ minor\ portrait\ norse\ skadi.ddt
+textures/god\ minor\ portrait\ norse\ tyr.ddt
+textures/god\ n\ frost\ haze\ map.ddt
+textures/god\ n\ frost\ ice\ map.ddt
+textures/god\ n\ frost\ particle\ map.ddt
+textures/god\ n\ frost\ shocksmall\ map.ddt
+textures/god\ n\ frost\ shockwave\ map.ddt
+textures/god\ n\ ice\ block\ map.ddt
+textures/god\ n\ ice\ sheet\ map.ddt
+textures/god\ n\ shadow\ ice\ map.ddt
+textures/god\ power\ call\ to\ arms\ icon.ddt
+textures/god\ power\ examination\ icon.ddt
+textures/god\ power\ firestorm\ icon.ddt
+textures/god\ power\ flood\ icon.ddt
+textures/god\ power\ inferno\ icon.ddt
+textures/god\ power\ journey\ icon.ddt
+textures/god\ power\ recreation\ icon.ddt
+textures/god\ power\ uproot\ icon.ddt
+textures/gold\ icon\ 32x32.ddt
+textures/gp\ x\ hesperides\ tree\ decal.ddt
+textures/gp\ x\ hesperides\ tree\ shadow.ddt
+textures/gp\ x\ hesperides\ tree.ddt
+textures/gp\ x\ tartarian\ gate\ crack\ a.ddt
+textures/gp\ x\ tartarian\ gate\ crack\ b.ddt
+textures/gp\ x\ tartarian\ gate\ creature\ a.ddt
+textures/gp\ x\ tartarian\ gate\ creature\ b.ddt
+textures/gp\ x\ tartarian\ gate\ creature\ corpse\ bodya.ddt
+textures/gp\ x\ tartarian\ gate\ creature\ corpse\ skeletona.ddt
+textures/gp\ x\ tartarian\ gate\ creature.ddt
+textures/gp\ x\ tartarian\ gate\ ground.ddt
+textures/gp\ x\ tartarian\ gate\ hole.ddt
+textures/gp\ x\ tartarian\ gate\ lavapool.ddt
+textures/gp\ x\ tartarian\ gate\ shimmer.ddt
+textures/gp\ x\ tartarian\ gate.ddt
+textures/greek\ button\ background.ddt
+textures/greek\ button\ background_def.xml
+textures/greek\ god\ background\ 256_def.xml
+textures/greek\ god\ background_def.xml
+textures/greekheromap.ddt
+textures/greektree01.ddt
+textures/grid1.ddt
+textures/hades2.ddt
+textures/hammer.ddt
+textures/hero\ c\ general\ cape.ddt
+textures/hero\ c\ general\ flag\ alpha.ddt
+textures/hero\ c\ general\ flag.ddt
+textures/hero\ c\ general\ head.ddt
+textures/hero\ c\ general\ horse.ddt
+textures/hero\ c\ general\ icon.ddt
+textures/hero\ c\ general.ddt
+textures/hero\ c\ immortal\ icon.ddt
+textures/hero\ c\ immortal.ddt
+textures/hero\ c\ monk\ head.ddt
+textures/hero\ c\ monk\ icon.ddt
+textures/hero\ c\ monk\ weapon.ddt
+textures/hero\ c\ monk.ddt
+textures/hero\ g\ achilles\ cape.ddt
+textures/hero\ g\ achilles\ corpse\ bodya.ddt
+textures/hero\ g\ achilles\ corpse\ skeletona.ddt
+textures/hero\ g\ achilles.ddt
+textures/hero\ g\ achillies\ corpse\ bodya.ddt
+textures/hero\ g\ achillies\ corpse\ skeletona.ddt
+textures/hero\ g\ ajax\ corpse\ bodya.ddt
+textures/hero\ g\ ajax\ corpse\ skeletona.ddt
+textures/hero\ g\ ajax\ shield.ddt
+textures/hero\ g\ ajax\ spear.ddt
+textures/hero\ g\ ajax.ddt
+textures/hero\ g\ atalanta\ corpse\ bodya.ddt
+textures/hero\ g\ atalanta\ corpse\ skeletona.ddt
+textures/hero\ g\ atalanta\ head\ standard.ddt
+textures/hero\ g\ atalanta\ shield.ddt
+textures/hero\ g\ atalanta.ddt
+textures/hero\ g\ athena\ head\ low\ map.ddt
+textures/hero\ g\ athena\ low\ map.ddt
+textures/hero\ g\ belerophon\ corpse\ bodya.ddt
+textures/hero\ g\ belerophon\ corpse\ skeletona.ddt
+textures/hero\ g\ belerophon\ head.ddt
+textures/hero\ g\ belerophon\ shield.ddt
+textures/hero\ g\ belerophon.ddt
+textures/hero\ g\ bellerophon\ shield.ddt
+textures/hero\ g\ chiron\ corpse\ bodya.ddt
+textures/hero\ g\ chiron\ corpse\ skeletona.ddt
+textures/hero\ g\ chiron\ shield.ddt
+textures/hero\ g\ chiron.ddt
+textures/hero\ g\ heracles\ club.ddt
+textures/hero\ g\ heracles\ head.ddt
+textures/hero\ g\ heracles\ shield.ddt
+textures/hero\ g\ heracles.ddt
+textures/hero\ g\ hercules\ corpse\ bodya.ddt
+textures/hero\ g\ hercules\ corpse\ skeletona.ddt
+textures/hero\ g\ hercules\ head.ddt
+textures/hero\ g\ hercules.ddt
+textures/hero\ g\ hippolyta\ corpse\ bodya.ddt
+textures/hero\ g\ hippolyta\ corpse\ skeletona.ddt
+textures/hero\ g\ hippolyta\ head\ standard.ddt
+textures/hero\ g\ hippolyta.ddt
+textures/hero\ g\ jason\ corpse\ bodya.ddt
+textures/hero\ g\ jason\ corpse\ skeletona.ddt
+textures/hero\ g\ jason\ head\ standard.ddt
+textures/hero\ g\ jason\ shield.ddt
+textures/hero\ g\ jason\ standard.ddt
+textures/hero\ g\ melagius\ corpse\ bodya.ddt
+textures/hero\ g\ melagius\ corpse\ skeletona.ddt
+textures/hero\ g\ perseus\ corpse\ bodya.ddt
+textures/hero\ g\ perseus\ corpse\ skeletona.ddt
+textures/hero\ g\ perseus\ head\ standard.ddt
+textures/hero\ g\ perseus\ standard.ddt
+textures/hero\ g\ physician\ head.ddt
+textures/hero\ g\ physician.ddt
+textures/hero\ g\ polyphemus\ corpse\ bodya.ddt
+textures/hero\ g\ polyphemus\ corpse\ skeletona.ddt
+textures/hero\ g\ polyphemus\ shield.ddt
+textures/hero\ g\ theseus\ corpse\ bodya.ddt
+textures/hero\ g\ theseus\ corpse\ skeletona.ddt
+textures/hero\ g\ theseus\ head\ standard.ddt
+textures/hero\ g\ theseus\ shield.ddt
+textures/hero\ g\ theseus.ddt
+textures/hero\ n\ hero\ hammer\ low.ddt
+textures/hero\ n\ hero\ hammer.ddt
+textures/hero\ n\ hero\ head\ low.ddt
+textures/hero\ n\ hero\ head.ddt
+textures/hero\ n\ hero\ low.ddt
+textures/hero\ n\ hero.ddt
+textures/hero\ n\ hersir\ corpse\ bodya.ddt
+textures/hero\ n\ hersir\ corpse\ skeletona.ddt
+textures/hero\ n\ hersir\ head.ddt
+textures/hero\ n\ hersir.ddt
+textures/hero\ n\ ragnorok\ axe.ddt
+textures/hero\ n\ ragnorok\ dwarf\ corpse\ bodya.ddt
+textures/hero\ n\ ragnorok\ dwarf\ corpse\ skeletona.ddt
+textures/hero\ n\ ragnorok\ female\ corpse\ bodya.ddt
+textures/hero\ n\ ragnorok\ female\ corpse\ skeletona.ddt
+textures/hero\ n\ ragnorok\ female\ head.ddt
+textures/hero\ n\ ragnorok\ female.ddt
+textures/hero\ n\ ragnorok\ male\ corpse\ bodya.ddt
+textures/hero\ n\ ragnorok\ male\ corpse\ skeletona.ddt
+textures/hero\ n\ ragnorok\ male\ head.ddt
+textures/hero\ n\ ragnorok\ male.ddt
+textures/hero\ x\ ajax\ shield.ddt
+textures/hero\ x\ ajax\ spear.ddt
+textures/hero\ x\ ajax.ddt
+textures/hero\ x\ kastor.ddt
+textures/hoplitemap\ cine.ddt
+textures/hoplitemap.ddt
+textures/house\ icon\ 32x32.ddt
+textures/icetitan.ddt
+textures/icon\ object\ stat\ attack\ pierce.ddt
+textures/icon\ resource\ population.ddt
+textures/igc\ stone\ prop.ddt
+textures/improvement\ acupuncture\ icon.ddt
+textures/improvement\ aokuang\ icon.ddt
+textures/improvement\ bone\ oracle\ script\ icon.ddt
+textures/improvement\ burials\ icon.ddt
+textures/improvement\ celestial\ palace\ icon.ddt
+textures/improvement\ champion\ barracks\ icon.ddt
+textures/improvement\ change\ icon.ddt
+textures/improvement\ chongli\ icon.ddt
+textures/improvement\ dabogong\ icon.ddt
+textures/improvement\ dragon\ scales\ icon.ddt
+textures/improvement\ east\ sea\ icon.ddt
+textures/improvement\ elixir\ of\ immortality\ icon.ddt
+textures/improvement\ golden\ banded\ staff\ icon.ddt
+textures/improvement\ golden\ peaches\ icon.ddt
+textures/improvement\ heavenly\ fire\ icon.ddt
+textures/improvement\ heavy\ barracks\ icon.ddt
+textures/improvement\ hebo\ icon.ddt
+textures/improvement\ house\ altars\ icon.ddt
+textures/improvement\ houyis\ bow\ icon.ddt
+textures/improvement\ huangdi\ icon.ddt
+textures/improvement\ jade\ rabbit\ icon.ddt
+textures/improvement\ landlord\ spirit\ icon.ddt
+textures/improvement\ life\ drain\ icon.ddt
+textures/improvement\ lord\ of\ the\ river\ icon.ddt
+textures/improvement\ medium\ barracks\ icon.ddt
+textures/improvement\ nezhas\ defeat\ icon.ddt
+textures/improvement\ oracle\ bone\ script\ icon.ddt
+textures/improvement\ paper\ talisman\ icon.ddt
+textures/improvement\ pillar\ of\ the\ ocean\ icon.ddt
+textures/improvement\ stone\ armor\ icon.ddt
+textures/improvement\ sunwukong\ icon.ddt
+textures/improvement\ tiger\ spirit\ icon.ddt
+textures/improvement\ wheelbarrow\ icon.ddt
+textures/improvement\ xiwangmu\ icon.ddt
+textures/improvement\ zhongkui\ icon.ddt
+textures/infantry\ c\ halberdier\ bronze.ddt
+textures/infantry\ c\ halberdier\ copper.ddt
+textures/infantry\ c\ halberdier\ head\ bronze.ddt
+textures/infantry\ c\ halberdier\ head\ copper.ddt
+textures/infantry\ c\ halberdier\ head\ iron.ddt
+textures/infantry\ c\ halberdier\ head\ standard.ddt
+textures/infantry\ c\ halberdier\ icon.ddt
+textures/infantry\ c\ halberdier\ iron.ddt
+textures/infantry\ c\ halberdier\ standard.ddt
+textures/infantry\ e\ axeman\ axe\ map.ddt
+textures/infantry\ e\ axeman\ bronze.ddt
+textures/infantry\ e\ axeman\ copper.ddt
+textures/infantry\ e\ axeman\ corpse\ bodya.ddt
+textures/infantry\ e\ axeman\ corpse\ skeletona.ddt
+textures/infantry\ e\ axeman\ head\ bronze.ddt
+textures/infantry\ e\ axeman\ head\ copper.ddt
+textures/infantry\ e\ axeman\ head\ iron.ddt
+textures/infantry\ e\ axeman\ head\ standard.ddt
+textures/infantry\ e\ axeman\ iron.ddt
+textures/infantry\ e\ axeman\ map.ddt
+textures/infantry\ e\ axeman\ standard.ddt
+textures/infantry\ e\ chariot\ archer\ iron\ map.ddt
+textures/infantry\ e\ khopesh\ bronze.ddt
+textures/infantry\ e\ khopesh\ copper.ddt
+textures/infantry\ e\ khopesh\ head\ bronze.ddt
+textures/infantry\ e\ khopesh\ head\ copper.ddt
+textures/infantry\ e\ khopesh\ head\ iron.ddt
+textures/infantry\ e\ khopesh\ head\ standard.ddt
+textures/infantry\ e\ khopesh\ iron.ddt
+textures/infantry\ e\ khopesh\ standard.ddt
+textures/infantry\ e\ mercenary\ corpse\ bodya.ddt
+textures/infantry\ e\ mercenary\ corpse\ skeletona.ddt
+textures/infantry\ e\ mercenary\ head.ddt
+textures/infantry\ e\ mercenary.ddt
+textures/infantry\ e\ spearman\ bronze.ddt
+textures/infantry\ e\ spearman\ copper.ddt
+textures/infantry\ e\ spearman\ corpse\ bodya.ddt
+textures/infantry\ e\ spearman\ corpse\ skeletona.ddt
+textures/infantry\ e\ spearman\ head\ bronze.ddt
+textures/infantry\ e\ spearman\ head\ copper.ddt
+textures/infantry\ e\ spearman\ head\ iron.ddt
+textures/infantry\ e\ spearman\ head\ standard.ddt
+textures/infantry\ e\ spearman\ iron.ddt
+textures/infantry\ e\ spearman\ map.ddt
+textures/infantry\ e\ spearman\ shield\ map.ddt
+textures/infantry\ e\ spearman\ standard.ddt
+textures/infantry\ g\ hoplite\ bronze.ddt
+textures/infantry\ g\ hoplite\ copper.ddt
+textures/infantry\ g\ hoplite\ corpse\ bodya.ddt
+textures/infantry\ g\ hoplite\ corpse\ skeletona.ddt
+textures/infantry\ g\ hoplite\ head\ bronze.ddt
+textures/infantry\ g\ hoplite\ head\ copper.ddt
+textures/infantry\ g\ hoplite\ head\ iron\ cine.ddt
+textures/infantry\ g\ hoplite\ head\ iron.ddt
+textures/infantry\ g\ hoplite\ head\ standard.ddt
+textures/infantry\ g\ hoplite\ iron\ cine.ddt
+textures/infantry\ g\ hoplite\ iron.ddt
+textures/infantry\ g\ hoplite\ map_01.ddt
+textures/infantry\ g\ hoplite\ map_02.ddt
+textures/infantry\ g\ hoplite\ map_03.ddt
+textures/infantry\ g\ hoplite\ map_04.ddt
+textures/infantry\ g\ hoplite\ standard.ddt
+textures/infantry\ g\ hypaspist\ bronze.ddt
+textures/infantry\ g\ hypaspist\ cape.ddt
+textures/infantry\ g\ hypaspist\ copper.ddt
+textures/infantry\ g\ hypaspist\ corpse\ bodya.ddt
+textures/infantry\ g\ hypaspist\ corpse\ skeletona.ddt
+textures/infantry\ g\ hypaspist\ head\ bronze.ddt
+textures/infantry\ g\ hypaspist\ head\ copper.ddt
+textures/infantry\ g\ hypaspist\ head\ iron.ddt
+textures/infantry\ g\ hypaspist\ head\ standard.ddt
+textures/infantry\ g\ hypaspist\ iron.ddt
+textures/infantry\ g\ hypaspist\ map.ddt
+textures/infantry\ g\ hypaspist\ standard.ddt
+textures/infantry\ g\ militia\ corpse\ bodya.ddt
+textures/infantry\ g\ militia\ corpse\ skeletona.ddt
+textures/infantry\ g\ militia\ head.ddt
+textures/infantry\ g\ militia.ddt
+textures/infantry\ g\ myrmidon\ corpse\ bodya.ddt
+textures/infantry\ g\ myrmidon\ corpse\ skeletona.ddt
+textures/infantry\ g\ myrmidon\ head\ iron.ddt
+textures/infantry\ g\ myrmidon\ iron.ddt
+textures/infantry\ n\ bondi\ bronze.ddt
+textures/infantry\ n\ bondi\ copper.ddt
+textures/infantry\ n\ bondi\ head\ bronze.ddt
+textures/infantry\ n\ bondi\ head\ copper.ddt
+textures/infantry\ n\ bondi\ head\ iron.ddt
+textures/infantry\ n\ bondi\ head\ standard.ddt
+textures/infantry\ n\ bondi\ iron.ddt
+textures/infantry\ n\ bondi\ standard.ddt
+textures/infantry\ n\ huskarl\ bronze.ddt
+textures/infantry\ n\ huskarl\ cape.ddt
+textures/infantry\ n\ huskarl\ copper.ddt
+textures/infantry\ n\ huskarl\ corpse\ bodya.ddt
+textures/infantry\ n\ huskarl\ corpse\ skeletona.ddt
+textures/infantry\ n\ huskarl\ head\ bronze.ddt
+textures/infantry\ n\ huskarl\ head\ copper.ddt
+textures/infantry\ n\ huskarl\ head\ iron.ddt
+textures/infantry\ n\ huskarl\ head\ standard.ddt
+textures/infantry\ n\ huskarl\ iron.ddt
+textures/infantry\ n\ huskarl\ standard.ddt
+textures/infantry\ n\ ulfsark\ bronze.ddt
+textures/infantry\ n\ ulfsark\ cape\ bronze.ddt
+textures/infantry\ n\ ulfsark\ cape\ copper.ddt
+textures/infantry\ n\ ulfsark\ cape\ iron.ddt
+textures/infantry\ n\ ulfsark\ cape\ standard.ddt
+textures/infantry\ n\ ulfsark\ copper.ddt
+textures/infantry\ n\ ulfsark\ corpse\ bodya.ddt
+textures/infantry\ n\ ulfsark\ corpse\ skeletona.ddt
+textures/infantry\ n\ ulfsark\ head\ bronze.ddt
+textures/infantry\ n\ ulfsark\ head\ copper.ddt
+textures/infantry\ n\ ulfsark\ head\ iron.ddt
+textures/infantry\ n\ ulfsark\ head\ scout.ddt
+textures/infantry\ n\ ulfsark\ head\ standard.ddt
+textures/infantry\ n\ ulfsark\ iron.ddt
+textures/infantry\ n\ ulfsark\ map.ddt
+textures/infantry\ n\ ulfsark\ scout.ddt
+textures/infantry\ n\ ulfsark\ standard.ddt
+textures/infantry\ x\ 2\ sword\ fighter\ corpse\ bodya.ddt
+textures/infantry\ x\ 2\ sword\ fighter\ corpse\ skeletona.ddt
+textures/infantry\ x\ 2\ sword\ fighter\ hero.ddt
+textures/infantry\ x\ 2\ sword\ fighter\ iron.ddt
+textures/infantry\ x\ maceman\ bronze.ddt
+textures/infantry\ x\ maceman\ copper.ddt
+textures/infantry\ x\ maceman\ corpse\ bodya.ddt
+textures/infantry\ x\ maceman\ corpse\ skeletona.ddt
+textures/infantry\ x\ maceman\ hero.ddt
+textures/infantry\ x\ maceman\ iron.ddt
+textures/infantry\ x\ maceman\ standard.ddt
+textures/infantry\ x\ swordsman\ bronze.ddt
+textures/infantry\ x\ swordsman\ copper.ddt
+textures/infantry\ x\ swordsman\ hero.ddt
+textures/infantry\ x\ swordsman\ iron.ddt
+textures/infantry\ x\ swordsman\ standard.ddt
+textures/infantry\ x\ swordsmen\ corpse\ bodya.ddt
+textures/infantry\ x\ swordsmen\ corpse\ skeletona.ddt
+textures/infantry\ x\ trident\ soldier\ cape\ iron.ddt
+textures/infantry\ x\ trident\ soldier\ corpse\ bodya.ddt
+textures/infantry\ x\ trident\ soldier\ corpse\ skeletona.ddt
+textures/infantry\ x\ trident\ soldier\ head\ hero.ddt
+textures/infantry\ x\ trident\ soldier\ head\ iron.ddt
+textures/infantry\ x\ trident\ soldier\ hero.ddt
+textures/infantry\ x\ trident\ soldier\ iron.ddt
+textures/infantry\ x\ trident\ soldier\ shield\ hero.ddt
+textures/infantry\ x\ trident\ soldier\ shield\ iron.ddt
+textures/infantry\ x\ trident\ soldier\ trident\ iron.ddt
+textures/jceblend.ddt
+textures/jceblendcircle.ddt
+textures/jceblendcircle2.ddt
+textures/jceblendcircle3.ddt
+textures/jceblendcorner.ddt
+textures/jceblendcorner2.ddt
+textures/jceblendedge.ddt
+textures/jceblendedge2.ddt
+textures/jceblendedge3.ddt
+textures/jceblendedge4.ddt
+textures/jceblendedge5.ddt
+textures/jceblendedgecorner.ddt
+textures/jceblendedgetwocorners.ddt
+textures/jceblendfourcorners.ddt
+textures/jceblendlshape.ddt
+textures/jceblendlshape2.ddt
+textures/jceblendlshapecorner.ddt
+textures/jceblendthreecorners.ddt
+textures/jceblendtwocorners.ddt
+textures/jceblendtwoedges.ddt
+textures/jceblendtwooppositecorners.ddt
+textures/jceblendushape.ddt
+textures/jcedirt.ddt
+textures/kronos\ wonder\ map1.ddt
+textures/kronos\ wonder\ map2.ddt
+textures/ladder.ddt
+textures/lava\ crack.ddt
+textures/lava.ddt
+textures/light.ddt
+textures/lightning.ddt
+textures/lionheadmap.ddt
+textures/loading_background.ddt
+textures/loading_filler.ddt
+textures/low\ infantry\ g\ normal\ head\ bronze.ddt
+textures/low\ infantry\ g\ normal\ head\ copper.ddt
+textures/low\ infantry\ g\ normal\ head\ iron.ddt
+textures/low\ infantry\ g\ normal\ head\ standard.ddt
+textures/lp\ cavalry\ x.ddt
+textures/lp\ cine\ x\ krios.ddt
+textures/lp\ cine\ x\ kriosred.ddt
+textures/lp\ e\ cavalry.ddt
+textures/lp\ e\ chariot\ archer.ddt
+textures/lp\ e\ infantry.ddt
+textures/lp\ e\ mercenaries.ddt
+textures/lp\ e\ villager.ddt
+textures/lp\ g\ cataphract\ horse\ iron.ddt
+textures/lp\ g\ cavalry.ddt
+textures/lp\ g\ crossbowman.ddt
+textures/lp\ g\ hetairoi\ horse\ iron.ddt
+textures/lp\ g\ hetairoi.ddt
+textures/lp\ g\ infantry.ddt
+textures/lp\ g\ militia.ddt
+textures/lp\ g\ myrmidon.ddt
+textures/lp\ g\ villager.ddt
+textures/lp\ infantry\ archery\ x.ddt
+textures/lp\ mu\ x\ argus\ map.ddt
+textures/lp\ mu\ x\ stymphalian\ bird\ map.ddt
+textures/lp\ n\ cavalry.ddt
+textures/lp\ n\ dwarf.ddt
+textures/lp\ n\ infantry.ddt
+textures/lp\ n\ ragnorok.ddt
+textures/lp\ n\ villager.ddt
+textures/lp\ villager\ trade\ x.ddt
+textures/medusa\ stone.ddt
+textures/menuicon.ddt
+textures/meteor_shadow.ddt
+textures/military\ icon\ 32x32.ddt
+textures/mini_lightning.ddt
+textures/minicamp_arrow1.ddt
+textures/minicamp_arrow2.ddt
+textures/minicamp_arrow3a.ddt
+textures/minicamp_arrow3b.ddt
+textures/minicamp_BattleBoar.ddt
+textures/minicamp_Brokk.ddt
+textures/minicamp_Cave.ddt
+textures/minicamp_Eitri.ddt
+textures/minimap_border.ddt
+textures/minimap_border_c.ddt
+textures/minimap_border_def.xml
+textures/minimap_border_e.ddt
+textures/minimap_border_g.ddt
+textures/minimap_border_n.ddt
+textures/minimap_border_x.ddt
+textures/mining_shadow.ddt
+textures/minotaur\ ring.ddt
+textures/mu\ x\ argus\ map.ddt
+textures/mu\ x\ atlantean\ flying\ medic\ corpse\ bodya.ddt
+textures/mu\ x\ atlantean\ flying\ medic\ corpse\ skeletona.ddt
+textures/mu\ x\ atlantean\ flying\ medic\ map.ddt
+textures/mu\ x\ atlantean\ hundred\ giant\ corpse\ bodya.ddt
+textures/mu\ x\ atlantean\ hundred\ giant\ corpse\ skeletona.ddt
+textures/mu\ x\ atlantean\ hundred\ giant\ map.ddt
+textures/mu\ x\ atlantean\ lampedes\ corpse\ bodya.ddt
+textures/mu\ x\ atlantean\ lampedes\ corpse\ skeletona.ddt
+textures/mu\ x\ atlantean\ lampedes\ map.ddt
+textures/mu\ x\ atlantean\ manowar\ map.ddt
+textures/mu\ x\ atlantean\ satyr\ corpse\ bodya.ddt
+textures/mu\ x\ atlantean\ satyr\ corpse\ skeletona.ddt
+textures/mu\ x\ atlantean\ satyr\ head\ map.ddt
+textures/mu\ x\ atlantean\ satyr\ map.ddt
+textures/mu\ x\ automation\ corpse\ bodya.ddt
+textures/mu\ x\ automation\ corpse\ skeletona.ddt
+textures/mu\ x\ automation\ map.ddt
+textures/mu\ x\ behemoth\ corpse\ bodya.ddt
+textures/mu\ x\ behemoth\ corpse\ skeletona.ddt
+textures/mu\ x\ behemoth\ map.ddt
+textures/mu\ x\ dryad\ hair.ddt
+textures/mu\ x\ dryad.ddt
+textures/mu\ x\ nereid\ rider\ map.ddt
+textures/mu\ x\ nereid\ shark\ map.ddt
+textures/mu\ x\ oracle.ddt
+textures/mu\ x\ promethean\ map.ddt
+textures/mu\ x\ servant\ of\ oceanus\ map.ddt
+textures/mu\ x\ stymphalian\ bird\ map.ddt
+textures/mu\ x\ stymphatian\ bird\ projectile.ddt
+textures/n\ titan\ gate\ ice.ddt
+textures/naval\ c\ all.ddt
+textures/naval\ e\ all.ddt
+textures/naval\ e\ pirate\ ship.ddt
+textures/naval\ g\ all\ wrecked.ddt
+textures/naval\ g\ all.ddt
+textures/naval\ g\ giant\ turtle.ddt
+textures/naval\ g\ war\ trireme\ oar\ splash\ map.ddt
+textures/naval\ n\ all.ddt
+textures/naval\ n\ kraken\ map.ddt
+textures/naval\ n\ kraken\ upgrade.ddt
+textures/naval\ n\ kraken.ddt
+textures/naval\ n\ utility\ map.ddt
+textures/naval\ x\ all.ddt
+textures/nightskybox_bk.ddt
+textures/nightskybox_dn.ddt
+textures/nightskybox_fr.ddt
+textures/nightskybox_lf.ddt
+textures/nightskybox_rt.ddt
+textures/nightskybox_up.ddt
+textures/noise.ddt
+textures/normal\ animal\ wolf\ map.ddt
+textures/norseheromap.ddt
+textures/norseheromap256.ddt
+textures/oranos\ wonder\ map.ddt
+textures/oranos\ wonder\ map1.ddt
+textures/oranos\ wonder\ map3.ddt
+textures/oring1.ddt
+textures/palaceshadow.ddt
+textures/palmshadow.ddt
+textures/palmshadow_blue.ddt
+textures/pickhead.ddt
+textures/pineshadow.ddt
+textures/pinetreeshadow.ddt
+textures/pinetreeshadow2.ddt
+textures/plasmafield.ddt
+textures/platform\ map.ddt
+textures/player\ color\ texture.ddt
+textures/projectile\ a\ ballista\ arrow\ iron.ddt
+textures/projectile\ a\ ballista\ arrow.ddt
+textures/projectile\ a\ siege\ rock\ map.ddt
+textures/quiverfletching.ddt
+textures/recognizer-tile.ddt
+textures/red.ddt
+textures/redround.ddt
+textures/relic\ icon\ 16x16.ddt
+textures/resizecursor.ddt
+textures/resources_def.xml
+textures/ruin01.ddt
+textures/scale_both\ cursor.ddt
+textures/scale_horiz\ cursor.ddt
+textures/scale_vert\ cursor.ddt
+textures/scenario\ a\ dwarven\ building\ a\ shadow.ddt
+textures/scenario\ a\ dwarven\ building\ b\ shadow.ddt
+textures/scenario\ a\ dwarven\ building\ c\ shadow.ddt
+textures/scenario\ a\ dwarven\ forge\ belt.ddt
+textures/scenario\ a\ dwarven\ forge\ shared\ a.ddt
+textures/scenario\ a\ dwarven\ forge\ shared\ b.ddt
+textures/scenario\ a\ gate\ ram\ decal.ddt
+textures/scenario\ a\ gate\ ram\ shadow.ddt
+textures/scenario\ a\ gate\ ram\ wall.ddt
+textures/scenario\ a\ gate\ ram.ddt
+textures/scenario\ a\ gate\ ram20.ddt
+textures/scenario\ a\ gate\ ram40.ddt
+textures/scenario\ a\ gate\ ram60.ddt
+textures/scenario\ a\ gate\ ram80.ddt
+textures/scenario\ a\ gate\ ram100.ddt
+textures/scenario\ a\ pit\ attachments.ddt
+textures/scenario\ a\ pit\ cliff.ddt
+textures/scenario\ a\ pit\ edge.ddt
+textures/scenario\ a\ pit\ tile\ cracky\ edge.ddt
+textures/scenario\ a\ pit.ddt
+textures/scenario\ a\ tartarus\ door\ cliff.ddt
+textures/scenario\ a\ tartarus\ door\ cracked\ a.ddt
+textures/scenario\ a\ tartarus\ door\ cracked\ b.ddt
+textures/scenario\ a\ tartarus\ door.ddt
+textures/scenario\ b\ amanra\ map.ddt
+textures/scenario\ b\ amanra\ swordshield\ map.ddt
+textures/scenario\ c\ danzhu\ head.ddt
+textures/scenario\ c\ danzhu.ddt
+textures/scenario\ c\ gargarensis\ map.ddt
+textures/scenario\ c\ jiaolong\ head.ddt
+textures/scenario\ c\ jiaolong.ddt
+textures/scenario\ c\ kamos\ blade.ddt
+textures/scenario\ c\ kamos\ corpse\ bodya.ddt
+textures/scenario\ c\ kamos\ corpse\ skeletona.ddt
+textures/scenario\ c\ kamos.ddt
+textures/scenario\ c\ kamos2.ddt
+textures/scenario\ c\ shun\ head.ddt
+textures/scenario\ c\ shun.ddt
+textures/scenario\ c\ zhi\ head.ddt
+textures/scenario\ c\ zhi.ddt
+textures/scenario\ e\ great\ box\ camel.ddt
+textures/scenario\ e\ great\ box\ cart.ddt
+textures/scenario\ e\ great\ box\ map.ddt
+textures/scenario\ e\ great\ box.ddt
+textures/scenario\ e\ guardian.ddt
+textures/scenario\ e\ jail\ gates.ddt
+textures/scenario\ e\ kemsyt.ddt
+textures/scenario\ e\ osiris.ddt
+textures/scenario\ e\ setna\ map.ddt
+textures/scenario\ e\ setna\ staff\ map.ddt
+textures/scenario\ e\ sword\ bearers\ corpse\ bodya.ddt
+textures/scenario\ e\ sword\ bearers\ corpse\ skeletona.ddt
+textures/scenario\ g\ arkantos\ god\ map.ddt
+textures/scenario\ g\ arkantos\ head.ddt
+textures/scenario\ g\ arkantos\ man\ map.ddt
+textures/scenario\ g\ arkantos\ man\ mapblue.ddt
+textures/scenario\ g\ arkantos\ map.ddt
+textures/scenario\ g\ chiron\ map.ddt
+textures/scenario\ g\ circe\ corpse\ bodya.ddt
+textures/scenario\ g\ circe\ corpse\ skeletona.ddt
+textures/scenario\ g\ circe\ head.ddt
+textures/scenario\ g\ circe.ddt
+textures/scenario\ g\ excavation\ terrain.ddt
+textures/scenario\ g\ kastor\ corpse\ bodya.ddt
+textures/scenario\ g\ kastor\ corpse\ skeletona.ddt
+textures/scenario\ g\ kastor\ map.ddt
+textures/scenario\ g\ odysseus\ corpse\ bodya.ddt
+textures/scenario\ g\ odysseus\ corpse\ skeletona.ddt
+textures/scenario\ g\ odysseus\ map.ddt
+textures/scenario\ g\ old\ man\ map.ddt
+textures/scenario\ g\ skult\ map.ddt
+textures/scenario\ n\ brokk\ head.ddt
+textures/scenario\ n\ brokk\ standard.ddt
+textures/scenario\ n\ dwarven\ mine\ cliff\ a.ddt
+textures/scenario\ n\ dwarven\ mine\ cliff\ b.ddt
+textures/scenario\ n\ dwarven\ mine\ inside.ddt
+textures/scenario\ n\ dwarven\ mine\ opening.ddt
+textures/scenario\ n\ dwarven\ mine\ outside.ddt
+textures/scenario\ n\ eitri\ head.ddt
+textures/scenario\ n\ eitri\ standard.ddt
+textures/scenario\ n\ flag\ bearer\ corpse\ bodya.ddt
+textures/scenario\ n\ flag\ bearer\ corpse\ skeletona.ddt
+textures/scenario\ n\ folstag\ flag.ddt
+textures/scenario\ n\ hammerdwarves\ shadow.ddt
+textures/scenario\ n\ pirate\ ship.ddt
+textures/scenario\ n\ reginleif\ map.ddt
+textures/scenario\ n\ reginleif\ weapons\ map.ddt
+textures/scenario\ n\ thors\ hammer\ cart.ddt
+textures/scenario\ n\ thors\ hammer.ddt
+textures/scenario\ old\ man\ head\ map.ddt
+textures/scenario\ skult\ head\ map.ddt
+textures/scenario\ t\ troy\ gate\ dead.ddt
+textures/scenario\ t\ troy\ gate\ deadb.ddt
+textures/scenario\ t\ troy\ gate.ddt
+textures/scenario\ t\ troy\ wall\ long\ dead.ddt
+textures/scenario\ t\ troy\ wall\ long\ deadb.ddt
+textures/scenario\ t\ troy\ wall\ long.ddt
+textures/scenario\ tamarisk\ tree\ icon\ 64.ddt
+textures/scenario\ theocrat\ head.ddt
+textures/scenario\ theocrat\ staff.ddt
+textures/scenario\ theocrat.ddt
+textures/scenario\ u\ chronos\ hand.ddt
+textures/scenario\ u\ ferryman\ map.ddt
+textures/scenario\ u\ shade.ddt
+textures/scenario\ x\ amanra\ map.ddt
+textures/scenario\ x\ amanra\ swordshield\ map.ddt
+textures/screen\ shot\ boat\ wake.ddt
+textures/settlement\ icon\ 32x32.ddt
+textures/settlment\ icon\ 32x32.ddt
+textures/sfx\ a\ acid\ flame\ a.ddt
+textures/sfx\ a\ acid\ flame\ b.ddt
+textures/sfx\ a\ acid\ flame\ c.ddt
+textures/sfx\ a\ acid\ flame\ d.ddt
+textures/sfx\ a\ acid\ flame\ e.ddt
+textures/sfx\ a\ acid\ flame\ f.ddt
+textures/sfx\ a\ armor\ human.ddt
+textures/sfx\ a\ avalanche\ snow\ debris.ddt
+textures/sfx\ a\ avalanche\ snow\ moving.ddt
+textures/sfx\ a\ avalanche\ snow.ddt
+textures/sfx\ a\ blood\ a.ddt
+textures/sfx\ a\ blood\ b.ddt
+textures/sfx\ a\ blood\ c.ddt
+textures/sfx\ a\ blood\ flow.ddt
+textures/sfx\ a\ boat\ bubbles.ddt
+textures/sfx\ a\ boat\ ripple\ small.ddt
+textures/sfx\ a\ boat\ wake\ cinematic.ddt
+textures/sfx\ a\ boat\ wake\ large.ddt
+textures/sfx\ a\ boat\ wake\ small.ddt
+textures/sfx\ a\ building\ dust.ddt
+textures/sfx\ a\ burning\ pitch.ddt
+textures/sfx\ a\ carnivora\ water.ddt
+textures/sfx\ a\ carnivora.ddt
+textures/sfx\ a\ deconstruct\ 2.ddt
+textures/sfx\ a\ deconstruct.ddt
+textures/sfx\ a\ dust.ddt
+textures/sfx\ a\ earthqauke\ cracka.ddt
+textures/sfx\ a\ earthqauke\ crackb.ddt
+textures/sfx\ a\ enrage\ light.ddt
+textures/sfx\ a\ fire\ animated.ddt
+textures/sfx\ a\ fire\ ball\ orange.ddt
+textures/sfx\ a\ fire\ ball.ddt
+textures/sfx\ a\ fire\ cast\ map.ddt
+textures/sfx\ a\ fire\ flame\ a.ddt
+textures/sfx\ a\ fire\ flame\ b.ddt
+textures/sfx\ a\ fire\ flame\ c.ddt
+textures/sfx\ a\ fire\ flame\ d.ddt
+textures/sfx\ a\ fire\ flame\ e.ddt
+textures/sfx\ a\ fire\ flame\ f.ddt
+textures/sfx\ a\ fire\ pot\ bowl.ddt
+textures/sfx\ a\ fire\ pot_01.ddt
+textures/sfx\ a\ fire\ pot_02.ddt
+textures/sfx\ a\ fire\ pot_03.ddt
+textures/sfx\ a\ fire\ scorch.ddt
+textures/sfx\ a\ fire\ wall.ddt
+textures/sfx\ a\ frost\ ice\ block.ddt
+textures/sfx\ a\ generic\ boat\ wake.ddt
+textures/sfx\ a\ generic\ building\ wake.ddt
+textures/sfx\ a\ generic\ dust\ map.ddt
+textures/sfx\ a\ generic\ smoke.ddt
+textures/sfx\ a\ heal\ light.ddt
+textures/sfx\ a\ healing\ spring\ ground.ddt
+textures/sfx\ a\ healing\ spring\ stone.ddt
+textures/sfx\ a\ healing\ spring\ water.ddt
+textures/sfx\ a\ heaven\ light.ddt
+textures/sfx\ a\ hero\ glow.ddt
+textures/sfx\ a\ hero\ soul\ red.ddt
+textures/sfx\ a\ hero\ soul.ddt
+textures/sfx\ a\ implode\ area\ lightning.ddt
+textures/sfx\ a\ implode\ clouds.ddt
+textures/sfx\ a\ implode\ crator.ddt
+textures/sfx\ a\ implode\ environment.cub
+textures/sfx\ a\ implode\ environment.ddt
+textures/sfx\ a\ implode\ glow.ddt
+textures/sfx\ a\ implode\ light\ ray.ddt
+textures/sfx\ a\ implode\ lighting\ flair.ddt
+textures/sfx\ a\ implode\ lighting.ddt
+textures/sfx\ a\ implode\ ring.ddt
+textures/sfx\ a\ implode\ shockwave.ddt
+textures/sfx\ a\ implode\ soul\ suck.ddt
+textures/sfx\ a\ implode\ streak.ddt
+textures/sfx\ a\ implode.ddt
+textures/sfx\ a\ implode_dn.ddt
+textures/sfx\ a\ implode_ft.ddt
+textures/sfx\ a\ implode_up.ddt
+textures/sfx\ a\ invisible.ddt
+textures/sfx\ a\ ip\ glow.ddt
+textures/sfx\ a\ largeroot\ glow.ddt
+textures/sfx\ a\ lighthouse\ glow.ddt
+textures/sfx\ a\ meteor\ crator\ large.ddt
+textures/sfx\ a\ meteor\ crator\ large_gloss.ddt
+textures/sfx\ a\ meteor\ crator\ large_nm.ddt
+textures/sfx\ a\ meteor\ crator\ large_spec.ddt
+textures/sfx\ a\ meteor\ crator\ small.ddt
+textures/sfx\ a\ meteor\ crator\ small_gloss.ddt
+textures/sfx\ a\ meteor\ crator\ small_nm.ddt
+textures/sfx\ a\ meteor\ crator\ small_spec.ddt
+textures/sfx\ a\ meteor\ dust.ddt
+textures/sfx\ a\ meteor\ mushroom\ smoke.ddt
+textures/sfx\ a\ meteor\ splash.ddt
+textures/sfx\ a\ meteor\ trail\ fire.ddt
+textures/sfx\ a\ meteor\ trail\ smoke.ddt
+textures/sfx\ a\ meteorite\ crator\ small.ddt
+textures/sfx\ a\ meteorite\ crator\ small_gloss.ddt
+textures/sfx\ a\ meteorite\ crator\ small_nm.ddt
+textures/sfx\ a\ meteorite\ crator\ small_spec.ddt
+textures/sfx\ a\ mist\ cloud.ddt
+textures/sfx\ a\ oil.ddt
+textures/sfx\ a\ orca\ cloud.ddt
+textures/sfx\ a\ orca\ wake.ddt
+textures/sfx\ a\ pestilence\ flies.ddt
+textures/sfx\ a\ pestilence\ smoke.ddt
+textures/sfx\ a\ rain\ cloud.ddt
+textures/sfx\ a\ rain\ sunlight.ddt
+textures/sfx\ a\ rain.ddt
+textures/sfx\ a\ rainbow.ddt
+textures/sfx\ a\ serpent\ corpse\ bodya.ddt
+textures/sfx\ a\ serpent\ corpse\ skeletona.ddt
+textures/sfx\ a\ serpent\ hole.ddt
+textures/sfx\ a\ serpent.ddt
+textures/sfx\ a\ shadow\ mist.ddt
+textures/sfx\ a\ shiny\ water.cub
+textures/sfx\ a\ shiny\ water.ddt
+textures/sfx\ a\ shiny\ water_0.ddt
+textures/sfx\ a\ shiny\ water_1.ddt
+textures/sfx\ a\ shiny\ water_2.ddt
+textures/sfx\ a\ shiny\ water_3.ddt
+textures/sfx\ a\ shiny\ water_4.ddt
+textures/sfx\ a\ shiny\ water_5.ddt
+textures/sfx\ a\ snow.ddt
+textures/sfx\ a\ sparkly.ddt
+textures/sfx\ a\ spy.ddt
+textures/sfx\ a\ stone\ map.ddt
+textures/sfx\ a\ sunlight.ddt
+textures/sfx\ a\ tornado\ dirt.ddt
+textures/sfx\ a\ tornado\ dust.ddt
+textures/sfx\ a\ tornado\ fire.ddt
+textures/sfx\ a\ tornado\ flash.ddt
+textures/sfx\ a\ tornado\ snow.ddt
+textures/sfx\ a\ tornado\ water.ddt
+textures/sfx\ a\ tunnel.ddt
+textures/sfx\ a\ undermine\ dust\ large.ddt
+textures/sfx\ a\ undermine\ dust\ small.ddt
+textures/sfx\ a\ vision\ sunlight.ddt
+textures/sfx\ a\ vortex\ beem.ddt
+textures/sfx\ a\ vortex\ light\ bands.ddt
+textures/sfx\ a\ vortex\ light\ ray.ddt
+textures/sfx\ a\ vortex\ sunlight.ddt
+textures/sfx\ a\ vortex\ swirl.ddt
+textures/sfx\ a\ walking\ woods\ hole.ddt
+textures/sfx\ a\ walking\ woods.ddt
+textures/sfx\ a\ water\ mist.ddt
+textures/sfx\ a\ water\ mistb.ddt
+textures/sfx\ a\ waterlilly\ ripple.ddt
+textures/sfx\ b\ lighthouse\ glow.ddt
+textures/sfx\ building\ dust\ map.ddt
+textures/sfx\ c\ blessed\ construction\ aura.ddt
+textures/sfx\ c\ earth\ dragon\ hole.ddt
+textures/sfx\ c\ flood.ddt
+textures/sfx\ c\ geyser\ decal.ddt
+textures/sfx\ c\ great\ journey.ddt
+textures/sfx\ c\ growth\ vines.ddt
+textures/sfx\ c\ imperial\ examination\ glow.ddt
+textures/sfx\ c\ ip\ glow.ddt
+textures/sfx\ c\ myth\ unit\ birth\ effect.ddt
+textures/sfx\ c\ qilin\ heal\ mist.ddt
+textures/sfx\ c\ recreation.ddt
+textures/sfx\ c\ shaft.ddt
+textures/sfx\ c\ sparkly.ddt
+textures/sfx\ c\ tsunami\ shockwave.ddt
+textures/sfx\ c\ tsunami\ splash.ddt
+textures/sfx\ e\ ancestors\ land.ddt
+textures/sfx\ e\ ancestors\ water.ddt
+textures/sfx\ e\ citadel\ age4.ddt
+textures/sfx\ e\ citadel\ shadow.ddt
+textures/sfx\ e\ citadel.ddt
+textures/sfx\ e\ empower\ glow.ddt
+textures/sfx\ e\ inferno\ cloud.ddt
+textures/sfx\ e\ inferno\ embers.ddt
+textures/sfx\ e\ inferno\ ground.ddt
+textures/sfx\ e\ isis\ monument\ ring.ddt
+textures/sfx\ e\ locust\ shadow.ddt
+textures/sfx\ e\ locust\ thick\ map.ddt
+textures/sfx\ e\ locust\ thin\ map.ddt
+textures/sfx\ e\ meteor\ blast\ map.ddt
+textures/sfx\ e\ meteor\ map.ddt
+textures/sfx\ e\ meteor\ shockwave\ map.ddt
+textures/sfx\ e\ myth\ unit\ birth\ effect.ddt
+textures/sfx\ e\ serpents\ water.ddt
+textures/sfx\ e\ set\ animal\ glow.ddt
+textures/sfx\ e\ set\ animal\ symbol.ddt
+textures/sfx\ e\ set\ gaia\ animal\ glow.ddt
+textures/sfx\ e\ shifting\ sands\ dust\ wave.ddt
+textures/sfx\ e\ son\ of\ osiris\ corpse\ bodya.ddt
+textures/sfx\ e\ son\ of\ osiris\ corpse\ skeletona.ddt
+textures/sfx\ e\ son\ of\ osiris\ head.ddt
+textures/sfx\ e\ son\ of\ osiris.ddt
+textures/sfx\ e\ titan\ crator.ddt
+textures/sfx\ fire\ ball\ map.ddt
+textures/sfx\ fire\ ball\ orange\ map.ddt
+textures/sfx\ fire\ charred\ ground\ map.ddt
+textures/sfx\ fire\ flame\ map.ddt
+textures/sfx\ fire\ patch\ map.ddt
+textures/sfx\ fire\ pot\ map.ddt
+textures/sfx\ fire\ puff\ map.ddt
+textures/sfx\ fire\ smoke\ map.ddt
+textures/sfx\ flying\ debris\ 1.ddt
+textures/sfx\ flying\ debris\ 2.tgs.ddt
+textures/sfx\ flying\ debris1.ddt
+textures/sfx\ flying\ debris2.ddt
+textures/sfx\ flying\ debris3.ddt
+textures/sfx\ flying\ debris4.ddt
+textures/sfx\ flying\ debris5.ddt
+textures/sfx\ flying\ debris6.ddt
+textures/sfx\ g\ animal\ magnetism\ decal.ddt
+textures/sfx\ g\ animal\ magnetism\ select.ddt
+textures/sfx\ g\ animal\ magnetism\ shadow.ddt
+textures/sfx\ g\ animal\ magnetism\ shockwave.ddt
+textures/sfx\ g\ animal\ magnetism.ddt
+textures/sfx\ g\ arkantos\ flash.ddt
+textures/sfx\ g\ arkantos\ glow.ddt
+textures/sfx\ g\ lightning\ bolt.ddt
+textures/sfx\ g\ lightning\ cloud\ shadow.ddt
+textures/sfx\ g\ lightning\ cloud.ddt
+textures/sfx\ g\ lightning\ scorch.ddt
+textures/sfx\ g\ lightning\ skyflash.ddt
+textures/sfx\ g\ lightning\ spark.ddt
+textures/sfx\ g\ myth\ unit\ birth\ effect.ddt
+textures/sfx\ g\ plenty\ decal.ddt
+textures/sfx\ g\ plenty\ glint.ddt
+textures/sfx\ g\ plenty\ shadow.ddt
+textures/sfx\ g\ plenty.ddt
+textures/sfx\ g\ sentinel\ weapons.ddt
+textures/sfx\ g\ sentinel.ddt
+textures/sfx\ g\ titan\ crator.ddt
+textures/sfx\ meteorite\ splat\ decal.ddt
+textures/sfx\ n\ dwarven\ mine\ decal.ddt
+textures/sfx\ n\ dwarven\ mine\ shadow.ddt
+textures/sfx\ n\ dwarven\ mine.ddt
+textures/sfx\ n\ frost\ cloud.ddt
+textures/sfx\ n\ frost\ ice\ block\ ground.ddt
+textures/sfx\ n\ frost\ ice\ block\ unit\ map.ddt
+textures/sfx\ n\ frost\ ice\ block\ unit.ddt
+textures/sfx\ n\ frost\ ice\ block.ddt
+textures/sfx\ n\ frost\ shockwave.ddt
+textures/sfx\ n\ myth\ unit\ birth\ effect.ddt
+textures/sfx\ n\ nidhogg\ corpse\ bodya.ddt
+textures/sfx\ n\ nidhogg\ corpse\ skeletona.ddt
+textures/sfx\ n\ nidhogg\ fire\ breath\ ground.ddt
+textures/sfx\ n\ nidhogg\ fire\ breath.ddt
+textures/sfx\ n\ nidhogg.ddt
+textures/sfx\ n\ odin\ heal\ effect.ddt
+textures/sfx\ n\ snow\ drift\ wave.ddt
+textures/sfx\ n\ titan\ crator.ddt
+textures/sfx\ n\ tunnel\ map.ddt
+textures/sfx\ n\ valkyrie\ favor\ blue\ map.ddt
+textures/sfx\ n\ valkyrie\ favor\ green\ map.ddt
+textures/sfx\ n\ well\ of\ urd\ water\ mist.ddt
+textures/sfx\ shinygold\ map.cub
+textures/sfx\ shinygold\ map.ddt
+textures/sfx\ shinygold\ map_0.ddt
+textures/sfx\ shinygold\ map_1.ddt
+textures/sfx\ shinygold\ map_2.ddt
+textures/sfx\ shinygold\ map_3.ddt
+textures/sfx\ shinygold\ map_4.ddt
+textures/sfx\ shinygold\ map_5.ddt
+textures/sfx\ shinyice\ map.cub
+textures/sfx\ shinyice\ map.ddt
+textures/sfx\ shinyice\ map_0.ddt
+textures/sfx\ shinyice\ map_1.ddt
+textures/sfx\ shinyice\ map_2.ddt
+textures/sfx\ shinyice\ map_3.ddt
+textures/sfx\ shinyice\ map_4.ddt
+textures/sfx\ shinyice\ map_5.ddt
+textures/sfx\ snow\ flake\ map.ddt
+textures/sfx\ snow\ flake\ multi\ map.ddt
+textures/sfx\ snow\ flake\ tree\ map.ddt
+textures/sfx\ snow\ flake02\ map.ddt
+textures/sfx\ u\ lava\ bubble.ddt
+textures/sfx\ u\ lava\ bubble2.ddt
+textures/sfx\ u\ lava\ ground.ddt
+textures/sfx\ u\ underworld\ smoke.ddt
+textures/sfx\ water\ wake\ map.ddt
+textures/sfx\ x\ acid\ bubble.ddt
+textures/sfx\ x\ acid\ pot\ bowl.ddt
+textures/sfx\ x\ argus\ spit.ddt
+textures/sfx\ x\ arkantos\ birth\ bolt1.ddt
+textures/sfx\ x\ arkantos\ birth\ bolt2.ddt
+textures/sfx\ x\ arkantos\ birth\ ring.ddt
+textures/sfx\ x\ arkantos\ birth\ steak.ddt
+textures/sfx\ x\ arkatnos\ birth\ veins.ddt
+textures/sfx\ x\ automoton\ sparks.ddt
+textures/sfx\ x\ fire\ siphon\ spray\ 01.ddt
+textures/sfx\ x\ fire\ siphon\ spray.ddt
+textures/sfx\ x\ gaia\ forest\ pulse.ddt
+textures/sfx\ x\ gaia\ wonder\ waterfall.ddt
+textures/sfx\ x\ hesperides\ ring.ddt
+textures/sfx\ x\ kronos\ wonder\ steam.ddt
+textures/sfx\ x\ lampades\ blood\ mist.ddt
+textures/sfx\ x\ lampades\ bolt.ddt
+textures/sfx\ x\ lampades\ flare.ddt
+textures/sfx\ x\ lampades\ flaretga.ddt
+textures/sfx\ x\ lighthouse\ glow\ 2.ddt
+textures/sfx\ x\ lighthouse\ glow.ddt
+textures/sfx\ x\ mirror\ tower.ddt
+textures/sfx\ x\ monster\ gate\ mist.ddt
+textures/sfx\ x\ monster\ gate\ streak.ddt
+textures/sfx\ x\ monster\ gater\ streak.ddt
+textures/sfx\ x\ myth\ heka\ shock.ddt
+textures/sfx\ x\ oracle\ los.ddt
+textures/sfx\ x\ servant\ spray.ddt
+textures/sfx\ x\ shaft.ddt
+textures/sfx\ x\ shockwave\ unit\ effect.ddt
+textures/sfx\ x\ signal\ tower\ ring.ddt
+textures/sfx\ x\ sky\ passage\ glow.ddt
+textures/sfx\ x\ sky\ passage.ddt
+textures/sfx\ x\ spc\ temple\ effect\ star.ddt
+textures/sfx\ x\ spc\ temple\ effect\ swirl.ddt
+textures/sfx\ x\ spider\ egg\ bottom.ddt
+textures/sfx\ x\ spider\ egg\ sack.ddt
+textures/sfx\ x\ spider\ egg.ddt
+textures/sfx\ x\ titan\ atlantean\ footprint.ddt
+textures/sfx\ x\ titan\ crator.ddt
+textures/sfx\ x\ titan\ fire.ddt
+textures/sfx\ x\ titan\ ground\ lightning.ddt
+textures/sfx\ x\ titan\ wings.ddt
+textures/sfx\ x\ titan\ wingsr.ddt
+textures/sfx\ x\ vortex\ portal.ddt
+textures/sfx\ x\ vortex\ portal2.ddt
+textures/sfx\ x\ vortex\ portal3.ddt
+textures/sfx\ x\ vortex\ portal4.ddt
+textures/shadow\ arrow\ 16x16.ddt
+textures/shadow\ cinematic\ units.ddt
+textures/shadow\ select\ circle\ 16x16.ddt
+textures/shadow\ select\ circle\ 32x32.ddt
+textures/shadow\ select\ circle\ 64x64.ddt
+textures/shadow\ select\ circle\ 128x128.ddt
+textures/shadow\ select\ farm\ 128x128.ddt
+textures/shadow\ select\ gold\ 128x128.ddt
+textures/shadow\ select\ oval\ 16x32.ddt
+textures/shadow\ select\ oval\ 32x64.ddt
+textures/shadow\ select\ oval\ 64x128.ddt
+textures/shadow\ select\ square\ 16x16.ddt
+textures/shadow\ select\ square\ 16x64.ddt
+textures/shadow\ select\ square\ 16x128.ddt
+textures/shadow\ select\ square\ 32x32.ddt
+textures/shadow\ select\ square\ 32x128.ddt
+textures/shadow\ select\ square\ 64x64.ddt
+textures/shadow\ select\ square\ 64x256.ddt
+textures/shadow\ select\ square\ 128x128.ddt
+textures/shadow\ select\ titan\ gate.ddt
+textures/shadow\ select\ tree\ 128x128.ddt
+textures/shadow\ unit\ air\ 64x64.ddt
+textures/shadow\ unit\ ballista\ 32x32.ddt
+textures/shadow\ unit\ cart\ 32x64.ddt
+textures/shadow\ unit\ catapult\ 32x64.ddt
+textures/shadow\ unit\ cavalry\ 32x64.ddt
+textures/shadow\ unit\ chariot\ 32x64.ddt
+textures/shadow\ unit\ chicken\ 16x16.ddt
+textures/shadow\ unit\ chieroballista\ 32x32.ddt
+textures/shadow\ unit\ circle\ 32x32.ddt
+textures/shadow\ unit\ circle\ 64x64.ddt
+textures/shadow\ unit\ circle\ 128x128.ddt
+textures/shadow\ unit\ folstag\ flag\ 32x32.ddt
+textures/shadow\ unit\ fph.ddt
+textures/shadow\ unit\ great\ box\ 64x128.ddt
+textures/shadow\ unit\ naval\ 32x64.ddt
+textures/shadow\ unit\ ram\ 32x64.ddt
+textures/shadow\ unit\ scarab\ 32x64.ddt
+textures/shadow\ unit\ square\ 16x16.ddt
+textures/shadow\ unit\ square\ 16x32.ddt
+textures/shadow\ unit\ square\ 32x32.ddt
+textures/shadow\ unit\ sword\ bearers\ 32x64.ddt
+textures/shadow\ unit\ thors\ hammer\ cart\ 32x64.ddt
+textures/shadow\ unit\ thors\ hammer\ dwarfs\ carry\ 32x64.ddt
+textures/shadow\ unit\ thors\ hammer\ laying\ down\ 32x64.ddt
+textures/shockwall.ddt
+textures/siege\ c\ fire\ lance\ bronze.ddt
+textures/siege\ c\ fire\ lance\ head\ bronze.ddt
+textures/siege\ c\ fire\ lance\ head\ iron.ddt
+textures/siege\ c\ fire\ lance\ head.ddt
+textures/siege\ c\ fire\ lance\ icon.ddt
+textures/siege\ c\ fire\ lance\ iron.ddt
+textures/siege\ c\ fire\ lance.ddt
+textures/siege\ c\ sitting\ tiger\ icon.ddt
+textures/siege\ c\ sitting\ tiger\ iron.ddt
+textures/siege\ c\ sitting\ tiger\ projectile.ddt
+textures/siege\ c\ sitting\ tiger.ddt
+textures/siege\ e\ catapult\ corpse\ bodya.ddt
+textures/siege\ e\ catapult\ iron.ddt
+textures/siege\ e\ catapult\ projectile.ddt
+textures/siege\ e\ catapult\ skeletona.ddt
+textures/siege\ e\ catapult.ddt
+textures/siege\ e\ tower\ corpse\ bodya.ddt
+textures/siege\ e\ tower\ iron.ddt
+textures/siege\ e\ tower\ skeletona.ddt
+textures/siege\ e\ tower.ddt
+textures/siege\ g\ helepolis\ corpse\ bodya.ddt
+textures/siege\ g\ helepolis\ iron.ddt
+textures/siege\ g\ helepolis\ skeletona.ddt
+textures/siege\ g\ helepolis.ddt
+textures/siege\ g\ petrobolos\ corpse\ bodya.ddt
+textures/siege\ g\ petrobolos\ iron.ddt
+textures/siege\ g\ petrobolos\ low.ddt
+textures/siege\ g\ petrobolos\ projectile.ddt
+textures/siege\ g\ petrobolos\ skeletona.ddt
+textures/siege\ g\ petrobolos\ tire\ low.ddt
+textures/siege\ g\ petrobolos.ddt
+textures/siege\ g\ trojan\ horse\ wood\ shadows\ a.ddt
+textures/siege\ g\ trojan\ horse\ wood\ shadows\ b.ddt
+textures/siege\ g\ trojan\ horse\ wood\ shadows\ c.ddt
+textures/siege\ g\ trojan\ horse.ddt
+textures/siege\ n\ ballista\ bolt\ iron.ddt
+textures/siege\ n\ ballista\ bolt.ddt
+textures/siege\ n\ ballista\ corpse\ bodya.ddt
+textures/siege\ n\ ballista\ iron.ddt
+textures/siege\ n\ ballista\ map.ddt
+textures/siege\ n\ ballista\ skeletona.ddt
+textures/siege\ n\ ballista.ddt
+textures/siege\ n\ catapult\ map.ddt
+textures/siege\ n\ ram\ corpse\ bodya.ddt
+textures/siege\ n\ ram\ iron.ddt
+textures/siege\ n\ ram\ ring\ iron.ddt
+textures/siege\ n\ ram\ ring.ddt
+textures/siege\ n\ ram\ skeletona.ddt
+textures/siege\ n\ ram.ddt
+textures/siege\ n\ tower\ map.ddt
+textures/siege\ x\ chieroballista\ corpse\ bodya.ddt
+textures/siege\ x\ chieroballista\ corpse\ skeletona.ddt
+textures/siege\ x\ chieroballista\ downgrade.ddt
+textures/siege\ x\ chieroballista\ man\ upgrade.ddt
+textures/siege\ x\ chieroballista\ man.ddt
+textures/siege\ x\ chieroballista.ddt
+textures/siege\ x\ fire\ siphon\ corpse\ bodya.ddt
+textures/siege\ x\ fire\ siphon\ corpse\ skeletona.ddt
+textures/siege\ x\ fire\ siphon\ shadow.ddt
+textures/siege\ x\ fire\ siphon\ upgrade.ddt
+textures/siege\ x\ fire\ siphon.ddt
+textures/siege\ x\ onager\ iron.ddt
+textures/siege\ x\ onager.ddt
+textures/single\ wave.ddt
+textures/skyboxbluesky.ddt
+textures/skyboxbluesky_bk.ddt
+textures/skyboxbluesky_bk2.ddt
+textures/skyboxbluesky_dn.ddt
+textures/skyboxbluesky_fr.ddt
+textures/skyboxbluesky_fr2.ddt
+textures/skyboxbluesky_lf.ddt
+textures/skyboxbluesky_lf2.ddt
+textures/skyboxbluesky_rt.ddt
+textures/skyboxbluesky_rt2.ddt
+textures/skyboxstormy_bk.ddt
+textures/skyboxstormy_bk2.ddt
+textures/skyboxstormy_dn.ddt
+textures/skyboxstormy_fr.ddt
+textures/skyboxstormy_fr2.ddt
+textures/skyboxstormy_lf.ddt
+textures/skyboxstormy_lf2.ddt
+textures/skyboxstormy_rt.ddt
+textures/skyboxstormy_rt2.ddt
+textures/skyboxsunset_bk.ddt
+textures/skyboxsunset_bk2.ddt
+textures/skyboxsunset_dn.ddt
+textures/skyboxsunset_fr.ddt
+textures/skyboxsunset_fr2.ddt
+textures/skyboxsunset_lf.ddt
+textures/skyboxsunset_lf2.ddt
+textures/skyboxsunset_rt.ddt
+textures/skyboxsunset_rt2.ddt
+textures/skyboxsunset_up.ddt
+textures/skyboxwinter_bk.ddt
+textures/skyboxwinter_bk2.ddt
+textures/skyboxwinter_fr.ddt
+textures/skyboxwinter_fr2.ddt
+textures/skyboxwinter_lf.ddt
+textures/skyboxwinter_lf2.ddt
+textures/skyboxwinter_rt.ddt
+textures/skyboxwinter_rt2.ddt
+textures/slider_horiz.ddt
+textures/slider_vert.ddt
+textures/sliderbutton0.ddt
+textures/sliderbutton0v.ddt
+textures/sliderbutton1.ddt
+textures/sliderbutton1v.ddt
+textures/sliderbutton2.ddt
+textures/sliderbutton2v.ddt
+textures/sliderbutton3.ddt
+textures/sliderbutton3v.ddt
+textures/sliderpip.ddt
+textures/snowflake.ddt
+textures/softblendcorner.ddt
+textures/softblendedge.ddt
+textures/softblendlshape.ddt
+textures/spc\ x\ gaia\ tree\ decal.ddt
+textures/spc\ x\ gaia\ tree\ shadow.ddt
+textures/spc\ x\ gaia\ tree.ddt
+textures/special\ a\ snowman.ddt
+textures/special\ c\ azure\ dragon\ head.ddt
+textures/special\ c\ azure\ dragon\ icon.ddt
+textures/special\ c\ azure\ dragon.ddt
+textures/special\ c\ dragon\ turtle\ head.ddt
+textures/special\ c\ dragon\ turtle\ icon.ddt
+textures/special\ c\ dragon\ turtle.ddt
+textures/special\ c\ earth\ dragon\ b.ddt
+textures/special\ c\ earth\ dragon\ icon.ddt
+textures/special\ c\ earth\ dragon.ddt
+textures/special\ c\ jiangshi\ head.ddt
+textures/special\ c\ jiangshi\ icon.ddt
+textures/special\ c\ jiangshi.ddt
+textures/special\ c\ monkey\ king\ icon.ddt
+textures/special\ c\ monkey\ king.ddt
+textures/special\ c\ pixiu\ icon.ddt
+textures/Special\ C\ Pixiu.ddt
+textures/special\ c\ qilin\ icon.ddt
+textures/special\ c\ qilin.ddt
+textures/special\ c\ salamander.ddt
+textures/special\ c\ terracotta\ soldier\ head.ddt
+textures/special\ c\ terracotta\ soldier\ icon.ddt
+textures/special\ c\ terracotta\ soldier.ddt
+textures/special\ c\ vermilion\ bird\ icon.ddt
+textures/special\ c\ vermillion\ bird\ wing\ alpha.ddt
+textures/special\ c\ vermillion\ bird\ wing.ddt
+textures/special\ c\ vermillion\ bird.ddt
+textures/special\ c\ war\ salamander\ icon.ddt
+textures/special\ c\ white\ tiger\ icon.ddt
+textures/special\ e\ anubite\ corpse\ bodya.ddt
+textures/special\ e\ anubite\ corpse\ skeletona.ddt
+textures/special\ e\ anubite\ iron.ddt
+textures/special\ e\ anubite.ddt
+textures/special\ e\ anubite[pixelxform1].ddt
+textures/special\ e\ apep\ map.ddt
+textures/special\ e\ avenger\ corpse\ bodya.ddt
+textures/special\ e\ avenger\ corpse\ skeletona.ddt
+textures/special\ e\ avenger\ map.ddt
+textures/special\ e\ avenger.ddt
+textures/special\ e\ leviathan\ fins.ddt
+textures/special\ e\ leviathan\ map.ddt
+textures/special\ e\ minion\ map.ddt
+textures/special\ e\ mummy\ flies\ breath.ddt
+textures/special\ e\ mummy\ flies.ddt
+textures/special\ e\ mummy\ map.ddt
+textures/special\ e\ petesuchos\ arrow.ddt
+textures/special\ e\ petesuchos\ ball\ glow.ddt
+textures/special\ e\ petesuchos\ beam.ddt
+textures/special\ e\ petesuchos\ corpse\ bodya.ddt
+textures/special\ e\ petesuchos\ corpse\ skeletona.ddt
+textures/special\ e\ petesuchos.ddt
+textures/special\ e\ pharaoh\ corpse\ bodya.ddt
+textures/special\ e\ pharaoh\ head.ddt
+textures/special\ e\ pharaoh\ skeletona.ddt
+textures/special\ e\ pharaoh.ddt
+textures/special\ e\ phoenix\ egg.ddt
+textures/special\ e\ phoenix\ shockwave.ddt
+textures/special\ e\ phoenix.ddt
+textures/special\ e\ priest\ corpse\ bodya.ddt
+textures/special\ e\ priest\ head.ddt
+textures/special\ e\ priest\ skeletona.ddt
+textures/special\ e\ priest\ staff.ddt
+textures/special\ e\ priest.ddt
+textures/special\ e\ roc\ basket.ddt
+textures/special\ e\ roc.ddt
+textures/special\ e\ scarab\ blood.ddt
+textures/special\ e\ scarab\ corpse\ bodya.ddt
+textures/special\ e\ scarab\ corpse\ skeletona.ddt
+textures/special\ e\ scarab\ map.ddt
+textures/special\ e\ scorpion\ corpse\ bodya.ddt
+textures/special\ e\ scorpion\ corpse\ skeletona.ddt
+textures/special\ e\ scorpion\ man\ head.ddt
+textures/special\ e\ scorpion\ man\ upgrade.ddt
+textures/special\ e\ scorpion\ man.ddt
+textures/special\ e\ sphinx\ corpse\ bodya.ddt
+textures/special\ e\ sphinx\ corpse\ skeletona.ddt
+textures/special\ e\ sphinx\ tornado.ddt
+textures/special\ e\ sphinx.ddt
+textures/special\ e\ vulture\ map.ddt
+textures/special\ e\ wadjet\ corpse\ bodya.ddt
+textures/special\ e\ wadjet\ corpse\ skeletona.ddt
+textures/special\ e\ wadjet.ddt
+textures/special\ g\ agamemnon\ head\ statue.ddt
+textures/special\ g\ agamemnon\ head.ddt
+textures/special\ g\ agamemnon\ statue.ddt
+textures/special\ g\ agamemnon.ddt
+textures/special\ g\ athena\ head.ddt
+textures/special\ g\ athena.ddt
+textures/special\ g\ carcinos.ddt
+textures/special\ g\ centaur\ corpse\ bodya.ddt
+textures/special\ g\ centaur\ corpse\ skeletona.ddt
+textures/special\ g\ centaur\ head\ upgrade.ddt
+textures/special\ g\ centaur\ head.ddt
+textures/special\ g\ centaur\ low.ddt
+textures/special\ g\ centaur\ upgrade.ddt
+textures/special\ g\ centaur.ddt
+textures/special\ g\ chimera\ corpse\ bodya.ddt
+textures/special\ g\ chimera\ corpse\ skeletona.ddt
+textures/special\ g\ chimera\ map.ddt
+textures/special\ g\ chimera\ tail.ddt
+textures/special\ g\ chimera.ddt
+textures/special\ g\ colossus\ gold.ddt
+textures/special\ g\ colossus\ map.ddt
+textures/special\ g\ colossus\ silver.ddt
+textures/special\ g\ colossus\ sword.ddt
+textures/special\ g\ cyclops\ corpse\ bodya.ddt
+textures/special\ g\ cyclops\ corpse\ skeletona.ddt
+textures/special\ g\ cyclops\ low.ddt
+textures/special\ g\ cyclops\ map.ddt
+textures/special\ g\ cyclops\ upgrade.ddt
+textures/special\ g\ cyclops.ddt
+textures/special\ g\ giant\ turtle.ddt
+textures/special\ g\ golem\ map.ddt
+textures/special\ g\ griffon\ map.ddt
+textures/special\ g\ harpy\ map.ddt
+textures/special\ g\ hippocampus.ddt
+textures/special\ g\ hydra\ corpse\ bodya.ddt
+textures/special\ g\ hydra\ corpse\ skeletona.ddt
+textures/special\ g\ hydra\ land.ddt
+textures/special\ g\ hydra\ map.ddt
+textures/special\ g\ hydra\ statue.ddt
+textures/special\ g\ manticore\ barbs.ddt
+textures/special\ g\ manticore\ corpse\ bodya.ddt
+textures/special\ g\ manticore\ corpse\ skeletona.ddt
+textures/special\ g\ manticore\ statue.ddt
+textures/special\ g\ manticore\ wing\ statue.ddt
+textures/special\ g\ manticore\ wing.ddt
+textures/special\ g\ manticore.ddt
+textures/special\ g\ medusa\ corpse\ bodya.ddt
+textures/special\ g\ medusa\ corpse\ skeletona.ddt
+textures/special\ g\ medusa\ low\ map.ddt
+textures/special\ g\ medusa\ map.ddt
+textures/special\ g\ medusa\ upgrade.ddt
+textures/special\ g\ medusa.ddt
+textures/special\ g\ minotaur\ corpse\ bodya.ddt
+textures/special\ g\ minotaur\ corpse\ skeletona.ddt
+textures/special\ g\ minotaur.ddt
+textures/special\ g\ nemean\ lion\ corpse\ bodya.ddt
+textures/special\ g\ nemean\ lion\ corpse\ skeletona.ddt
+textures/special\ g\ nemean\ lion\ soundwave.ddt
+textures/special\ g\ nemean\ lion\ statue.ddt
+textures/special\ g\ nemean\ lion.ddt
+textures/special\ g\ pegasus\ corpse\ bodya.ddt
+textures/special\ g\ pegasus\ corpse\ skeletona.ddt
+textures/special\ g\ pegasus\ wings.ddt
+textures/special\ g\ pegasus.ddt
+textures/special\ g\ polyphemus\ map.ddt
+textures/special\ g\ scylla\ map.ddt
+textures/special\ g\ scylla.ddt
+textures/special\ g\ sea\ turtle.ddt
+textures/special\ g\ shade.ddt
+textures/special\ g\ underworld\ shade.ddt
+textures/special\ n\ battle\ boar\ corpse\ bodya.ddt
+textures/special\ n\ battle\ boar\ corpse\ skeletona.ddt
+textures/special\ n\ battle\ boar.ddt
+textures/special\ n\ einheriar\ axe\ standard.ddt
+textures/special\ n\ einheriar\ berserk.ddt
+textures/special\ n\ einheriar\ corpse\ bodya.ddt
+textures/special\ n\ einheriar\ corpse\ skeletona.ddt
+textures/special\ n\ einheriar\ head.ddt
+textures/special\ n\ einheriar\ horn.ddt
+textures/special\ n\ einheriar\ low.ddt
+textures/special\ n\ einheriar\ upgrade.ddt
+textures/special\ n\ einheriar.ddt
+textures/special\ n\ fenris\ corpse\ bodya.ddt
+textures/special\ n\ fenris\ corpse\ skeletona.ddt
+textures/special\ n\ fenris.ddt
+textures/special\ n\ fire\ giant\ footprint\ map.ddt
+textures/special\ n\ fire\ giant.ddt
+textures/special\ n\ frost\ giant\ footprint\ map.ddt
+textures/special\ n\ frost\ giant\ footprint01\ map.ddt
+textures/special\ n\ frost\ giant\ footprint02\ map.ddt
+textures/special\ n\ frost\ giant\ head\ upgrade.ddt
+textures/special\ n\ frost\ giant\ head.ddt
+textures/special\ n\ frost\ giant\ map.ddt
+textures/special\ n\ frost\ giant\ mist\ map.ddt
+textures/special\ n\ frost\ giant\ upgrade.ddt
+textures/special\ n\ frost\ giant.ddt
+textures/special\ n\ giant\ corpse\ bodya.ddt
+textures/special\ n\ giant\ corpse\ skeletona.ddt
+textures/special\ n\ giant\ corpse.ddt
+textures/special\ n\ giant\ head.ddt
+textures/special\ n\ giant\ map.ddt
+textures/special\ n\ giant\ skeleton.ddt
+textures/special\ n\ giant.ddt
+textures/special\ n\ jarl\ cape\ map.ddt
+textures/special\ n\ jormund\ brood\ hump.ddt
+textures/special\ n\ jormund\ brood.ddt
+textures/special\ n\ king\ folstag\ upgrade.ddt
+textures/special\ n\ king\ folstag.ddt
+textures/special\ n\ raven.ddt
+textures/special\ n\ troll\ bag.ddt
+textures/special\ n\ troll\ corpse\ bodya.ddt
+textures/special\ n\ troll\ corpse\ skeletona.ddt
+textures/special\ n\ troll.ddt
+textures/Special\ N\ Trollkarien\ Map.ddt
+textures/special\ n\ valkyrie\ corpse\ bodya.ddt
+textures/special\ n\ valkyrie\ corpse\ skeletona.ddt
+textures/special\ n\ valkyrie\ horse\ map\ statue.ddt
+textures/special\ n\ valkyrie\ horse\ map.ddt
+textures/special\ n\ valkyrie\ low.ddt
+textures/special\ n\ valkyrie\ map.ddt
+textures/special\ n\ valkyrie\ staute\ map.ddt
+textures/special\ n\ valkyrie\ upgrade.ddt
+textures/special\ x\ lampades\ blood.ddt
+textures/special\ x\ oracle\ corpse\ bodya.ddt
+textures/special\ x\ oracle\ corpse\ skeletona.ddt
+textures/special\ x\ oracle\ hero.ddt
+textures/special\ x\ oracle.ddt
+textures/special\ x\ spider\ body.ddt
+textures/special\ x\ spider\ door\ copy.ddt
+textures/special\ x\ spider\ door.ddt
+textures/spotlight_01.ddt
+textures/spotlight_02.ddt
+textures/spotlight_03.ddt
+textures/spotlight_04.ddt
+textures/spotlight_05.ddt
+textures/spotlight_06.ddt
+textures/spotlight_07.ddt
+textures/spotlight_08.ddt
+textures/spotlight_09.ddt
+textures/spotlight_10.ddt
+textures/spotlight_11.ddt
+textures/spotlight_12.ddt
+textures/spotlight_13.ddt
+textures/spotlight_14.ddt
+textures/spotlight_15.ddt
+textures/spotlight_16.ddt
+textures/spotlight_17.ddt
+textures/spotlight_18.ddt
+textures/spotlight_19.ddt
+textures/spotlight_20.ddt
+textures/spotlight_21.ddt
+textures/spotlight_22.ddt
+textures/spotlight_23.ddt
+textures/spotlight_24.ddt
+textures/spotlight_25.ddt
+textures/spotlight_26.ddt
+textures/spotlight_27.ddt
+textures/spotlight_28.ddt
+textures/spotlight_29.ddt
+textures/spotlight_30.ddt
+textures/spotlight_31.ddt
+textures/spotlight_32.ddt
+textures/spotlight_33.ddt
+textures/spotlight_34.ddt
+textures/spotlight_35.ddt
+textures/spotlight_eb.ddt
+textures/spotlight_x01.ddt
+textures/spotlight_x02.ddt
+textures/spotlight_x03.ddt
+textures/spotlight_x04.ddt
+textures/spotlight_x05.ddt
+textures/spotlight_x06.ddt
+textures/spotlight_x07.ddt
+textures/spotlight_x08.ddt
+textures/spotlight_x09.ddt
+textures/spotlight_x10.ddt
+textures/spotlight_x11.ddt
+textures/spotlight_x12.ddt
+textures/spotlight_y01.ddt
+textures/spotlight_y02.ddt
+textures/spotlight_y03.ddt
+textures/spotlight_y04.ddt
+textures/spotlight_y05.ddt
+textures/spotlight_y06.ddt
+textures/spotlight_y07.ddt
+textures/spotlight_y08.ddt
+textures/spotlight_y09.ddt
+textures/spotlightmc_01.ddt
+textures/spotlightmc_02.ddt
+textures/spotlightmc_03.ddt
+textures/spotlightmc_04.ddt
+textures/sq_shadow.ddt
+textures/sq_shadow_blue.ddt
+textures/statue\ x\ gaia\ map.ddt
+textures/statue\ x\ kronos\ map.ddt
+textures/statue\ x\ oranos\ map.ddt
+textures/stormyskybox_bk.ddt
+textures/stormyskybox_dn.ddt
+textures/stormyskybox_fr.ddt
+textures/stormyskybox_lf.ddt
+textures/stormyskybox_rt.ddt
+textures/stormyskybox_up.ddt
+textures/strategic\ map\ gate\ 16x16.ddt
+textures/strategic\ map\ wall\ 16x16.ddt
+textures/sunsetskybox_bk.ddt
+textures/sunsetskybox_dn.ddt
+textures/sunsetskybox_fr.ddt
+textures/sunsetskybox_lf.ddt
+textures/sunsetskybox_rt.ddt
+textures/sunsetskybox_up.ddt
+textures/target.ddt
+textures/techtree.ddt
+textures/temp\ santa\ body.ddt
+textures/temp\ santa\ hat.ddt
+textures/temp\ santa\ head.ddt
+textures/terrain\ cypress\ decal.ddt
+textures/terrain\ cypress\ shadow.ddt
+textures/terrain\ e\ lily\ pads\ b.ddt
+textures/terrain\ e\ lily\ pads\ c.ddt
+textures/terrain\ e\ lily\ pads.ddt
+textures/terrain\ e\ papyrus\ b.ddt
+textures/terrain\ e\ papyrus\ leaf.ddt
+textures/terrain\ e\ papyrus\ stalk.ddt
+textures/terrain\ e\ papyrus.ddt
+textures/terrain\ e\ rock\ a.ddt
+textures/terrain\ e\ rock\ formation\ a.ddt
+textures/terrain\ e\ shrub\ a.ddt
+textures/terrain\ e\ water\ reeds\ a.ddt
+textures/terrain\ e\ water\ reeds\ b.ddt
+textures/terrain\ e\ water\ reeds.ddt
+textures/terrain\ e\ water\ reeds01.ddt
+textures/terrain_e_waterreeds_mapa.ddt
+textures/terrain_e_waterreeds_mapb.ddt
+textures/terrain_e_waterreeds_mapc.ddt
+textures/terrain_largewave_a.ddt
+textures/terrain_largewave_b.ddt
+textures/terrain_rock_wetsand.ddt
+textures/terrain_smallwave_a.ddt
+textures/terrain_smallwave_b.ddt
+textures/test\ flags.ddt
+textures/theocrat\ map.ddt
+textures/timeshift\ sparkle.ddt
+textures/timeshift\ up.ddt
+textures/titan\ c\ pangu.ddt
+textures/titan\ e\ ra\ map.ddt
+textures/titan\ e\ ra\ pads\ map.ddt
+textures/titan\ e\ ra\ skirt\ map.ddt
+textures/titan\ g\ cerebus\ map1.ddt
+textures/titan\ g\ cerebus\ map2.ddt
+textures/titan\ n\ troll\ hammer\ map.ddt
+textures/titan\ n\ troll\ map1.ddt
+textures/titan\ n\ troll\ map2.ddt
+textures/titan\ x\ gaia.ddt
+textures/titan\ x\ golem\ map1.ddt
+textures/titan\ x\ golem\ map2.ddt
+textures/titan\ x\ kronos.ddt
+textures/titan\ x\ promethean\ 1.ddt
+textures/titan\ x\ promethean\ 2.ddt
+textures/titlebar.ddt
+textures/tool\ hammer\ map.ddt
+textures/tower\ icon\ 32x32.ddt
+textures/toxotemap.ddt
+textures/trade\ c\ caravan\ cargo.ddt
+textures/trade\ c\ caravan.ddt
+textures/trade\ e\ caravan\ basket.ddt
+textures/trade\ e\ caravan\ camel.ddt
+textures/trade\ e\ caravan\ cargo.ddt
+textures/trade\ e\ caravan\ corpse\ bodya.ddt
+textures/trade\ e\ caravan\ corpse\ skeletona.ddt
+textures/trade\ g\ caravan\ cargo.ddt
+textures/trade\ g\ caravan\ corpse\ bodya.ddt
+textures/trade\ g\ caravan\ corpse\ skeletona.ddt
+textures/trade\ g\ caravan\ donkey.ddt
+textures/trade\ n\ caravan\ cargo.ddt
+textures/trade\ n\ caravan\ corpse\ bodya.ddt
+textures/trade\ n\ caravan\ corpse\ skeletona.ddt
+textures/trade\ n\ caravan\ ox.ddt
+textures/trade\ x\ caravan\ cargo.ddt
+textures/trade\ x\ caravan.ddt
+textures/trash\ weapon.ddt
+textures/trash.ddt
+textures/Twitch-pause.ddt
+textures/Twitch-record.ddt
+textures/ui\ garrison\ pips.ddt
+textures/ui\ hitpoint\ bars.ddt
+textures/ui\ range\ indicator\ atlantean.ddt
+textures/ui\ range\ indicator\ chinese.ddt
+textures/ui\ range\ indicator\ egypt.ddt
+textures/ui\ range\ indicator\ greek.ddt
+textures/ui\ range\ indicator\ norse.ddt
+textures/ui\ range\ indicator.ddt
+textures/ui_banners\ atlantean.ddt
+textures/ui_banners\ atlantean2.ddt
+textures/ui_banners\ egypt.ddt
+textures/ui_banners\ egypt2.ddt
+textures/ui_banners\ greek.ddt
+textures/ui_banners\ greek2.ddt
+textures/ui_banners\ norse.ddt
+textures/ui_banners\ norse2.ddt
+textures/ui_banners\ selected\ atlantean.ddt
+textures/ui_banners\ selected\ atlantean2.ddt
+textures/ui_banners\ selected\ egypt.ddt
+textures/ui_banners\ selected\ egypt2.ddt
+textures/ui_banners\ selected\ greek.ddt
+textures/ui_banners\ selected\ greek2.ddt
+textures/ui_banners\ selected\ norse.ddt
+textures/ui_banners\ selected\ norse2.ddt
+textures/ui_banners.ddt
+textures/ui_banners_attack\ atlantean.ddt
+textures/ui_banners_attack\ egypt.ddt
+textures/ui_banners_attack\ greek.ddt
+textures/ui_banners_attack\ norse.ddt
+textures/ui_banners_selected.ddt
+textures/ui_bottom_shadow.ddt
+textures/ui_c_bottombar_a.ddt
+textures/ui_c_bottombar_a_fuxi.ddt
+textures/ui_c_bottombar_a_nuwa.ddt
+textures/ui_c_bottombar_a_shennong.ddt
+textures/ui_c_bottombar_b.ddt
+textures/ui_c_bottombar_b_fuxi.ddt
+textures/ui_c_bottombar_b_nuwa.ddt
+textures/ui_c_bottombar_b_shennong.ddt
+textures/ui_c_bottombar_c.ddt
+textures/ui_c_bottombar_c_fuxi.ddt
+textures/ui_c_bottombar_c_nuwa.ddt
+textures/ui_c_bottombar_c_shennong.ddt
+textures/ui_c_bottombar_d.ddt
+textures/ui_c_bottombar_d_fuxi.ddt
+textures/ui_c_bottombar_d_nuwa.ddt
+textures/ui_c_bottombar_d_shennong.ddt
+textures/ui_c_bottomcap_a.ddt
+textures/ui_c_bottomcap_a_fuxi.ddt
+textures/ui_c_bottomcap_a_nuwa.ddt
+textures/ui_c_bottomcap_a_shennong.ddt
+textures/ui_c_bottomcap_b.ddt
+textures/ui_c_bottomcap_b_fuxi.ddt
+textures/ui_c_bottomcap_b_nuwa.ddt
+textures/ui_c_bottomcap_b_shennong.ddt
+textures/ui_c_bottomcap_c.ddt
+textures/ui_c_bottomcap_c_fuxi.ddt
+textures/ui_c_bottomcap_c_nuwa.ddt
+textures/ui_c_bottomcap_c_shennong.ddt
+textures/ui_c_bottomcap_d.ddt
+textures/ui_c_bottomcap_d_fuxi.ddt
+textures/ui_c_bottomcap_d_nuwa.ddt
+textures/ui_c_bottomcap_d_shennong.ddt
+textures/ui_c_bottomcap_head1.ddt
+textures/ui_c_bottomcap_head1_fuxi.ddt
+textures/ui_c_bottomcap_head1_nuwa.ddt
+textures/ui_c_bottomcap_head1_shennong.ddt
+textures/ui_c_bottomcap_head2.ddt
+textures/ui_c_bottomcap_head2_fuxi.ddt
+textures/ui_c_bottomcap_head2_nuwa.ddt
+textures/ui_c_bottomcap_head2_shennong.ddt
+textures/ui_c_menu_.ddt
+textures/ui_c_title_.ddt
+textures/ui_c_title_titan.ddt
+textures/ui_c_top_bar_.ddt
+textures/ui_e_bottombar_a.ddt
+textures/ui_e_bottombar_a_isis.ddt
+textures/ui_e_bottombar_a_ra.ddt
+textures/ui_e_bottombar_a_set.ddt
+textures/ui_e_bottombar_a2.ddt
+textures/ui_e_bottombar_b\ isis.ddt
+textures/ui_e_bottombar_b\ ra.ddt
+textures/ui_e_bottombar_b\ set.ddt
+textures/ui_e_bottombar_b.ddt
+textures/ui_e_bottombar_b_isis.ddt
+textures/ui_e_bottombar_b_ra.ddt
+textures/ui_e_bottombar_b_set.ddt
+textures/ui_e_bottombar_c\ isis.ddt
+textures/ui_e_bottombar_c\ ra.ddt
+textures/ui_e_bottombar_c\ set.ddt
+textures/ui_e_bottombar_c.ddt
+textures/ui_e_bottombar_c_isis.ddt
+textures/ui_e_bottombar_c_ra.ddt
+textures/ui_e_bottombar_c_set.ddt
+textures/ui_e_bottombar_d.ddt
+textures/ui_e_bottombar_d_isis.ddt
+textures/ui_e_bottombar_d_ra.ddt
+textures/ui_e_bottombar_d_set.ddt
+textures/ui_e_bottomcap_a.ddt
+textures/ui_e_bottomcap_a_isis.ddt
+textures/ui_e_bottomcap_a_ra.ddt
+textures/ui_e_bottomcap_a_set.ddt
+textures/ui_e_bottomcap_b.ddt
+textures/ui_e_bottomcap_b_isis.ddt
+textures/ui_e_bottomcap_b_ra.ddt
+textures/ui_e_bottomcap_b_set.ddt
+textures/ui_e_bottomcap_c.ddt
+textures/ui_e_bottomcap_c_isis.ddt
+textures/ui_e_bottomcap_c_ra.ddt
+textures/ui_e_bottomcap_c_set.ddt
+textures/ui_e_bottomcap_d.ddt
+textures/ui_e_bottomcap_d_isis.ddt
+textures/ui_e_bottomcap_d_ra.ddt
+textures/ui_e_bottomcap_d_set.ddt
+textures/ui_e_bottomcap_head1.ddt
+textures/ui_e_bottomcap_head1_isis.ddt
+textures/ui_e_bottomcap_head1_ra.ddt
+textures/ui_e_bottomcap_head1_set.ddt
+textures/ui_e_bottomcap_head2.ddt
+textures/ui_e_bottomcap_head2_isis.ddt
+textures/ui_e_bottomcap_head2_ra.ddt
+textures/ui_e_bottomcap_head2_set.ddt
+textures/ui_e_menu.ddt
+textures/ui_e_menu_isis.ddt
+textures/ui_e_menu_ra.ddt
+textures/ui_e_menu_set.ddt
+textures/ui_e_menuicon.ddt
+textures/ui_e_title.ddt
+textures/ui_e_title_isis.ddt
+textures/ui_e_title_ra.ddt
+textures/ui_e_title_set.ddt
+textures/ui_e_top_bar.ddt
+textures/ui_e_top_bar_isis.ddt
+textures/ui_e_top_bar_ra.ddt
+textures/ui_e_top_bar_set.ddt
+textures/ui_g_bottombar_a.ddt
+textures/ui_g_bottombar_a_def.xml
+textures/ui_g_bottombar_a_hades.ddt
+textures/ui_g_bottombar_a_poseidon.ddt
+textures/ui_g_bottombar_a_zeus.ddt
+textures/ui_g_bottombar_a2.ddt
+textures/ui_g_bottombar_a3.ddt
+textures/ui_g_bottombar_b\ hades.ddt
+textures/ui_g_bottombar_b\ poseidon.ddt
+textures/ui_g_bottombar_b\ zeus.ddt
+textures/ui_g_bottombar_b.ddt
+textures/ui_g_bottombar_b_def.xml
+textures/ui_g_bottombar_b_hades.ddt
+textures/ui_g_bottombar_b_poseidon.ddt
+textures/ui_g_bottombar_b_zeus.ddt
+textures/ui_g_bottombar_c\ hades.ddt
+textures/ui_g_bottombar_c\ poseidon.ddt
+textures/ui_g_bottombar_c\ zeus.ddt
+textures/ui_g_bottombar_c.ddt
+textures/ui_g_bottombar_c_def.xml
+textures/ui_g_bottombar_c_hades.ddt
+textures/ui_g_bottombar_c_poseidon.ddt
+textures/ui_g_bottombar_c_zeus.ddt
+textures/ui_g_bottombar_d.ddt
+textures/ui_g_bottombar_d_def.xml
+textures/ui_g_bottombar_d_hades.ddt
+textures/ui_g_bottombar_d_poseidon.ddt
+textures/ui_g_bottombar_d_zeus.ddt
+textures/ui_g_bottomcap_a.ddt
+textures/ui_g_bottomcap_a_def.xml
+textures/ui_g_bottomcap_a_hades.ddt
+textures/ui_g_bottomcap_a_poseidon.ddt
+textures/ui_g_bottomcap_a_zeus.ddt
+textures/ui_g_bottomcap_b.ddt
+textures/ui_g_bottomcap_b_def.xml
+textures/ui_g_bottomcap_b_hades.ddt
+textures/ui_g_bottomcap_b_poseidon.ddt
+textures/ui_g_bottomcap_b_zeus.ddt
+textures/ui_g_bottomcap_c.ddt
+textures/ui_g_bottomcap_c_def.xml
+textures/ui_g_bottomcap_c_hades.ddt
+textures/ui_g_bottomcap_c_poseidon.ddt
+textures/ui_g_bottomcap_c_zeus.ddt
+textures/ui_g_bottomcap_d.ddt
+textures/ui_g_bottomcap_d_def.xml
+textures/ui_g_bottomcap_d_hades.ddt
+textures/ui_g_bottomcap_d_poseidon.ddt
+textures/ui_g_bottomcap_d_zeus.ddt
+textures/ui_g_bottomcap_head1.ddt
+textures/ui_g_bottomcap_head1_def.xml
+textures/ui_g_bottomcap_head1_hades.ddt
+textures/ui_g_bottomcap_head1_poseidon.ddt
+textures/ui_g_bottomcap_head1_zeus.ddt
+textures/ui_g_bottomcap_head2.ddt
+textures/ui_g_bottomcap_head2_def.xml
+textures/ui_g_bottomcap_head2_hades.ddt
+textures/ui_g_bottomcap_head2_poseidon.ddt
+textures/ui_g_bottomcap_head2_zeus.ddt
+textures/ui_g_menu.ddt
+textures/ui_g_menu_def.xml
+textures/ui_g_menu_hades.ddt
+textures/ui_g_menu_poseidon.ddt
+textures/ui_g_menu_zeus.ddt
+textures/ui_g_title.ddt
+textures/ui_g_title_def.xml
+textures/ui_g_title_hades.ddt
+textures/ui_g_title_poseidon.ddt
+textures/ui_g_title_zeus.ddt
+textures/ui_g_top_bar.ddt
+textures/ui_g_top_bar_def.xml
+textures/ui_g_top_bar_hades.ddt
+textures/ui_g_top_bar_poseidon.ddt
+textures/ui_g_top_bar_zeus.ddt
+textures/ui_generic_background.ddt
+textures/ui_generic_button.ddt
+textures/ui_generic_dark_background.ddt
+textures/ui_generic_dialog_box.ddt
+textures/ui_generic_ingame_dark_tile.ddt
+textures/ui_generic_ingame_tile.ddt
+textures/ui_generic_multiplayer_background.ddt
+textures/ui_generic_pregame_background.ddt
+textures/ui_iconbevel.ddt
+textures/ui_iconbevel_glow.ddt
+textures/ui_iconbevel_shadow.ddt
+textures/ui_iconshadow.ddt
+textures/ui_n_bottombar_a.ddt
+textures/ui_n_bottombar_a_loki.ddt
+textures/ui_n_bottombar_a_odin.ddt
+textures/ui_n_bottombar_a_thor.ddt
+textures/ui_n_bottombar_b\ loki.ddt
+textures/ui_n_bottombar_b\ odin.ddt
+textures/ui_n_bottombar_b\ thor.ddt
+textures/ui_n_bottombar_b.ddt
+textures/ui_n_bottombar_b_loki.ddt
+textures/ui_n_bottombar_b_odin.ddt
+textures/ui_n_bottombar_b_thor.ddt
+textures/ui_n_bottombar_c\ loki.ddt
+textures/ui_n_bottombar_c\ odin.ddt
+textures/ui_n_bottombar_c\ thor.ddt
+textures/ui_n_bottombar_c.ddt
+textures/ui_n_bottombar_c_loki.ddt
+textures/ui_n_bottombar_c_odin.ddt
+textures/ui_n_bottombar_c_thor.ddt
+textures/ui_n_bottombar_d.ddt
+textures/ui_n_bottombar_d_loki.ddt
+textures/ui_n_bottombar_d_odin.ddt
+textures/ui_n_bottombar_d_thor.ddt
+textures/ui_n_bottomcap_a.ddt
+textures/ui_n_bottomcap_a_loki.ddt
+textures/ui_n_bottomcap_a_odin.ddt
+textures/ui_n_bottomcap_a_thor.ddt
+textures/ui_n_bottomcap_b.ddt
+textures/ui_n_bottomcap_b_loki.ddt
+textures/ui_n_bottomcap_b_odin.ddt
+textures/ui_n_bottomcap_b_thor.ddt
+textures/ui_n_bottomcap_c.ddt
+textures/ui_n_bottomcap_c_loki.ddt
+textures/ui_n_bottomcap_c_odin.ddt
+textures/ui_n_bottomcap_c_thor.ddt
+textures/ui_n_bottomcap_d.ddt
+textures/ui_n_bottomcap_d_loki.ddt
+textures/ui_n_bottomcap_d_odin.ddt
+textures/ui_n_bottomcap_d_thor.ddt
+textures/ui_n_bottomcap_head1.ddt
+textures/ui_n_bottomcap_head1_loki.ddt
+textures/ui_n_bottomcap_head1_odin.ddt
+textures/ui_n_bottomcap_head1_thor.ddt
+textures/ui_n_bottomcap_head2.ddt
+textures/ui_n_bottomcap_head2_loki.ddt
+textures/ui_n_bottomcap_head2_odin.ddt
+textures/ui_n_bottomcap_head2_thor.ddt
+textures/ui_n_menu.ddt
+textures/ui_n_menu_loki.ddt
+textures/ui_n_menu_odin.ddt
+textures/ui_n_menu_thor.ddt
+textures/ui_n_title.ddt
+textures/ui_n_title_loki.ddt
+textures/ui_n_title_odin.ddt
+textures/ui_n_title_thor.ddt
+textures/ui_n_top_bar.ddt
+textures/ui_n_top_bar_loki.ddt
+textures/ui_n_top_bar_odin.ddt
+textures/ui_n_top_bar_thor.ddt
+textures/ui_popup.ddt
+textures/ui_statcolorbar.ddt
+textures/ui_statcolorsword.ddt
+textures/ui_statgraybar.ddt
+textures/ui_statgraysword.ddt
+textures/ui_top_shadow.ddt
+textures/ui_x_bottombar_a.ddt
+textures/ui_x_bottombar_a_gaia.ddt
+textures/ui_x_bottombar_a_kronos.ddt
+textures/ui_x_bottombar_a_oranos.ddt
+textures/ui_x_bottombar_b.ddt
+textures/ui_x_bottombar_b_gaia.ddt
+textures/ui_x_bottombar_b_kronos.ddt
+textures/ui_x_bottombar_b_oranos.ddt
+textures/ui_x_bottombar_c.ddt
+textures/ui_x_bottombar_c_gaia.ddt
+textures/ui_x_bottombar_c_kronos.ddt
+textures/ui_x_bottombar_c_oranos.ddt
+textures/ui_x_bottombar_d.ddt
+textures/ui_x_bottombar_d_gaia.ddt
+textures/ui_x_bottombar_d_kronos.ddt
+textures/ui_x_bottombar_d_oranos.ddt
+textures/ui_x_bottomcap_a.ddt
+textures/ui_x_bottomcap_a_gaia.ddt
+textures/ui_x_bottomcap_a_kronos.ddt
+textures/ui_x_bottomcap_a_oranos.ddt
+textures/ui_x_bottomcap_b.ddt
+textures/ui_x_bottomcap_b_gaia.ddt
+textures/ui_x_bottomcap_b_kronos.ddt
+textures/ui_x_bottomcap_b_oranos.ddt
+textures/ui_x_bottomcap_c.ddt
+textures/ui_x_bottomcap_c_gaia.ddt
+textures/ui_x_bottomcap_c_kronos.ddt
+textures/ui_x_bottomcap_c_oranos.ddt
+textures/ui_x_bottomcap_d.ddt
+textures/ui_x_bottomcap_d_gaia.ddt
+textures/ui_x_bottomcap_d_kronos.ddt
+textures/ui_x_bottomcap_d_oranos.ddt
+textures/ui_x_bottomcap_head1.ddt
+textures/ui_x_bottomcap_head1_gaia.ddt
+textures/ui_x_bottomcap_head1_kronos.ddt
+textures/ui_x_bottomcap_head1_oranos.ddt
+textures/ui_x_bottomcap_head2.ddt
+textures/ui_x_bottomcap_head2_gaia.ddt
+textures/ui_x_bottomcap_head2_kronos.ddt
+textures/ui_x_bottomcap_head2_oranos.ddt
+textures/ui_x_gp_indicator_off.ddt
+textures/ui_x_gp_indicator_on.ddt
+textures/ui_x_menu_.ddt
+textures/ui_x_title_.ddt
+textures/ui_x_title_titan.ddt
+textures/ui_x_top_bar_.ddt
+textures/uiglow.ddt
+textures/uiglow2.ddt
+textures/uimenu.ddt
+textures/uimenucheck.ddt
+textures/uimenuseparator.ddt
+textures/uimenuuncheck.ddt
+textures/uimenuunderline.ddt
+textures/vdblack.ddt
+textures/vdblend.ddt
+textures/vdblendcircle.ddt
+textures/vdblendcircle2.ddt
+textures/vdblendcircle3.ddt
+textures/vdblendcorner.ddt
+textures/vdblendcorner2.ddt
+textures/vdblendedge.ddt
+textures/vdblendedge2.ddt
+textures/vdblendedge3.ddt
+textures/vdblendedge4.ddt
+textures/vdblendedge5.ddt
+textures/vdblendedgecorner.ddt
+textures/vdblendedgetwocorners.ddt
+textures/vdblendfourcorners.ddt
+textures/vdblendlshape.ddt
+textures/vdblendlshape2.ddt
+textures/vdblendlshapecorner.ddt
+textures/vdblendthreecorners.ddt
+textures/vdblendtwocorners.ddt
+textures/vdblendtwoedges.ddt
+textures/vdblendtwooppositecorners.ddt
+textures/vdblendushape.ddt
+textures/vdjceblendcorner2.ddt
+textures/vdjceblendedge.ddt
+textures/vdjceblendedge2.ddt
+textures/vdjceblendedge3.ddt
+textures/vdjceblendedge4.ddt
+textures/vdjceblendedge5.ddt
+textures/vdjceblendedgecorner.ddt
+textures/vdjceblendedgetwocorners.ddt
+textures/villager\ a\ male\ corpse\ bodya.ddt
+textures/villager\ a\ male\ corpse\ skeletona.ddt
+textures/villager\ c\ female.ddt
+textures/villager\ c\ male\ head.ddt
+textures/villager\ c\ male\ icon.ddt
+textures/villager\ c\ male\ standard.ddt
+textures/villager\ e\ female\ corpse\ bodya.ddt
+textures/villager\ e\ female\ corpse\ skeletona.ddt
+textures/villager\ e\ female\ head.ddt
+textures/villager\ e\ female.ddt
+textures/villager\ e\ male\ corpse\ bodya.ddt
+textures/villager\ e\ male\ corpse\ skeletona.ddt
+textures/villager\ e\ male\ head.ddt
+textures/villager\ e\ male\ standard.ddt
+textures/villager\ g\ atlantean\ male\ head.ddt
+textures/villager\ g\ atlantean\ male.ddt
+textures/villager\ g\ female\ corpse\ bodya.ddt
+textures/villager\ g\ female\ corpse\ skeletona.ddt
+textures/villager\ g\ female\ head.ddt
+textures/villager\ g\ female.ddt
+textures/villager\ g\ male\ corpse\ bodya.ddt
+textures/villager\ g\ male\ corpse\ skeletona.ddt
+textures/villager\ g\ male\ head.ddt
+textures/villager\ g\ male\ standard.ddt
+textures/villager\ n\ dwarf\ corpse\ bodya.ddt
+textures/villager\ n\ dwarf\ corpse\ skeletona.ddt
+textures/villager\ n\ dwarf\ head.ddt
+textures/villager\ n\ dwarf\ standard.ddt
+textures/villager\ n\ female\ corpse\ bodya.ddt
+textures/villager\ n\ female\ corpse\ skeletona.ddt
+textures/villager\ n\ female\ head.ddt
+textures/villager\ n\ female.ddt
+textures/villager\ n\ male\ corpse\ bodya.ddt
+textures/villager\ n\ male\ corpse\ skeletona.ddt
+textures/villager\ n\ male\ head.ddt
+textures/villager\ n\ male\ standard.ddt
+textures/villager\ n\ ox.ddt
+textures/villager\ n\ oxcart\ corpse\ bodya.ddt
+textures/villager\ n\ oxcart\ corpse\ skeletona.ddt
+textures/villager\ n\ oxcart.ddt
+textures/villager\ x\ crate\ empty.ddt
+textures/villager\ x\ crate\ farm.ddt
+textures/villager\ x\ crate\ gold.ddt
+textures/villager\ x\ crate\ hunt.ddt
+textures/villager\ x\ crate\ wood.ddt
+textures/villager\ x\ female\ corpse\ bodya.ddt
+textures/villager\ x\ female\ corpse\ skeletona.ddt
+textures/villager\ x\ female\ hero.ddt
+textures/villager\ x\ female.ddt
+textures/villager\ x\ male\ corpse\ bodya.ddt
+textures/villager\ x\ male\ corpse\ skeletona.ddt
+textures/villager\ x\ male\ hero.ddt
+textures/villager\ x\ male.ddt
+textures/villager\ x\ pony.ddt
+textures/watercrest.ddt
+textures/waterdecal.ddt
+textures/waterfalltest.ddt
+textures/waterfalltest2.ddt
+textures/waterfalltest3.ddt
+textures/waterfalltestspray.ddt
+textures/waterfalltestspray2.ddt
+textures/watermark(small).ddt
+textures/watermark.ddt
+textures/wave\ crest.ddt
+textures/wave\ crest2.ddt
+textures/waypoint.ddt
+textures/weapon\ polyphemus\ club.ddt
+textures/world\ a\ atlantis\ walls\ map.ddt
+textures/world\ a\ atlantis.ddt
+textures/world\ a\ atlantisb.ddt
+textures/world\ a\ atlantisc.ddt
+textures/world\ a\ avalanche.ddt
+textures/world\ a\ barrels\ map.ddt
+textures/world\ a\ berries\ decal\ map.ddt
+textures/world\ a\ berries\ shadow\ map.ddt
+textures/world\ a\ berries.ddt
+textures/world\ a\ bolder\ wall\ ground.ddt
+textures/world\ a\ bouy.ddt
+textures/world\ a\ breastplate\ map.ddt
+textures/world\ a\ bridge\ wood.ddt
+textures/world\ a\ bush\ a\ shadow\ map.ddt
+textures/world\ a\ bush\ d\ shadow\ map.ddt
+textures/world\ a\ bush\ short\ map.ddt
+textures/world\ a\ bush.ddt
+textures/world\ a\ campfire\ decal.ddt
+textures/world\ a\ campfire.ddt
+textures/world\ a\ digsite.ddt
+textures/world\ a\ excavation\ 00\ shadow\ map.ddt
+textures/world\ a\ excavation\ 100\ shadow\ map.ddt
+textures/world\ a\ excavation\ sword.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map_gloss.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map_nm.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map_spec.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map1.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map1_gloss.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map1_nm.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map1_spec.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map2.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map2_gloss.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map2_nm.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map2_spec.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map3.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map3_gloss.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map3_nm.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map3_spec.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map4.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map4_gloss.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map4_nm.ddt
+textures/world\ a\ farm\ cabbage\ ground\ map4_spec.ddt
+textures/world\ a\ farm\ cabbage\ selection\ map.ddt
+textures/world\ a\ farm\ cabbage01.ddt
+textures/world\ a\ farm\ cabbage01_gloss.ddt
+textures/world\ a\ farm\ cabbage01_nm.ddt
+textures/world\ a\ farm\ cabbage01_spec.ddt
+textures/world\ a\ farm\ cabbage02.ddt
+textures/world\ a\ farm\ cabbage02_gloss.ddt
+textures/world\ a\ farm\ cabbage02_nm.ddt
+textures/world\ a\ farm\ cabbage02_spec.ddt
+textures/world\ a\ farm\ cabbage03.ddt
+textures/world\ a\ farm\ cabbage03_gloss.ddt
+textures/world\ a\ farm\ cabbage03_nm.ddt
+textures/world\ a\ farm\ cabbage03_spec.ddt
+textures/world\ a\ farm\ cabbage04.ddt
+textures/world\ a\ farm\ cabbage04_gloss.ddt
+textures/world\ a\ farm\ cabbage04_nm.ddt
+textures/world\ a\ farm\ cabbage04_spec.ddt
+textures/world\ a\ farm\ fertile\ plants.ddt
+textures/world\ a\ farm\ fertile\ plants_gloss.ddt
+textures/world\ a\ farm\ fertile\ plants_nm.ddt
+textures/world\ a\ farm\ fertile\ plants_spec.ddt
+textures/world\ a\ farm\ ground\ map.ddt
+textures/world\ a\ farm\ plants\ map.ddt
+textures/world\ a\ fence\ stone.ddt
+textures/world\ a\ fence\ wood.ddt
+textures/world\ a\ firewood\ large\ shadow.ddt
+textures/world\ a\ firewood\ medium\ shadow.ddt
+textures/world\ a\ firewood\ small\ shadow.ddt
+textures/world\ a\ firewood.ddt
+textures/world\ a\ flowers.ddt
+textures/world\ a\ fountain.ddt
+textures/world\ a\ gold\ bin.ddt
+textures/world\ a\ gold\ decal\ map.ddt
+textures/world\ a\ gold\ map.ddt
+textures/world\ a\ gold\ map_emissive.ddt
+textures/world\ a\ gold\ shadow\ map.ddt
+textures/world\ a\ grass\ decal\ map.ddt
+textures/world\ a\ grass\ map.ddt
+textures/world\ a\ grass\ shadow\ map.ddt
+textures/world\ a\ grassbrown\ shadow.ddt
+textures/world\ a\ grassbrown.ddt
+textures/world\ a\ ground\ debris\ large.ddt
+textures/world\ a\ ground\ debris\ medium.ddt
+textures/world\ a\ ground\ debris\ small.ddt
+textures/world\ a\ iron\ fence.ddt
+textures/world\ a\ jade\ decal\ map.ddt
+textures/world\ a\ jade\ map.ddt
+textures/world\ a\ jade\ map_emissive.ddt
+textures/world\ a\ papyrus\ shadow\ map.ddt
+textures/world\ a\ papyrus.ddt
+textures/world\ a\ props\ 1.ddt
+textures/world\ a\ raft.ddt
+textures/world\ a\ reeds\ decal\ map.ddt
+textures/world\ a\ reeds\ map.ddt
+textures/world\ a\ reeds\ shadow\ map.ddt
+textures/world\ a\ relic\ armor\ of\ achilles.ddt
+textures/world\ a\ relic\ arrows\ of\ the\ alfar.ddt
+textures/world\ a\ relic\ eye\ of\ horus.ddt
+textures/world\ a\ relic\ fetters\ of\ fenrir.ddt
+textures/world\ a\ relic\ golden\ bridle\ of\ pegasus.ddt
+textures/world\ a\ relic\ head\ of\ orpheus.ddt
+textures/world\ a\ relic\ kithara\ of\ apollo.ddt
+textures/world\ a\ relic\ monkey.ddt
+textures/world\ a\ relic\ ring\ of\ the\ nibelung.ddt
+textures/world\ a\ relic\ ship\ of\ fingernails.ddt
+textures/world\ a\ relic\ standard.ddt
+textures/world\ a\ relic\ the\ wedjat\ eye.ddt
+textures/world\ a\ repeat\ map.ddt
+textures/world\ a\ riverrocks\ decal\ map.ddt
+textures/world\ a\ riverrocks\ map.ddt
+textures/world\ a\ riverrocks\ shadow\ map.ddt
+textures/world\ a\ road\ 4\ intersection.ddt
+textures/world\ a\ road\ corner.ddt
+textures/world\ a\ road\ end.ddt
+textures/world\ a\ road\ straight.ddt
+textures/world\ a\ road\ t\ section.ddt
+textures/world\ a\ roasting\ pig.ddt
+textures/world\ a\ rock\ sprite\ brown\ a.ddt
+textures/world\ a\ rock\ sprite\ brown\ b.ddt
+textures/world\ a\ rock\ sprite\ brown\ c.ddt
+textures/world\ a\ rock\ sprite\ brown\ d.ddt
+textures/world\ a\ rock\ sprite\ brown\ e.ddt
+textures/world\ a\ rock\ sprite\ dirt\ a.ddt
+textures/world\ a\ rock\ sprite\ dirt\ b.ddt
+textures/world\ a\ rock\ sprite\ dirt\ c.ddt
+textures/world\ a\ rock\ sprite\ dirt\ d.ddt
+textures/world\ a\ rock\ sprite\ dirt\ e.ddt
+textures/world\ a\ rock\ sprite\ dkgrey\ snow\ a.ddt
+textures/world\ a\ rock\ sprite\ dkgrey\ snow\ b.ddt
+textures/world\ a\ rock\ sprite\ dkgrey\ snow\ c.ddt
+textures/world\ a\ rock\ sprite\ dkgrey\ snow\ d.ddt
+textures/world\ a\ rock\ sprite\ dkgrey\ snow\ e.ddt
+textures/world\ a\ rock\ sprite\ grey\ a.ddt
+textures/world\ a\ rock\ sprite\ grey\ b.ddt
+textures/world\ a\ rock\ sprite\ grey\ c.ddt
+textures/world\ a\ rock\ sprite\ grey\ d.ddt
+textures/world\ a\ rock\ sprite\ grey\ e.ddt
+textures/world\ a\ rock\ sprite\ overgrown\ a.ddt
+textures/world\ a\ rock\ sprite\ overgrown\ b.ddt
+textures/world\ a\ rock\ sprite\ overgrown\ c.ddt
+textures/world\ a\ rock\ sprite\ overgrown\ d.ddt
+textures/world\ a\ rock\ sprite\ overgrown\ e.ddt
+textures/world\ a\ rock\ sprites\ map.ddt
+textures/world\ a\ rocks\ decal\ map.ddt
+textures/world\ a\ rocks\ map.ddt
+textures/world\ a\ rocks\ map2.ddt
+textures/world\ a\ rocks\ shadow\ map.ddt
+textures/world\ a\ rocks\ underworld.ddt
+textures/world\ a\ rotting\ log\ shadow.ddt
+textures/world\ a\ rottinglog\ shadow.ddt
+textures/world\ a\ rottinglog.ddt
+textures/world\ a\ seaweed\ decal.ddt
+textures/world\ a\ seaweed\ shadow.ddt
+textures/world\ a\ seaweed.ddt
+textures/world\ a\ sign.ddt
+textures/world\ a\ skeleton.ddt
+textures/world\ a\ stalagmite.ddt
+textures/world\ a\ stick\ shadow\ map.ddt
+textures/world\ a\ stone\ blocks\ shadow.ddt
+textures/world\ a\ stone\ blocks.ddt
+textures/world\ a\ tamarisk\ branch.ddt
+textures/world\ a\ tamarisk\ tree\ decal.ddt
+textures/world\ a\ tamarisk\ tree\ leaf.ddt
+textures/world\ a\ tamarisk\ tree\ light\ wood.ddt
+textures/world\ a\ tamarisk\ tree\ shadow.ddt
+textures/world\ a\ tamarisk\ tree.ddt
+textures/world\ a\ tanrack.ddt
+textures/world\ a\ taproot\ decal.ddt
+textures/world\ a\ taproot\ insides.ddt
+textures/world\ a\ taproot\ large\ decal.ddt
+textures/world\ a\ taproot\ large\ shadow.ddt
+textures/world\ a\ taproot\ large.ddt
+textures/world\ a\ taproot\ shadow.ddt
+textures/world\ a\ taproot\ small\ decal.ddt
+textures/world\ a\ taproot\ small\ shadow.ddt
+textures/world\ a\ tents\ map.ddt
+textures/world\ a\ tree\ roots\ map.ddt
+textures/world\ a\ tsunami\ range\ indicator.ddt
+textures/world\ a\ tunnel\ decal.ddt
+textures/world\ a\ tunnel\ shadow.ddt
+textures/world\ a\ underworld\ crator.ddt
+textures/world\ a\ underworld\ decal\ shadow\ map.ddt
+textures/world\ a\ underworld\ passage\ color\ transform.ddt
+textures/world\ a\ underworld\ passage\ crator.ddt
+textures/world\ a\ underworld\ passage\ rock.ddt
+textures/world\ a\ underworld\ rock.ddt
+textures/world\ a\ underworld\ rocks\ decal\ map.ddt
+textures/world\ a\ underworld\ rocks\ shadow\ map.ddt
+textures/world\ a\ waterfall\ blue\ water.ddt
+textures/world\ a\ waterfall\ rocks\ limestone.ddt
+textures/world\ a\ waterfall\ top\ water.ddt
+textures/world\ a\ waterfall\ white\ water.ddt
+textures/world\ a\ waterlilly\ shadow.ddt
+textures/world\ a\ waypoint\ flag.ddt
+textures/world\ c\ bamboo\ tree\ burnt.ddt
+textures/world\ c\ bamboo\ tree.ddt
+textures/world\ c\ dam.ddt
+textures/world\ c\ flag.ddt
+textures/world\ c\ jungle\ palm\ burnt.ddt
+textures/world\ c\ jungle\ palm.ddt
+textures/world\ c\ jungle\ tree\ burnt.ddt
+textures/world\ c\ jungle\ tree.ddt
+textures/world\ c\ statue\ fuxi\ head.ddt
+textures/world\ c\ statue\ fuxi.ddt
+textures/world\ c\ statue\ nuwa\ stand.ddt
+textures/world\ c\ statue\ nuwa.ddt
+textures/world\ c\ statue\ shennong\ head.ddt
+textures/world\ c\ statue\ shennong.ddt
+textures/world\ e\ brazier\ map.ddt
+textures/world\ e\ catapult\ broken\ shadow\ map.ddt
+textures/world\ e\ column.ddt
+textures/world\ e\ flag.ddt
+textures/world\ e\ fountain\ spray\ map.ddt
+textures/world\ e\ fountain.ddt
+textures/world\ e\ garrison\ flag.ddt
+textures/world\ e\ milestone.ddt
+textures/world\ e\ palm\ burnt.ddt
+textures/world\ e\ palm\ decal\ map.ddt
+textures/world\ e\ palm\ map.ddt
+textures/world\ e\ palm\ mapb.ddt
+textures/world\ e\ palm\ shadow\ map.ddt
+textures/world\ e\ palm\ sprite\ map.ddt
+textures/world\ e\ palm\ stump\ decal\ map.ddt
+textures/world\ e\ palm\ stump\ shadow\ map.ddt
+textures/world\ e\ rugs.ddt
+textures/world\ e\ savannah\ burnt\ map.ddt
+textures/world\ e\ savannah\ map.ddt
+textures/world\ e\ statue\ anubite\ base.ddt
+textures/world\ e\ statue\ anubite.ddt
+textures/world\ e\ statue\ isis\ sprite.ddt
+textures/world\ e\ statue\ isis.ddt
+textures/world\ e\ statue\ ra\ sprite.ddt
+textures/world\ e\ statue\ ra.ddt
+textures/world\ e\ statue\ set\ sprite.ddt
+textures/world\ e\ statue\ set.ddt
+textures/world\ e\ tent\ shadow\ map.ddt
+textures/world\ e\ tent.ddt
+textures/world\ e\ torch.ddt
+textures/world\ e\ weapons\ 1\ shadow\ map.ddt
+textures/world\ e\ weapons\ 2\ shadow\ map.ddt
+textures/world\ e\ weapons\ 3\ shadow\ map.ddt
+textures/world\ e\ weapons\ 4\ shadow\ map.ddt
+textures/world\ g\ aspen\ burnt\ map.ddt
+textures/world\ g\ aspen.ddt
+textures/world\ g\ brazier\ map.ddt
+textures/world\ g\ column.ddt
+textures/world\ g\ flag.ddt
+textures/world\ g\ fountain.ddt
+textures/world\ g\ garrison\ flag.ddt
+textures/world\ g\ hades\ temple.ddt
+textures/world\ g\ helmet\ map.ddt
+textures/world\ g\ milestone.ddt
+textures/world\ g\ oak\ burnt.ddt
+textures/world\ g\ oak\ cinematic\ map.ddt
+textures/world\ g\ oak\ decal\ map.ddt
+textures/world\ g\ oak\ mapb.ddt
+textures/world\ g\ oak\ shadow\ map.ddt
+textures/world\ g\ oak\ sprite\ b.ddt
+textures/world\ g\ oak\ sprite\ map.ddt
+textures/world\ g\ oak\ stump\ burnt\ decal\ map.ddt
+textures/world\ g\ oak\ stump\ burnt\ shadow\ map.ddt
+textures/world\ g\ oak\ stump\ decal\ map.ddt
+textures/world\ g\ oak\ stump\ shadow\ map.ddt
+textures/world\ g\ oaktree\ all\ map.ddt
+textures/world\ g\ petrobolos\ broken\ shadow\ map.ddt
+textures/world\ g\ shrine\ map.ddt
+textures/world\ g\ statue\ base.ddt
+textures/world\ g\ statue\ chimera\ tail.ddt
+textures/world\ g\ statue\ chimera.ddt
+textures/world\ g\ statue\ colossus\ base.ddt
+textures/world\ g\ statue\ colossus.ddt
+textures/world\ g\ statue\ cyclops.ddt
+textures/world\ g\ statue\ hades\ sprite.ddt
+textures/world\ g\ statue\ hades.ddt
+textures/world\ g\ statue\ hydra.ddt
+textures/world\ g\ statue\ minotaur\ axe.ddt
+textures/world\ g\ statue\ minotaur.ddt
+textures/world\ g\ statue\ poseidon\ base.ddt
+textures/world\ g\ statue\ poseidon\ sprite.ddt
+textures/world\ g\ statue\ poseidon\ trident.ddt
+textures/world\ g\ statue\ poseidon.ddt
+textures/world\ g\ statue\ zeus\ seated.ddt
+textures/world\ g\ statue\ zeus\ sprite.ddt
+textures/world\ g\ statue\ zeus.ddt
+textures/world\ g\ tent\ shadow\ map.ddt
+textures/world\ g\ tent.ddt
+textures/world\ g\ torch.ddt
+textures/world\ g\ weapons\ 1\ shadow\ map.ddt
+textures/world\ g\ weapons\ 2\ shadow\ map.ddt
+textures/world\ g\ weapons\ 3\ shadow\ map.ddt
+textures/world\ g\ weapons\ 4\ shadow\ map.ddt
+textures/world\ g\ zues\ uwpassage\ shadow.ddt
+textures/world\ g\ zues\ uwpassage.ddt
+textures/world\ g\ zuesstairs.ddt
+textures/world\ m\ marsh\ stump\ decal.ddt
+textures/world\ m\ marsh\ stump\ shadow.ddt
+textures/world\ m\ marsh\ tree\ burnt\ map.ddt
+textures/world\ m\ marsh\ tree\ decal.ddt
+textures/world\ m\ marsh\ tree\ shadow.ddt
+textures/world\ m\ marsh\ tree.ddt
+textures/world\ n\ ballista\ broken\ shadow\ map.ddt
+textures/world\ n\ brazier\ map.ddt
+textures/world\ n\ column.ddt
+textures/world\ n\ flag.ddt
+textures/world\ n\ fountain.ddt
+textures/world\ n\ garrison\ flag.ddt
+textures/world\ n\ loki\ statue\ map.ddt
+textures/world\ n\ milestone.ddt
+textures/world\ n\ odin\ statue\ antlers\ map.ddt
+textures/world\ n\ odin\ statue\ map.ddt
+textures/world\ n\ pine\ burnt.ddt
+textures/world\ n\ pine\ decal\ map.ddt
+textures/world\ n\ pine\ map.ddt
+textures/world\ n\ pine\ map2\ dead\ tree.ddt
+textures/world\ n\ pine\ map2.ddt
+textures/world\ n\ pine\ map2snow.ddt
+textures/World\ N\ Pine\ Shadow\ map.ddt
+textures/world\ n\ pine\ sprite\ b.ddt
+textures/world\ n\ pine\ sprite.ddt
+textures/world\ n\ pine\ stump\ decal\ map.ddt
+textures/world\ n\ pine\ stump\ shadow\ map.ddt
+textures/world\ n\ ram\ broken\ shadow\ map.ddt
+textures/world\ n\ rocksnow\ map.ddt
+textures/world\ n\ rocksymbols\ grass\ map.ddt
+textures/world\ n\ rocksymbols\ map.ddt
+textures/world\ n\ rocksymbols\ shadow\ map.ddt
+textures/world\ n\ runestone\ map.ddt
+textures/world\ n\ runestone\ shadow\ map.ddt
+textures/world\ n\ statue\ loki\ sprite.ddt
+textures/world\ n\ statue\ loki.ddt
+textures/world\ n\ statue\ mountain\ giant\ base.ddt
+textures/world\ n\ statue\ mountain\ giant\ club.ddt
+textures/world\ n\ statue\ mountain\ giant\ head.ddt
+textures/world\ n\ statue\ mountain\ giant.ddt
+textures/world\ n\ statue\ odin\ sprite.ddt
+textures/world\ n\ statue\ odin.ddt
+textures/world\ n\ statue\ shadow\ map.ddt
+textures/world\ n\ statue\ thor\ sprite.ddt
+textures/world\ n\ statue\ thor.ddt
+textures/world\ n\ statue\ tree\ stump.ddt
+textures/world\ n\ tent\ shadow\ map.ddt
+textures/world\ n\ tent.ddt
+textures/world\ n\ thor\ statue\ map.ddt
+textures/world\ n\ torch.ddt
+textures/world\ n\ tree\ all\ map.ddt
+textures/world\ n\ tree\ burning\ map.ddt
+textures/world\ n\ tree\ roots\ map.ddt
+textures/world\ n\ weapons\ 1\ shadow\ map.ddt
+textures/world\ n\ weapons\ 2\ shadow\ map.ddt
+textures/world\ n\ weapons\ 3\ shadow\ map.ddt
+textures/world\ n\ weapons\ 4\ shadow\ map.ddt
+textures/world\ n\ well\ of\ urd\ ground\ map\ b.ddt
+textures/world\ n\ well\ of\ urd\ ground\ map.ddt
+textures/world\ n\ well\ of\ urd\ runes\ map.ddt
+textures/world\ n\ well\ of\ urd.ddt
+textures/world\ t\ tundra\ burnt\ map.ddt
+textures/world\ t\ tundra\ stump\ decal.ddt
+textures/world\ t\ tundra\ stump\ shadow.ddt
+textures/world\ t\ tundra\ tree\ decal.ddt
+textures/world\ t\ tundra\ tree\ shadow.ddt
+textures/world\ t\ tundra\ tree.ddt
+textures/world\ x\ column\ brokena\ shadow.ddt
+textures/world\ x\ column\ brokenb\ shadow.ddt
+textures/world\ x\ column\ brokenc\ shadow.ddt
+textures/world\ x\ column\ brokend\ shadow.ddt
+textures/world\ x\ column\ fallen\ shadow.ddt
+textures/world\ x\ column\ shadow.ddt
+textures/world\ x\ column.ddt
+textures/world\ x\ earth\ 01.ddt
+textures/world\ x\ earth\ 02.ddt
+textures/world\ x\ earth\ 03.ddt
+textures/world\ x\ earth\ 04.ddt
+textures/world\ x\ earth\ map.ddt
+textures/world\ x\ gaia\ \ statue\ map.ddt
+textures/world\ x\ lava\ pit.ddt
+textures/world\ x\ stars\ map.ddt
+textures/world\ x\ statue\ gaia\ sprite.ddt
+textures/world\ x\ statue\ kronos\ sprite.ddt
+textures/world\ x\ statue\ oranos\ sprite.ddt
+textures/world\ x\ volcano\ lava.ddt
+textures/world\ x\ volcano.ddt
+
+
