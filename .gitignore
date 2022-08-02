@@ -35,7 +35,7 @@ shaders/
 sound/
 startup/
 steam/
-textures/
+# textures/
 # tools I developed
 # tools/
 trigger2/
@@ -2895,6 +2895,7 @@ textures/special\ e\ vulture\ map.ddt
 textures/special\ e\ wadjet\ corpse\ bodya.ddt
 textures/special\ e\ wadjet\ corpse\ skeletona.ddt
 textures/special\ e\ wadjet.ddt
+textures/special\ e\ anubite\[pixelxform1\].ddt
 textures/special\ g\ agamemnon\ head\ statue.ddt
 textures/special\ g\ agamemnon\ head.ddt
 textures/special\ g\ agamemnon\ statue.ddt
