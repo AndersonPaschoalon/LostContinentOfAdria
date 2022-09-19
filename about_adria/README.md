@@ -28,11 +28,11 @@ To uninstall, just execute the script "LostContinentOfAdria.uninstall.bat" (take
 
 ## Campaign and Gameplay
 
-![Adria](./img/Screenshot_1.bmp)
+![Adria](./img/Screenshot_1.jpg)
 
 * In the main campaign, will control the **Nords**. 
 
-![Adria](./img/Screenshot_4.bmp)
+![Adria](./img/Screenshot_4.jpg)
 
 * On each quest of the main Campaign you will have to defeat one or two armies of a rival race.
 
@@ -46,9 +46,9 @@ To uninstall, just execute the script "LostContinentOfAdria.uninstall.bat" (take
     * Protect your close-combat unitys using **long-range units**;
     * **Avoid close-combat** until it is strictly necessary.
 
-![Adria](./img/Screenshot_3.bmp)
+![Adria](./img/Screenshot_3.jpg)
 
-![Adria](./img/Screenshot_9.bmp)
+![Adria](./img/Screenshot_9.jpg)
 
 * You don't have to kill every single unity of your enemy to defeat its army. Instead, you will have to defeat the leader of each settlement. This unity should be close to its city setlement. The only exception for this rule is the Troll's race. You will have to defeat both the Shaman Troll and its "pet" of each settlement. The Shaman "pet" will be a powerfull mythical beast, such as a giant beatle or a dragon.
 
@@ -58,28 +58,28 @@ The Lost Continent of Adria has six major regions, each one of which is inhabite
 
 
 * **Nordic Taiga**: the northern region of the continent, the homeland of the Nords. If full of snowy mountains and pine forests. Their capital is hidden on a hill in the middle of the forest. The wildlife is composed mainly of deer, bears, and wolves.
-> ![Adria](./img/Screenshot_6.bmp)
+> ![Adria](./img/Screenshot_6.jpg)
 
 
 * **Central Desert**: homeland of the Bedouins, the Central desert is a harsh land with few trees and dry weather.  But the land is rich in minerals, and some oases with palm trees and fish can be found. The Bedouin's capital is the have the stronger fortifications on the whole continent. 
-> ![Adria](./img/Screenshot_2.bmp)
+> ![Adria](./img/Screenshot_2.jpg)
 
 
 * **South Savannah**: homeland of the Werejackals, is a vast savannah with plenty of natural resources. Their capital is a farm city close to the sea. The wildlife is composed of savannah animals like Giraffes, Gazelles, and Lions, but also Nemea Lions. 
-> ![Adria](./img/Screenshot_8.bmp)
+> ![Adria](./img/Screenshot_8.jpg)
 
 
 * **Rock Valey**: The most mysterious and secluded land of the continent. It is a misty land surrounded by the western sea and the fire mountains at the east. Dense fogs fill its pine-dark forest, and the wildlife is mostly composed of mysterious mythical creatures. Its wildlife includes giant scrabs, flying serpents,  walking trees, manticores, chimeras, and dragons.  This is the homeland of the Trolls. Each clan leader of each settlement wons a pet, a faithful beast from the wilds.
-> ![Adria](./img/Screenshot_10.bmp)
-> ![Adria](./img/Screenshot_11.bmp)
+> ![Adria](./img/Screenshot_10.jpg)
+> ![Adria](./img/Screenshot_11.jpg)
 
 
 * **Oak Forest**: An oak forest surrounded in the west by the Rock Mountains. It is inhabited by the Cyclops, the stronger race of the continent. They have only one main city close to the sea and the Savannah. The wildlife is composed mainly by deer and boars.
-> ![Adria](./img/Screenshot_13.bmp)
+> ![Adria](./img/Screenshot_13.jpg)
 
 
 * **Palm Isthmus**: A small portion of land in the south, inhabited by the Cretans. They are fewer in number but have the stronger navy army on the continent. In the forest, dryads can be found, and in the sea Krakens, Leviathans, Carcinos, and Wales can be seen. 
-> ![Adria](./img/Screenshot_12.bmp)
+> ![Adria](./img/Screenshot_12.jpg)
 
 
 ## Random Maps
@@ -88,33 +88,33 @@ This mod includes some new random maps as well, not related to the campaign, but
 
 
 * **Arabian Desert**: A large desert with hidden treasures and bandit camps and scarce wood.
-> ![Adria](./img/Screenshot_14.bmp)
+> ![Adria](./img/Screenshot_14.jpg)
 
 
 * **Elysius Camps**: A miraculous and brilliant land, with plenty of resources available, but you will have to fight for it.
-> ![Adria](./img/Screenshot_20.bmp)
+> ![Adria](./img/Screenshot_20.jpg)
 
 
 * **Guardians' Valley**: Each player starts with a Guardian in the Valley of the Kings.
-> ![Adria](./img/Screenshot_21.bmp)
+> ![Adria](./img/Screenshot_21.jpg)
 
 
 * **Guardians' Megalopolis**: Each player starts with a Guardian in a Savanna megalopolis.
-> ![Adria](./img/Screenshot_15.bmp)
+> ![Adria](./img/Screenshot_15.jpg)
 
 
 * **One Settlement**: All players start with one settlement and some small villages. But there are no other settlements available.
-> ![Adria](./img/Screenshot_16.bmp)
+> ![Adria](./img/Screenshot_16.jpg)
 
 
 * **Ragnarock**: A Battle Royale among the gods in a nordic apocalyptic World.
-> ![Adria](./img/Screenshot_19.bmp)
+> ![Adria](./img/Screenshot_19.jpg)
 
 
 * **Sahara Desert**: All resources are hard to be found on this map, especially wood.
-> ![Adria](./img/Screenshot_18.bmp)
+> ![Adria](./img/Screenshot_18.jpg)
 
 
 * **Starting Army**: Each player starts with a huge army.
-> ![Adria](./img/Screenshot_17.bmp)
+> ![Adria](./img/Screenshot_17.jpg)
 
